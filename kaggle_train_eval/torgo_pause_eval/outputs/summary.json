@@ -1,0 +1,403 @@
+{
+  "mode": "fixed",
+  "smoke_test": false,
+  "tau": 0.3,
+  "tau_selection": "auto",
+  "n_utterances": 16552,
+  "ctc_failures": 17,
+  "candidate_set": 570,
+  "llm_set": 365,
+  "table1": [
+    {
+      "system": "Zero-shot Whisper-tiny",
+      "speakers": "all",
+      "n": 1655,
+      "WER": 1.5167348904406452,
+      "CER": 1.2945584725536994,
+      "MER": 0.6866143448877262,
+      "ref_words": 4153
+    },
+    {
+      "system": "Zero-shot Whisper-tiny",
+      "speakers": "dysarthric",
+      "n": 535,
+      "WER": 3.8465869106263195,
+      "CER": 3.478524151527954,
+      "MER": 0.882182052937379,
+      "ref_words": 1421
+    },
+    {
+      "system": "Zero-shot Whisper-tiny",
+      "speakers": "healthy",
+      "n": 1120,
+      "WER": 0.304904831625183,
+      "CER": 0.17474185861795075,
+      "MER": 0.27971793149764945,
+      "ref_words": 2732
+    },
+    {
+      "system": "Fine-tuned Whisper-tiny",
+      "speakers": "all",
+      "n": 1655,
+      "WER": 0.18757524680953527,
+      "CER": 0.12949880668257757,
+      "MER": 0.18403023860146467,
+      "ref_words": 4153
+    },
+    {
+      "system": "Fine-tuned Whisper-tiny",
+      "speakers": "dysarthric",
+      "n": 535,
+      "WER": 0.3448275862068966,
+      "CER": 0.2893958597380651,
+      "MER": 0.32952252858103565,
+      "ref_words": 1421
+    },
+    {
+      "system": "Fine-tuned Whisper-tiny",
+      "speakers": "healthy",
+      "n": 1120,
+      "WER": 0.10578330893118594,
+      "CER": 0.04751245577298,
+      "MER": 0.10524399126001456,
+      "ref_words": 2732
+    },
+    {
+      "system": "+ pause-guided LLM",
+      "speakers": "all",
+      "n": 1655,
+      "WER": 0.1873344570190224,
+      "CER": 0.12949880668257757,
+      "MER": 0.1838374291115312,
+      "ref_words": 4153
+    },
+    {
+      "system": "+ pause-guided LLM",
+      "speakers": "dysarthric",
+      "n": 535,
+      "WER": 0.34412385643912735,
+      "CER": 0.2893958597380651,
+      "MER": 0.32907133243607,
+      "ref_words": 1421
+    },
+    {
+      "system": "+ pause-guided LLM",
+      "speakers": "healthy",
+      "n": 1120,
+      "WER": 0.10578330893118594,
+      "CER": 0.04751245577298,
+      "MER": 0.10524399126001456,
+      "ref_words": 2732
+    }
+  ],
+  "table2": [
+    {
+      "set": "all",
+      "threshold": 0.1,
+      "markers": 962,
+      "reliability": 0.6756756756756757,
+      "random_reliability": 0.6368150271996426,
+      "p_value": 0.0004997501249375312,
+      "marker_coverage": 0.7898193760262726,
+      "error_coverage": 0.6388373531230674,
+      "random_error_coverage": 0.6095970933828077,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.0004997501249375312
+    },
+    {
+      "set": "all",
+      "threshold": 0.2,
+      "markers": 773,
+      "reliability": 0.6985769728331177,
+      "random_reliability": 0.6546510697869041,
+      "p_value": 0.0004997501249375312,
+      "marker_coverage": 0.6346469622331691,
+      "error_coverage": 0.5677179962894249,
+      "random_error_coverage": 0.5308812615955474,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.0004997501249375312
+    },
+    {
+      "set": "all",
+      "threshold": 0.3,
+      "markers": 599,
+      "reliability": 0.7178631051752922,
+      "random_reliability": 0.670270394602615,
+      "p_value": 0.0004997501249375312,
+      "marker_coverage": 0.4917898193760263,
+      "error_coverage": 0.4675324675324675,
+      "random_error_coverage": 0.4442359307359307,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.0009995002498750624
+    },
+    {
+      "set": "all",
+      "threshold": 0.4,
+      "markers": 504,
+      "reliability": 0.7043650793650794,
+      "random_reliability": 0.6634631351893256,
+      "p_value": 0.0004997501249375312,
+      "marker_coverage": 0.41379310344827586,
+      "error_coverage": 0.40321583178726034,
+      "random_error_coverage": 0.38387755102040816,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.009995002498750625
+    },
+    {
+      "set": "all",
+      "threshold": 0.5,
+      "markers": 411,
+      "reliability": 0.7226277372262774,
+      "random_reliability": 0.6789281008259109,
+      "p_value": 0.001999000499750125,
+      "marker_coverage": 0.3374384236453202,
+      "error_coverage": 0.3494124922696351,
+      "random_error_coverage": 0.3310992578849722,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.006496751624187906
+    },
+    {
+      "set": "all",
+      "threshold": 0.6,
+      "markers": 317,
+      "reliability": 0.7570977917981072,
+      "random_reliability": 0.7158255957151856,
+      "p_value": 0.004997501249375313,
+      "marker_coverage": 0.2602627257799672,
+      "error_coverage": 0.2826221397649969,
+      "random_error_coverage": 0.2744734075448362,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.04247876061969016
+    },
+    {
+      "set": "all",
+      "threshold": 0.7,
+      "markers": 260,
+      "reliability": 0.7769230769230769,
+      "random_reliability": 0.7325043973120896,
+      "p_value": 0.005497251374312844,
+      "marker_coverage": 0.2134646962233169,
+      "error_coverage": 0.23562152133580705,
+      "random_error_coverage": 0.23655256648113793,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.07446276861569215
+    },
+    {
+      "set": "all",
+      "threshold": 0.8,
+      "markers": 211,
+      "reliability": 0.7630331753554502,
+      "random_reliability": 0.72808728922473,
+      "p_value": 0.04047976011994003,
+      "marker_coverage": 0.17323481116584566,
+      "error_coverage": 0.19480519480519481,
+      "random_error_coverage": 0.1957569573283859,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.16891554222888555
+    },
+    {
+      "set": "all",
+      "threshold": 0.9,
+      "markers": 158,
+      "reliability": 0.8227848101265823,
+      "random_reliability": 0.757576495234723,
+      "p_value": 0.0024987506246876563,
+      "marker_coverage": 0.1297208538587849,
+      "error_coverage": 0.16512059369202226,
+      "random_error_coverage": 0.1596144094001237,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.02348825587206397
+    },
+    {
+      "set": "all",
+      "threshold": 1.0,
+      "markers": 127,
+      "reliability": 0.8503937007874016,
+      "random_reliability": 0.7881035412531474,
+      "p_value": 0.005497251374312844,
+      "marker_coverage": 0.10426929392446634,
+      "error_coverage": 0.14162028447742733,
+      "random_error_coverage": 0.1378017934446506,
+      "n_utterances": 570,
+      "n_errors": 1617,
+      "p_value_one_mic": 0.029985007496251874
+    }
+  ],
+  "table3": [
+    {
+      "set": "pause: all",
+      "utterances": 363,
+      "distinct_recordings": 253,
+      "ref_words": 2959,
+      "errors_before": 1177,
+      "errors_after": 1169,
+      "wer_before": 0.39776951672862454,
+      "wer_after": 0.39506590064210884,
+      "S_before": 827,
+      "S_after": 815,
+      "D_before": 65,
+      "D_after": 73,
+      "I_before": 285,
+      "I_after": 281,
+      "changed": 86,
+      "improved": 24,
+      "worsened": 18,
+      "sign_test_p": 0.44079906734259566,
+      "delta_wer_ci_low": -0.005798771473855464,
+      "delta_wer_ci_high": 0.008233532934131737
+    },
+    {
+      "set": "pause: dysarthric",
+      "utterances": 360,
+      "distinct_recordings": 250,
+      "ref_words": 2933,
+      "errors_before": 1158,
+      "errors_after": 1149,
+      "wer_before": 0.39481759290828505,
+      "wer_after": 0.3917490623934538,
+      "S_before": 816,
+      "S_after": 803,
+      "D_before": 65,
+      "D_after": 73,
+      "I_before": 277,
+      "I_after": 273,
+      "changed": 85,
+      "improved": 24,
+      "worsened": 17,
+      "sign_test_p": 0.34888887944907765,
+      "delta_wer_ci_low": -0.005083366398452607,
+      "delta_wer_ci_high": 0.008566193513268167
+    },
+    {
+      "set": "pause: test split",
+      "utterances": 35,
+      "distinct_recordings": 31,
+      "ref_words": 269,
+      "errors_before": 121,
+      "errors_after": 120,
+      "wer_before": 0.44981412639405205,
+      "wer_after": 0.44609665427509293,
+      "S_before": 93,
+      "S_after": 93,
+      "D_before": 5,
+      "D_after": 5,
+      "I_before": 23,
+      "I_after": 22,
+      "changed": 7,
+      "improved": 1,
+      "worsened": 0,
+      "sign_test_p": 1.0,
+      "delta_wer_ci_low": 0.0,
+      "delta_wer_ci_high": 0.008571428571428572
+    }
+  ],
+  "wer_by_split": [
+    {
+      "split": "train",
+      "speakers": "all",
+      "n": 13239,
+      "WER_punct_deleted": 0.1876105663998081,
+      "WER_punct_to_space": 0.22533057479535845
+    },
+    {
+      "split": "train",
+      "speakers": "dysarthric",
+      "n": 4493,
+      "WER_punct_deleted": 0.34146341463414637,
+      "WER_punct_to_space": 0.43416434164341644
+    },
+    {
+      "split": "train",
+      "speakers": "healthy",
+      "n": 8746,
+      "WER_punct_deleted": 0.11074640287769784,
+      "WER_punct_to_space": 0.12099820143884892
+    },
+    {
+      "split": "val",
+      "speakers": "all",
+      "n": 1656,
+      "WER_punct_deleted": 0.17847091932457787,
+      "WER_punct_to_space": 0.17847091932457787
+    },
+    {
+      "split": "val",
+      "speakers": "dysarthric",
+      "n": 544,
+      "WER_punct_deleted": 0.336676217765043,
+      "WER_punct_to_space": 0.336676217765043
+    },
+    {
+      "split": "val",
+      "speakers": "healthy",
+      "n": 1112,
+      "WER_punct_deleted": 0.10146443514644352,
+      "WER_punct_to_space": 0.10146443514644352
+    },
+    {
+      "split": "test",
+      "speakers": "all",
+      "n": 1655,
+      "WER_punct_deleted": 0.18757524680953527,
+      "WER_punct_to_space": 0.34697808812906333
+    },
+    {
+      "split": "test",
+      "speakers": "dysarthric",
+      "n": 535,
+      "WER_punct_deleted": 0.3448275862068966,
+      "WER_punct_to_space": 0.8106966924700915
+    },
+    {
+      "split": "test",
+      "speakers": "healthy",
+      "n": 1120,
+      "WER_punct_deleted": 0.10578330893118594,
+      "WER_punct_to_space": 0.10578330893118594
+    }
+  ],
+  "utterance_level": [
+    {
+      "set": "all multi-word",
+      "n": 4162,
+      "flagged": 359,
+      "wer_flagged": 0.3635752688172043,
+      "wer_unflagged": 0.12842751098318436,
+      "p_err_flagged": 0.7994428969359332,
+      "p_err_unflagged": 0.26505390481199054,
+      "auroc_pooled": 0.6461311179134688,
+      "auroc_within_speaker_mean": 0.5494564817945231
+    },
+    {
+      "set": "dysarthric",
+      "n": 1321,
+      "flagged": 356,
+      "wer_flagged": 0.36033898305084744,
+      "wer_unflagged": 0.3161884941281403,
+      "p_err_flagged": 0.797752808988764,
+      "p_err_unflagged": 0.49948186528497407,
+      "auroc_pooled": 0.6692952743866583,
+      "auroc_within_speaker_mean": 0.5708350236642734
+    },
+    {
+      "set": "dysarthric, test split",
+      "n": 143,
+      "flagged": 36,
+      "wer_flagged": 0.45195729537366547,
+      "wer_unflagged": 0.21390374331550802,
+      "p_err_flagged": 0.8055555555555556,
+      "p_err_unflagged": 0.5327102803738317,
+      "auroc_pooled": 0.6873725010199918,
+      "auroc_within_speaker_mean": 0.4470486111111111
+    }
+  ]
+}

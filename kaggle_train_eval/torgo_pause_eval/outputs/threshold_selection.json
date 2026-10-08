@@ -1,0 +1,32 @@
+{
+  "tau_manual": 0.7,
+  "tau_selected": 0.3,
+  "loso_heldout_markers": 618,
+  "loso_heldout_reliability": 0.7071197411003236,
+  "loso_heldout_random": 0.6610519963675303,
+  "loso_heldout_lift": 0.04606774473279329,
+  "loso_perm_p": 0.0009995002498750624,
+  "lift_differences": [
+    {
+      "tau_a": 0.3,
+      "tau_b": 0.1,
+      "lift_diff": 0.01100448119805934,
+      "ci_low": -0.002607460448142258,
+      "ci_high": 0.02443967948334301
+    },
+    {
+      "tau_a": 0.3,
+      "tau_b": 0.7,
+      "lift_diff": 0.003185278016498722,
+      "ci_low": -0.020952443267391326,
+      "ci_high": 0.02791630809699527
+    },
+    {
+      "tau_a": 0.3,
+      "tau_b": 1.1,
+      "lift_diff": -0.038014561466850644,
+      "ci_low": -0.09750176951852478,
+      "ci_high": 0.009931395017475924
+    }
+  ]
+}
