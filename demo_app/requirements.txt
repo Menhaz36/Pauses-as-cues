@@ -1,0 +1,36 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch
+
+numpy<2          # ctc-segmentation's prebuilt sources compile against NumPy 1.x
+scipy
+pandas
+pyarrow<26      # pyarrow 26 requires NumPy 2; Streamlit needs pyarrow for every chart/table
+
+soundfile
+librosa
+
+transformers
+accelerate
+safetensors
+tokenizers
+huggingface_hub
+packaging
+
+ctc-segmentation
+
+langchain-core
+langchain-groq
+
+jiwer
+python-dotenv
+
+# API and UI
+fastapi
+uvicorn
+python-multipart
+streamlit
+altair
+requests
+
+# The notebooks in notebooks/ install their own extras on Kaggle
+# (datasets, evaluate, scikit-learn, matplotlib, psutil).
