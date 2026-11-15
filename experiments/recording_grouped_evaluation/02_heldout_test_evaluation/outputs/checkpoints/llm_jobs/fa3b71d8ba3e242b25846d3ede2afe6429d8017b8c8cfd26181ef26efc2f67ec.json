@@ -1,0 +1,15 @@
+{
+  "job_hash": "fa3b71d8ba3e242b25846d3ede2afe6429d8017b8c8cfd26181ef26efc2f67ec",
+  "recording": "M04_2_0029",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 15,
+  "input_region": "WHEN HE [0.5s_pause] PEED HIS HEAD [0.5s_pause] HIS HEAD WAS [1.2s_pause] A BIT GLUGGLE [0.9s_pause] AND QUIT QUIT WITH",
+  "content": "WHEN HE [0.5s_pause] PEED HIS HEAD [0.5s_pause] HIS HEAD WAS [1.2s_pause] A BIT GLUGGLE [0.9s_pause] AND QUIT WITH",
+  "provider_id": "chatcmpl-e46f62c0-2290-4adf-a299-f7e585f3a662",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e5b4e54fbb",
+  "accepted": "WHEN HE [0.5s_pause] PEED HIS HEAD [0.5s_pause] HIS HEAD WAS [1.2s_pause] A BIT GLUGGLE [0.9s_pause] AND QUIT WITH",
+  "guard_reason": "accepted"
+}

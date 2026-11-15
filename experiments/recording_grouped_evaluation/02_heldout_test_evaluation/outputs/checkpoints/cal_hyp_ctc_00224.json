@@ -1,0 +1,915 @@
+[
+  {
+    "audio_name": "M03_2_headMic_0411.wav",
+    "recording": "M03_2_0411",
+    "speaker": "M03",
+    "reference": "dread",
+    "hypothesis": " Dread",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0030.wav",
+    "recording": "M04_1_0030",
+    "speaker": "M04",
+    "reference": "range",
+    "hypothesis": " then",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0040.wav",
+    "recording": "M04_1_0040",
+    "speaker": "M04",
+    "reference": "Grandfather likes to be modern in his language",
+    "hypothesis": " Grab better like to be my way language",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "GRAB",
+        "start": 8.407,
+        "end": 9.097,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.638
+      },
+      {
+        "word": "BETTER",
+        "start": 9.097,
+        "end": 9.837,
+        "duration": 0.741,
+        "pause_after": 0.0,
+        "confidence": -0.864
+      },
+      {
+        "word": "LIKE",
+        "start": 9.837,
+        "end": 10.378,
+        "duration": 0.54,
+        "pause_after": 0.0,
+        "confidence": -0.71
+      },
+      {
+        "word": "TO",
+        "start": 10.378,
+        "end": 10.518,
+        "duration": 0.14,
+        "pause_after": 0.0,
+        "confidence": -1.74
+      },
+      {
+        "word": "BE",
+        "start": 10.518,
+        "end": 10.998,
+        "duration": 0.48,
+        "pause_after": 0.0,
+        "confidence": -0.324
+      },
+      {
+        "word": "MY",
+        "start": 10.998,
+        "end": 11.198,
+        "duration": 0.2,
+        "pause_after": 0.0,
+        "confidence": -0.956
+      },
+      {
+        "word": "WAY",
+        "start": 11.198,
+        "end": 11.819,
+        "duration": 0.62,
+        "pause_after": 0.0,
+        "confidence": -0.296
+      },
+      {
+        "word": "LANGUAGE",
+        "start": 11.819,
+        "end": 12.399,
+        "duration": 0.58,
+        "pause_after": null,
+        "confidence": -0.237
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0045.wav",
+    "recording": "M04_1_0045",
+    "speaker": "M04",
+    "reference": "air",
+    "hypothesis": "air",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0048.wav",
+    "recording": "M04_1_0048",
+    "speaker": "M04",
+    "reference": "warm",
+    "hypothesis": " pork",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0050.wav",
+    "recording": "M04_1_0050",
+    "speaker": "M04",
+    "reference": "swore",
+    "hypothesis": " \"Swar\"",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0051.wav",
+    "recording": "M04_1_0051",
+    "speaker": "M04",
+    "reference": "knew",
+    "hypothesis": " new",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0055.wav",
+    "recording": "M04_1_0055",
+    "speaker": "M04",
+    "reference": "read ",
+    "hypothesis": "read",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0064.wav",
+    "recording": "M04_1_0064",
+    "speaker": "M04",
+    "reference": "he slowly takes a short walk in the open air each day",
+    "hypothesis": " He strongly did a turn walk in an open air he did",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 6.507,
+        "end": 7.037,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.519
+      },
+      {
+        "word": "STRONGLY",
+        "start": 7.037,
+        "end": 7.457,
+        "duration": 0.42,
+        "pause_after": 0.0,
+        "confidence": -1.825
+      },
+      {
+        "word": "DID",
+        "start": 7.457,
+        "end": 7.557,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -4.554
+      },
+      {
+        "word": "A",
+        "start": 7.557,
+        "end": 7.677,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -0.041
+      },
+      {
+        "word": "TURN",
+        "start": 7.677,
+        "end": 8.338,
+        "duration": 0.661,
+        "pause_after": 0.0,
+        "confidence": -0.899
+      },
+      {
+        "word": "WALK",
+        "start": 8.338,
+        "end": 8.958,
+        "duration": 0.621,
+        "pause_after": 0.0,
+        "confidence": -0.576
+      },
+      {
+        "word": "IN",
+        "start": 8.958,
+        "end": 9.018,
+        "duration": 0.06,
+        "pause_after": 0.0,
+        "confidence": -4.307
+      },
+      {
+        "word": "AN",
+        "start": 9.018,
+        "end": 9.119,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -1.637
+      },
+      {
+        "word": "OPEN",
+        "start": 9.119,
+        "end": 9.699,
+        "duration": 0.581,
+        "pause_after": 0.0,
+        "confidence": -0.518
+      },
+      {
+        "word": "AIR",
+        "start": 9.699,
+        "end": 9.899,
+        "duration": 0.2,
+        "pause_after": 0.0,
+        "confidence": -0.68
+      },
+      {
+        "word": "HE",
+        "start": 9.899,
+        "end": 9.959,
+        "duration": 0.06,
+        "pause_after": 0.0,
+        "confidence": -1.994
+      },
+      {
+        "word": "DID",
+        "start": 9.959,
+        "end": 10.039,
+        "duration": 0.08,
+        "pause_after": null,
+        "confidence": -5.557
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0090.wav",
+    "recording": "M04_1_0090",
+    "speaker": "M04",
+    "reference": "bit",
+    "hypothesis": " bit bit",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "BIT",
+        "start": 1.971,
+        "end": 2.702,
+        "duration": 0.731,
+        "pause_after": 0.032,
+        "confidence": -0.024
+      },
+      {
+        "word": "BIT",
+        "start": 2.734,
+        "end": 3.506,
+        "duration": 0.771,
+        "pause_after": null,
+        "confidence": -0.079
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_1_arrayMic_0099.wav",
+    "recording": "M04_1_0099",
+    "speaker": "M04",
+    "reference": "We have often urged him to walk more and smoke less",
+    "hypothesis": " We have often earned him two water, more and two-flat",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WE",
+        "start": 1.242,
+        "end": 1.862,
+        "duration": 0.62,
+        "pause_after": 0.001,
+        "confidence": -0.004
+      },
+      {
+        "word": "HAVE",
+        "start": 1.863,
+        "end": 2.673,
+        "duration": 0.81,
+        "pause_after": 0.0,
+        "confidence": -0.201
+      },
+      {
+        "word": "OFTEN",
+        "start": 2.673,
+        "end": 4.005,
+        "duration": 1.332,
+        "pause_after": 0.0,
+        "confidence": -0.404
+      },
+      {
+        "word": "EARNED",
+        "start": 4.005,
+        "end": 4.636,
+        "duration": 0.631,
+        "pause_after": 0.0,
+        "confidence": -0.335
+      },
+      {
+        "word": "HIM",
+        "start": 4.636,
+        "end": 6.358,
+        "duration": 1.722,
+        "pause_after": 0.0,
+        "confidence": -0.296
+      },
+      {
+        "word": "TWO",
+        "start": 6.358,
+        "end": 7.289,
+        "duration": 0.931,
+        "pause_after": 0.0,
+        "confidence": -0.573
+      },
+      {
+        "word": "WATER",
+        "start": 7.289,
+        "end": 8.241,
+        "duration": 0.951,
+        "pause_after": 1.412,
+        "confidence": -0.243
+      },
+      {
+        "word": "MORE",
+        "start": 9.653,
+        "end": 10.483,
+        "duration": 0.83,
+        "pause_after": 1.773,
+        "confidence": -0.247
+      },
+      {
+        "word": "AND",
+        "start": 12.256,
+        "end": 12.846,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.007
+      },
+      {
+        "word": "TWOFLAT",
+        "start": 12.846,
+        "end": 14.048,
+        "duration": 1.202,
+        "pause_after": null,
+        "confidence": -0.724
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0022.wav",
+    "recording": "M04_2_0022",
+    "speaker": "M04",
+    "reference": "fee",
+    "hypothesis": " Deep",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0024.wav",
+    "recording": "M04_2_0024",
+    "speaker": "M04",
+    "reference": "giving those who observe him a pronounced feeling of the utmost respect",
+    "hypothesis": " Giving those who who are at term in a pronoun filling up the ammo retouch",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "GIVING",
+        "start": 0.981,
+        "end": 1.761,
+        "duration": 0.78,
+        "pause_after": 0.0,
+        "confidence": -0.012
+      },
+      {
+        "word": "THOSE",
+        "start": 1.761,
+        "end": 2.071,
+        "duration": 0.31,
+        "pause_after": 0.0,
+        "confidence": -0.805
+      },
+      {
+        "word": "WHO",
+        "start": 2.071,
+        "end": 2.291,
+        "duration": 0.22,
+        "pause_after": 0.23,
+        "confidence": -0.908
+      },
+      {
+        "word": "WHO",
+        "start": 2.522,
+        "end": 3.132,
+        "duration": 0.61,
+        "pause_after": 0.0,
+        "confidence": -0.068
+      },
+      {
+        "word": "ARE",
+        "start": 3.132,
+        "end": 3.372,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -1.086
+      },
+      {
+        "word": "AT",
+        "start": 3.372,
+        "end": 3.492,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -0.962
+      },
+      {
+        "word": "TERM",
+        "start": 3.492,
+        "end": 3.992,
+        "duration": 0.5,
+        "pause_after": 0.19,
+        "confidence": -0.395
+      },
+      {
+        "word": "IN",
+        "start": 4.183,
+        "end": 4.733,
+        "duration": 0.55,
+        "pause_after": 1.911,
+        "confidence": -0.156
+      },
+      {
+        "word": "A",
+        "start": 6.644,
+        "end": 7.154,
+        "duration": 0.51,
+        "pause_after": 0.971,
+        "confidence": -0.046
+      },
+      {
+        "word": "PRONOUN",
+        "start": 8.125,
+        "end": 9.095,
+        "duration": 0.97,
+        "pause_after": 1.091,
+        "confidence": -0.366
+      },
+      {
+        "word": "FILLING",
+        "start": 10.186,
+        "end": 11.016,
+        "duration": 0.83,
+        "pause_after": 1.211,
+        "confidence": -0.085
+      },
+      {
+        "word": "UP",
+        "start": 12.227,
+        "end": 12.777,
+        "duration": 0.55,
+        "pause_after": 0.791,
+        "confidence": -0.08
+      },
+      {
+        "word": "THE",
+        "start": 13.568,
+        "end": 14.158,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.061
+      },
+      {
+        "word": "AMMO",
+        "start": 14.158,
+        "end": 15.079,
+        "duration": 0.921,
+        "pause_after": 0.0,
+        "confidence": -0.258
+      },
+      {
+        "word": "RETOUCH",
+        "start": 15.079,
+        "end": 16.039,
+        "duration": 0.961,
+        "pause_after": null,
+        "confidence": -0.695
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0036.wav",
+    "recording": "M04_2_0036",
+    "speaker": "M04",
+    "reference": "knew",
+    "hypothesis": " New",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0037.wav",
+    "recording": "M04_2_0037",
+    "speaker": "M04",
+    "reference": "sip",
+    "hypothesis": " Sip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0064.wav",
+    "recording": "M04_2_0064",
+    "speaker": "M04",
+    "reference": "tear up that paper",
+    "hypothesis": " stir up the bitter",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "STIR",
+        "start": 1.764,
+        "end": 2.505,
+        "duration": 0.74,
+        "pause_after": 0.0,
+        "confidence": -0.349
+      },
+      {
+        "word": "UP",
+        "start": 2.505,
+        "end": 2.785,
+        "duration": 0.281,
+        "pause_after": 0.041,
+        "confidence": -0.435
+      },
+      {
+        "word": "THE",
+        "start": 2.826,
+        "end": 3.417,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.165
+      },
+      {
+        "word": "BITTER",
+        "start": 3.417,
+        "end": 3.697,
+        "duration": 0.281,
+        "pause_after": null,
+        "confidence": -2.096
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0065.wav",
+    "recording": "M04_2_0065",
+    "speaker": "M04",
+    "reference": "tear ",
+    "hypothesis": " there",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0072.wav",
+    "recording": "M04_2_0072",
+    "speaker": "M04",
+    "reference": "floor",
+    "hypothesis": " Slawar",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0075.wav",
+    "recording": "M04_2_0075",
+    "speaker": "M04",
+    "reference": "swore",
+    "hypothesis": " swore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0079.wav",
+    "recording": "M04_2_0079",
+    "speaker": "M04",
+    "reference": "feed",
+    "hypothesis": " Seatfeed",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0085.wav",
+    "recording": "M04_2_0085",
+    "speaker": "M04",
+    "reference": "car",
+    "hypothesis": " Clarke",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0087.wav",
+    "recording": "M04_2_0087",
+    "speaker": "M04",
+    "reference": "swarm",
+    "hypothesis": " swarm",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0092.wav",
+    "recording": "M04_2_0092",
+    "speaker": "M04",
+    "reference": "gadget",
+    "hypothesis": " Get it",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "GET",
+        "start": 1.027,
+        "end": 1.718,
+        "duration": 0.691,
+        "pause_after": 0.0,
+        "confidence": -0.015
+      },
+      {
+        "word": "IT",
+        "start": 1.718,
+        "end": 2.019,
+        "duration": 0.301,
+        "pause_after": null,
+        "confidence": -0.344
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0095.wav",
+    "recording": "M04_2_0095",
+    "speaker": "M04",
+    "reference": "beta",
+    "hypothesis": " Bitter",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0096.wav",
+    "recording": "M04_2_0096",
+    "speaker": "M04",
+    "reference": "glow",
+    "hypothesis": " low",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0100.wav",
+    "recording": "M04_2_0100",
+    "speaker": "M04",
+    "reference": "Twice each day he plays skillfully and with zest upon our small organ",
+    "hypothesis": " Twitenar, a day-day he split scypily and with that mub on our smoke-dog and",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "TWITENAR",
+        "start": 0.62,
+        "end": 2.271,
+        "duration": 1.65,
+        "pause_after": 0.05,
+        "confidence": -0.505
+      },
+      {
+        "word": "A",
+        "start": 2.321,
+        "end": 2.831,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.28
+      },
+      {
+        "word": "DAYDAY",
+        "start": 2.831,
+        "end": 4.131,
+        "duration": 1.3,
+        "pause_after": 0.73,
+        "confidence": -0.378
+      },
+      {
+        "word": "HE",
+        "start": 4.861,
+        "end": 5.451,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.108
+      },
+      {
+        "word": "SPLIT",
+        "start": 5.451,
+        "end": 5.892,
+        "duration": 0.44,
+        "pause_after": 0.0,
+        "confidence": -0.612
+      },
+      {
+        "word": "SCYPILY",
+        "start": 5.892,
+        "end": 7.192,
+        "duration": 1.3,
+        "pause_after": 0.0,
+        "confidence": -0.936
+      },
+      {
+        "word": "AND",
+        "start": 7.192,
+        "end": 9.793,
+        "duration": 2.601,
+        "pause_after": 0.75,
+        "confidence": -1.129
+      },
+      {
+        "word": "WITH",
+        "start": 10.543,
+        "end": 11.273,
+        "duration": 0.73,
+        "pause_after": 0.0,
+        "confidence": -0.159
+      },
+      {
+        "word": "THAT",
+        "start": 11.273,
+        "end": 11.733,
+        "duration": 0.46,
+        "pause_after": 0.35,
+        "confidence": -0.308
+      },
+      {
+        "word": "MUB",
+        "start": 12.083,
+        "end": 12.854,
+        "duration": 0.77,
+        "pause_after": 0.0,
+        "confidence": -0.104
+      },
+      {
+        "word": "ON",
+        "start": 12.854,
+        "end": 13.154,
+        "duration": 0.3,
+        "pause_after": 0.75,
+        "confidence": -0.243
+      },
+      {
+        "word": "OUR",
+        "start": 13.904,
+        "end": 14.494,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.164
+      },
+      {
+        "word": "SMOKEDOG",
+        "start": 14.494,
+        "end": 15.554,
+        "duration": 1.06,
+        "pause_after": 0.0,
+        "confidence": -0.861
+      },
+      {
+        "word": "AND",
+        "start": 15.554,
+        "end": 15.854,
+        "duration": 0.3,
+        "pause_after": null,
+        "confidence": -0.537
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0101.wav",
+    "recording": "M04_2_0101",
+    "speaker": "M04",
+    "reference": "horn",
+    "hypothesis": " one",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0111.wav",
+    "recording": "M04_2_0111",
+    "speaker": "M04",
+    "reference": "pat",
+    "hypothesis": " SPAT",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0117.wav",
+    "recording": "M04_2_0117",
+    "speaker": "M04",
+    "reference": "knew",
+    "hypothesis": " new",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0130.wav",
+    "recording": "M04_2_0130",
+    "speaker": "M04",
+    "reference": "whoop",
+    "hypothesis": " hold",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0132.wav",
+    "recording": "M04_2_0132",
+    "speaker": "M04",
+    "reference": "boot",
+    "hypothesis": " foodt",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0155.wav",
+    "recording": "M04_2_0155",
+    "speaker": "M04",
+    "reference": "I was conscious all the time",
+    "hypothesis": " I will what what was the deal on the design",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "I",
+        "start": 1.041,
+        "end": 1.551,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.005
+      },
+      {
+        "word": "WILL",
+        "start": 1.551,
+        "end": 1.931,
+        "duration": 0.38,
+        "pause_after": 0.0,
+        "confidence": -0.478
+      },
+      {
+        "word": "WHAT",
+        "start": 1.931,
+        "end": 2.111,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -0.667
+      },
+      {
+        "word": "WHAT",
+        "start": 2.111,
+        "end": 2.311,
+        "duration": 0.2,
+        "pause_after": 0.0,
+        "confidence": -0.339
+      },
+      {
+        "word": "WAS",
+        "start": 2.311,
+        "end": 2.592,
+        "duration": 0.28,
+        "pause_after": 0.0,
+        "confidence": -0.647
+      },
+      {
+        "word": "THE",
+        "start": 2.592,
+        "end": 2.912,
+        "duration": 0.32,
+        "pause_after": 0.0,
+        "confidence": -0.588
+      },
+      {
+        "word": "DEAL",
+        "start": 2.912,
+        "end": 3.452,
+        "duration": 0.54,
+        "pause_after": 0.0,
+        "confidence": -0.523
+      },
+      {
+        "word": "ON",
+        "start": 3.452,
+        "end": 3.652,
+        "duration": 0.2,
+        "pause_after": 0.0,
+        "confidence": -0.561
+      },
+      {
+        "word": "THE",
+        "start": 3.652,
+        "end": 3.912,
+        "duration": 0.26,
+        "pause_after": 0.0,
+        "confidence": -0.424
+      },
+      {
+        "word": "DESIGN",
+        "start": 3.912,
+        "end": 4.153,
+        "duration": 0.24,
+        "pause_after": null,
+        "confidence": -2.325
+      }
+    ]
+  }
+]

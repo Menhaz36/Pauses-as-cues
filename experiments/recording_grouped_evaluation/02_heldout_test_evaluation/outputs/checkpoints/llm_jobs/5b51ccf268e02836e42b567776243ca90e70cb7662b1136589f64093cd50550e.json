@@ -1,0 +1,15 @@
+{
+  "job_hash": "5b51ccf268e02836e42b567776243ca90e70cb7662b1136589f64093cd50550e",
+  "recording": "M05_2_0236",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "THE MISS GUIDED SEWERS [0.5s_pause] HAVE LOST THEIR WEIGHT",
+  "content": "THE MISGUIDED SEWERS [0.5s_pause] HAVE LOST THEIR WEIGHT",
+  "provider_id": "chatcmpl-1dc3345d-cea2-4bea-8726-e5e2bc98b260",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_f640395b96",
+  "accepted": "THE MISGUIDED SEWERS [0.5s_pause] HAVE LOST THEIR WEIGHT",
+  "guard_reason": "accepted"
+}

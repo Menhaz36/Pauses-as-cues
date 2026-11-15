@@ -1,0 +1,690 @@
+[
+  {
+    "audio_name": "F03_2_headMic_0026.wav",
+    "recording": "F03_2_0026",
+    "speaker": "F03",
+    "reference": "side",
+    "hypothesis": " side",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0028.wav",
+    "recording": "F03_2_0028",
+    "speaker": "F03",
+    "reference": "Where were you while we were away",
+    "hypothesis": " Where were you while we were away?",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WHERE",
+        "start": 0.331,
+        "end": 0.913,
+        "duration": 0.582,
+        "pause_after": 0.0,
+        "confidence": -0.015
+      },
+      {
+        "word": "WERE",
+        "start": 0.913,
+        "end": 1.214,
+        "duration": 0.301,
+        "pause_after": 0.0,
+        "confidence": -0.873
+      },
+      {
+        "word": "YOU",
+        "start": 1.214,
+        "end": 1.394,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -0.946
+      },
+      {
+        "word": "WHILE",
+        "start": 1.394,
+        "end": 1.805,
+        "duration": 0.411,
+        "pause_after": 0.0,
+        "confidence": -0.371
+      },
+      {
+        "word": "WE",
+        "start": 1.805,
+        "end": 2.036,
+        "duration": 0.231,
+        "pause_after": 0.0,
+        "confidence": -1.966
+      },
+      {
+        "word": "WERE",
+        "start": 2.036,
+        "end": 2.317,
+        "duration": 0.281,
+        "pause_after": 0.0,
+        "confidence": -0.69
+      },
+      {
+        "word": "AWAY",
+        "start": 2.317,
+        "end": 2.748,
+        "duration": 0.431,
+        "pause_after": null,
+        "confidence": -0.854
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_2_headMic_0035.wav",
+    "recording": "F03_2_0035",
+    "speaker": "F03",
+    "reference": "charlie",
+    "hypothesis": " Charlie",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0042.wav",
+    "recording": "F03_2_0042",
+    "speaker": "F03",
+    "reference": "slip",
+    "hypothesis": " slip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0045.wav",
+    "recording": "F03_2_0045",
+    "speaker": "F03",
+    "reference": "knot",
+    "hypothesis": " knot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0049.wav",
+    "recording": "F03_2_0049",
+    "speaker": "F03",
+    "reference": "slay",
+    "hypothesis": " swore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0055.wav",
+    "recording": "F03_2_0055",
+    "speaker": "F03",
+    "reference": "Mother sews yellow gingham aprons",
+    "hypothesis": " Mother's shows you'll give him aprons",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "MOTHER'S",
+        "start": 0.171,
+        "end": 0.753,
+        "duration": 0.582,
+        "pause_after": 0.0,
+        "confidence": -0.457
+      },
+      {
+        "word": "SHOWS",
+        "start": 0.753,
+        "end": 1.154,
+        "duration": 0.401,
+        "pause_after": 0.112,
+        "confidence": -0.667
+      },
+      {
+        "word": "YOU'LL",
+        "start": 1.266,
+        "end": 1.997,
+        "duration": 0.731,
+        "pause_after": 0.0,
+        "confidence": -0.465
+      },
+      {
+        "word": "GIVE",
+        "start": 1.997,
+        "end": 2.659,
+        "duration": 0.662,
+        "pause_after": 0.0,
+        "confidence": -0.257
+      },
+      {
+        "word": "HIM",
+        "start": 2.659,
+        "end": 2.9,
+        "duration": 0.241,
+        "pause_after": 0.0,
+        "confidence": -0.637
+      },
+      {
+        "word": "APRONS",
+        "start": 2.9,
+        "end": 4.967,
+        "duration": 2.067,
+        "pause_after": null,
+        "confidence": -0.595
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_2_headMic_0056.wav",
+    "recording": "F03_2_0056",
+    "speaker": "F03",
+    "reference": "here",
+    "hypothesis": " here",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0074.wav",
+    "recording": "F03_2_0074",
+    "speaker": "F03",
+    "reference": "rich",
+    "hypothesis": "rich",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0079.wav",
+    "recording": "F03_2_0079",
+    "speaker": "F03",
+    "reference": "thought",
+    "hypothesis": " slot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0091.wav",
+    "recording": "F03_2_0091",
+    "speaker": "F03",
+    "reference": "much",
+    "hypothesis": " much",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0101.wav",
+    "recording": "F03_2_0101",
+    "speaker": "F03",
+    "reference": "Alimony harms a divorced man's wealth",
+    "hypothesis": " Alimely harms a diverse minced wealth",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "ALIMELY",
+        "start": 3.382,
+        "end": 4.572,
+        "duration": 1.19,
+        "pause_after": 0.41,
+        "confidence": -0.385
+      },
+      {
+        "word": "HARMS",
+        "start": 4.983,
+        "end": 5.903,
+        "duration": 0.92,
+        "pause_after": 0.2,
+        "confidence": -0.027
+      },
+      {
+        "word": "A",
+        "start": 6.103,
+        "end": 6.613,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.0
+      },
+      {
+        "word": "DIVERSE",
+        "start": 6.613,
+        "end": 7.434,
+        "duration": 0.82,
+        "pause_after": 0.41,
+        "confidence": -0.33
+      },
+      {
+        "word": "MINCED",
+        "start": 7.844,
+        "end": 8.774,
+        "duration": 0.93,
+        "pause_after": 0.0,
+        "confidence": -0.343
+      },
+      {
+        "word": "WEALTH",
+        "start": 8.774,
+        "end": 9.505,
+        "duration": 0.73,
+        "pause_after": null,
+        "confidence": -0.241
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_2_headMic_0115.wav",
+    "recording": "F03_2_0115",
+    "speaker": "F03",
+    "reference": "liar",
+    "hypothesis": " WIRE",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0140.wav",
+    "recording": "F03_2_0140",
+    "speaker": "F03",
+    "reference": "hitting",
+    "hypothesis": " Hibbing",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0143.wav",
+    "recording": "F03_2_0143",
+    "speaker": "F03",
+    "reference": "The books are very expensive",
+    "hypothesis": " The books are regs from Expenses",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THE",
+        "start": 0.04,
+        "end": 0.171,
+        "duration": 0.131,
+        "pause_after": 0.0,
+        "confidence": -0.218
+      },
+      {
+        "word": "BOOKS",
+        "start": 0.171,
+        "end": 0.503,
+        "duration": 0.332,
+        "pause_after": 0.0,
+        "confidence": -0.209
+      },
+      {
+        "word": "ARE",
+        "start": 0.503,
+        "end": 0.815,
+        "duration": 0.312,
+        "pause_after": 0.0,
+        "confidence": -0.446
+      },
+      {
+        "word": "REGS",
+        "start": 0.815,
+        "end": 1.238,
+        "duration": 0.423,
+        "pause_after": 0.0,
+        "confidence": -0.456
+      },
+      {
+        "word": "FROM",
+        "start": 1.238,
+        "end": 1.499,
+        "duration": 0.262,
+        "pause_after": 0.0,
+        "confidence": -0.485
+      },
+      {
+        "word": "EXPENSES",
+        "start": 1.499,
+        "end": 2.405,
+        "duration": 0.906,
+        "pause_after": null,
+        "confidence": -1.361
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_2_headMic_0150.wav",
+    "recording": "F03_2_0150",
+    "speaker": "F03",
+    "reference": "vat",
+    "hypothesis": " vet",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0001.wav",
+    "recording": "F03_3_0001",
+    "speaker": "F03",
+    "reference": "Trespassers can be prosecuted and fined",
+    "hypothesis": " Trespassus can be persecuted and fond",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "TRESPASSUS",
+        "start": 1.386,
+        "end": 2.638,
+        "duration": 1.252,
+        "pause_after": 0.0,
+        "confidence": -0.462
+      },
+      {
+        "word": "CAN",
+        "start": 2.638,
+        "end": 2.879,
+        "duration": 0.241,
+        "pause_after": 0.0,
+        "confidence": -0.41
+      },
+      {
+        "word": "BE",
+        "start": 2.879,
+        "end": 3.059,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -0.868
+      },
+      {
+        "word": "PERSECUTED",
+        "start": 3.059,
+        "end": 3.782,
+        "duration": 0.722,
+        "pause_after": 0.0,
+        "confidence": -0.383
+      },
+      {
+        "word": "AND",
+        "start": 3.782,
+        "end": 3.972,
+        "duration": 0.191,
+        "pause_after": 0.0,
+        "confidence": -2.015
+      },
+      {
+        "word": "FOND",
+        "start": 3.972,
+        "end": 4.434,
+        "duration": 0.461,
+        "pause_after": null,
+        "confidence": -0.837
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_3_headMic_0004.wav",
+    "recording": "F03_3_0004",
+    "speaker": "F03",
+    "reference": "rock",
+    "hypothesis": " Rock",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0035.wav",
+    "recording": "F03_3_0035",
+    "speaker": "F03",
+    "reference": "bread",
+    "hypothesis": " Browned",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0036.wav",
+    "recording": "F03_3_0036",
+    "speaker": "F03",
+    "reference": "bird",
+    "hypothesis": " bird",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0043.wav",
+    "recording": "F03_3_0043",
+    "speaker": "F03",
+    "reference": "nice",
+    "hypothesis": " Nice",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0052.wav",
+    "recording": "F03_3_0052",
+    "speaker": "F03",
+    "reference": "He took me out one day",
+    "hypothesis": " He took me out one day",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 0.463,
+        "end": 1.056,
+        "duration": 0.593,
+        "pause_after": 0.0,
+        "confidence": -0.626
+      },
+      {
+        "word": "TOOK",
+        "start": 1.056,
+        "end": 1.237,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -1.377
+      },
+      {
+        "word": "ME",
+        "start": 1.237,
+        "end": 1.418,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -1.467
+      },
+      {
+        "word": "OUT",
+        "start": 1.418,
+        "end": 1.599,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -0.716
+      },
+      {
+        "word": "ONE",
+        "start": 1.599,
+        "end": 1.841,
+        "duration": 0.241,
+        "pause_after": 0.0,
+        "confidence": -0.882
+      },
+      {
+        "word": "DAY",
+        "start": 1.841,
+        "end": 2.082,
+        "duration": 0.241,
+        "pause_after": null,
+        "confidence": -0.365
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_3_headMic_0053.wav",
+    "recording": "F03_3_0053",
+    "speaker": "F03",
+    "reference": "rise",
+    "hypothesis": " Rott",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0065.wav",
+    "recording": "F03_3_0065",
+    "speaker": "F03",
+    "reference": "There was only one decision to be made",
+    "hypothesis": " Those only wonders are to be made",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THOSE",
+        "start": 0.17,
+        "end": 0.511,
+        "duration": 0.341,
+        "pause_after": 0.0,
+        "confidence": -4.235
+      },
+      {
+        "word": "ONLY",
+        "start": 0.511,
+        "end": 0.691,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -0.404
+      },
+      {
+        "word": "WONDERS",
+        "start": 0.691,
+        "end": 1.353,
+        "duration": 0.661,
+        "pause_after": 0.0,
+        "confidence": -2.415
+      },
+      {
+        "word": "ARE",
+        "start": 1.353,
+        "end": 1.533,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -3.987
+      },
+      {
+        "word": "TO",
+        "start": 1.533,
+        "end": 1.663,
+        "duration": 0.13,
+        "pause_after": 0.0,
+        "confidence": -2.736
+      },
+      {
+        "word": "BE",
+        "start": 1.663,
+        "end": 1.793,
+        "duration": 0.13,
+        "pause_after": 0.0,
+        "confidence": -1.564
+      },
+      {
+        "word": "MADE",
+        "start": 1.793,
+        "end": 2.094,
+        "duration": 0.301,
+        "pause_after": null,
+        "confidence": -1.026
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_3_headMic_0066.wav",
+    "recording": "F03_3_0066",
+    "speaker": "F03",
+    "reference": "eat",
+    "hypothesis": " Eat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0086.wav",
+    "recording": "F03_3_0086",
+    "speaker": "F03",
+    "reference": "sip",
+    "hypothesis": " sit",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0093.wav",
+    "recording": "F03_3_0093",
+    "speaker": "F03",
+    "reference": "papa",
+    "hypothesis": " Ferpet",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0111.wav",
+    "recording": "F03_3_0111",
+    "speaker": "F03",
+    "reference": "shred",
+    "hypothesis": " sure",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0114.wav",
+    "recording": "F03_3_0114",
+    "speaker": "F03",
+    "reference": "goat",
+    "hypothesis": " goats",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0130.wav",
+    "recording": "F03_3_0130",
+    "speaker": "F03",
+    "reference": "The results were very disappointing",
+    "hypothesis": " through Jelts over your displanting",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THROUGH",
+        "start": 0.372,
+        "end": 0.956,
+        "duration": 0.584,
+        "pause_after": 0.0,
+        "confidence": -0.14
+      },
+      {
+        "word": "JELTS",
+        "start": 0.956,
+        "end": 1.359,
+        "duration": 0.403,
+        "pause_after": 0.0,
+        "confidence": -0.794
+      },
+      {
+        "word": "OVER",
+        "start": 1.359,
+        "end": 1.641,
+        "duration": 0.282,
+        "pause_after": 0.0,
+        "confidence": -0.909
+      },
+      {
+        "word": "YOUR",
+        "start": 1.641,
+        "end": 1.802,
+        "duration": 0.161,
+        "pause_after": 0.0,
+        "confidence": -2.714
+      },
+      {
+        "word": "DISPLANTING",
+        "start": 1.802,
+        "end": 2.687,
+        "duration": 0.886,
+        "pause_after": null,
+        "confidence": -0.318
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_3_headMic_0140.wav",
+    "recording": "F03_3_0140",
+    "speaker": "F03",
+    "reference": "whisky",
+    "hypothesis": " Wisky",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_3_headMic_0155.wav",
+    "recording": "F03_3_0155",
+    "speaker": "F03",
+    "reference": "fork",
+    "hypothesis": " Fort",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

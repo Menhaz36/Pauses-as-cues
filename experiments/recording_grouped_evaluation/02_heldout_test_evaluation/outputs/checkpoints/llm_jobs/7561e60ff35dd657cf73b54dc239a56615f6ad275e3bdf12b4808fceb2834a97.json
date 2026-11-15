@@ -1,0 +1,15 @@
+{
+  "job_hash": "7561e60ff35dd657cf73b54dc239a56615f6ad275e3bdf12b4808fceb2834a97",
+  "recording": "M04_2_0172",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "MAMA MUCH [2.1s_pause] STILL [0.3s_pause] MADE OF THE FLOWER",
+  "content": "MAMA MUCH [2.1s_pause] STILL [0.3s_pause] MADE OF THE FLOWER",
+  "provider_id": "chatcmpl-b37d28e7-dee7-4563-9e2c-dbafb6f2a593",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c868cf1eaa",
+  "accepted": "MAMA MUCH [2.1s_pause] STILL [0.3s_pause] MADE OF THE FLOWER",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "33d5eab5f0707b35da91a797a348e91d8b36cb409c0bcd5c9f5b237bb4267a0a",
+  "recording": "M04_1_0108",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 4,
+  "input_region": "RED [0.5s_pause] RED [0.5s_pause] AND AIR",
+  "content": "RED [0.5s_pause] AND AIR",
+  "provider_id": "chatcmpl-3f98016e-810d-4177-8586-d22a38241501",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "RED [0.5s_pause] AND AIR",
+  "guard_reason": "accepted"
+}

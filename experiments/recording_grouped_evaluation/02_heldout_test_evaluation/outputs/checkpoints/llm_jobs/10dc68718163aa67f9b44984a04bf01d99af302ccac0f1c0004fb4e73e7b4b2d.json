@@ -1,0 +1,15 @@
+{
+  "job_hash": "10dc68718163aa67f9b44984a04bf01d99af302ccac0f1c0004fb4e73e7b4b2d",
+  "recording": "M04_2_0172",
+  "arm": "hidden",
+  "region": 0,
+  "start": 4,
+  "end": 11,
+  "input_region": "OF THE FLOWER AND THIN THIN THIN",
+  "content": "OF THE FLOWER AND THIN",
+  "provider_id": "chatcmpl-36574a76-da0f-4354-afb7-6e25d0815e1e",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_854fa9be4c",
+  "accepted": "OF THE FLOWER AND THIN",
+  "guard_reason": "accepted"
+}

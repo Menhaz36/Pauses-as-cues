@@ -1,0 +1,15 @@
+{
+  "job_hash": "1b974502b4b6a4bb1c1b7837e2f826cdcd8ad14584541014e31576dbbb4c2159",
+  "recording": "M05_2_0043",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "MILDING CELLS [0.5s_pause] THE OTHER WAY TO",
+  "content": "MILDING CELLS [0.5s_pause] THE OTHER WAY TO",
+  "provider_id": "chatcmpl-26ff3484-e6c8-4b28-ac6c-692157e8c589",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4140daa9c2",
+  "accepted": "MILDING CELLS [0.5s_pause] THE OTHER WAY TO",
+  "guard_reason": "accepted"
+}

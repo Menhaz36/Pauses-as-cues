@@ -1,0 +1,15 @@
+{
+  "job_hash": "8b810d309e4548fe279fbcb9c780c5120e6c50638ba33d9161e143db157d291d",
+  "recording": "M04_1_0106",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "YOU WIN ME ME SET SEVERAL BY",
+  "content": "YOU WIN ME SET SEVERAL BY",
+  "provider_id": "chatcmpl-5abab506-3df9-46ef-b15c-197565275d67",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "YOU WIN ME SET SEVERAL BY",
+  "guard_reason": "accepted"
+}

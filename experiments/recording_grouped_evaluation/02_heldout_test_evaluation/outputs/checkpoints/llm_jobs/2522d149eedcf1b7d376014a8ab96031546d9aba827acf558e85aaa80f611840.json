@@ -1,0 +1,15 @@
+{
+  "job_hash": "2522d149eedcf1b7d376014a8ab96031546d9aba827acf558e85aaa80f611840",
+  "recording": "M05_1_0104",
+  "arm": "hidden",
+  "region": 0,
+  "start": 1,
+  "end": 10,
+  "input_region": "HAS YOUR DARK SWEET IN GREASY WASH WATER OILING",
+  "content": "HAS YOUR DARK SWEET IN GREASY WASH WATER OILING",
+  "provider_id": "chatcmpl-2d66794b-f922-46f1-a1f2-e6162e60363c",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "HAS YOUR DARK SWEET IN GREASY WASH WATER OILING",
+  "guard_reason": "accepted"
+}

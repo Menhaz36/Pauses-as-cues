@@ -1,0 +1,15 @@
+{
+  "job_hash": "1ec3478d2899494700be5e99df410fc9b4835be7bdb4b290449226beb758d78f",
+  "recording": "M02_2_0137",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "THIS IS NOT A PROGRAM OF SELFDELIGHT MEDICINE",
+  "content": "THIS IS NOT A PROGRAM OF SELFDELIGHT MEDICINE",
+  "provider_id": "chatcmpl-8e7715ab-8e4c-4189-96fc-a009c3f9f92d",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8ea50c0161",
+  "accepted": "THIS IS NOT A PROGRAM OF SELFDELIGHT MEDICINE",
+  "guard_reason": "accepted"
+}

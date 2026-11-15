@@ -1,0 +1,15 @@
+{
+  "job_hash": "166a9f357238b298d7c9ce4806dfebe39e1e15ace2e5c88899ac8ed51a797a4b",
+  "recording": "M05_2_0313",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "NOBODY REALLY EXPECTS TO RESCUE THE ROOM",
+  "content": "NOBODY REALLY EXPECTS TO RESCUE THE ROOM",
+  "provider_id": "chatcmpl-e0a4b7d9-becc-4426-be08-ee72930f20fd",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4727af4560",
+  "accepted": "NOBODY REALLY EXPECTS TO RESCUE THE ROOM",
+  "guard_reason": "accepted"
+}

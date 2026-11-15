@@ -1,0 +1,15 @@
+{
+  "job_hash": "d4f7e81a1531816c5d3cdc552cb8c8fed0d0a96b00effbd622a2a5c3e7739de4",
+  "recording": "M04_2_0295",
+  "arm": "visible",
+  "region": 0,
+  "start": 2,
+  "end": 7,
+  "input_region": "OF ALL DREW OUT [0.6s_pause] ABOVE",
+  "content": "OF ALL DREW OUT [0.6s_pause] ABOVE",
+  "provider_id": "chatcmpl-6dbff681-d71f-4ac4-8dfb-f89de7880650",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_86dc843b12",
+  "accepted": "OF ALL DREW OUT [0.6s_pause] ABOVE",
+  "guard_reason": "accepted"
+}

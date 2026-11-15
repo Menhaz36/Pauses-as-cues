@@ -1,0 +1,15 @@
+{
+  "job_hash": "e0b97c4fcc4018c740300f859f152d8e6dd13baf369bc7fc3a1b21a6eb9d5d27",
+  "recording": "M04_2_0194",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "IF YOU IN TITITRI [0.4s_pause] COMEDY IN BANG YOU",
+  "content": "IF YOU IN TITANIC [0.4s_pause] COMEDY IN BANG YOU",
+  "provider_id": "chatcmpl-dac727af-6d17-4347-b1ee-e9b001a7fb28",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_90620edd96",
+  "accepted": "IF YOU IN TITANIC [0.4s_pause] COMEDY IN BANG YOU",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "population": "all",
+    "recordings": 1815,
+    "speakers": 15,
+    "multiword_reference": 456,
+    "hypothesis_internal_boundaries": 3125,
+    "jointly_timed_boundaries": 2546,
+    "marked_files": 51,
+    "markers": 83,
+    "n_errors": 1455,
+    "hypothesis_ctc": {
+      "no_internal_boundary": 1331,
+      "aligned": 477,
+      "unmappable_ctc_text": 5,
+      "ctc_failure": 2
+    },
+    "reference_ctc": {
+      "no_internal_boundary": 1359,
+      "aligned": 455,
+      "unmappable_ctc_text": 1
+    }
+  },
+  {
+    "population": "dysarthria",
+    "recordings": 624,
+    "speakers": 8,
+    "multiword_reference": 148,
+    "hypothesis_internal_boundaries": 1030,
+    "jointly_timed_boundaries": 817,
+    "marked_files": 50,
+    "markers": 82,
+    "n_errors": 775,
+    "hypothesis_ctc": {
+      "no_internal_boundary": 458,
+      "aligned": 164,
+      "unmappable_ctc_text": 2
+    },
+    "reference_ctc": {
+      "no_internal_boundary": 476,
+      "aligned": 147,
+      "unmappable_ctc_text": 1
+    }
+  },
+  {
+    "population": "healthy",
+    "recordings": 1191,
+    "speakers": 7,
+    "multiword_reference": 308,
+    "hypothesis_internal_boundaries": 2095,
+    "jointly_timed_boundaries": 1729,
+    "marked_files": 1,
+    "markers": 1,
+    "n_errors": 680,
+    "hypothesis_ctc": {
+      "no_internal_boundary": 873,
+      "aligned": 313,
+      "ctc_failure": 2,
+      "unmappable_ctc_text": 3
+    },
+    "reference_ctc": {
+      "no_internal_boundary": 883,
+      "aligned": 308
+    }
+  }
+]

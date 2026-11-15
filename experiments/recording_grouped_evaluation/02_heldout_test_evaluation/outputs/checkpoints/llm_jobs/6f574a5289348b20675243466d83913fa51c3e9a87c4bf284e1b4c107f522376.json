@@ -1,0 +1,15 @@
+{
+  "job_hash": "6f574a5289348b20675243466d83913fa51c3e9a87c4bf284e1b4c107f522376",
+  "recording": "M04_2_0194",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "IF YOU IN TITITRI COMEDY IN BANG YOU",
+  "content": "IF YOU IN TITITRI COMEDY IN BANG YOU",
+  "provider_id": "chatcmpl-93c5be03-a87a-462a-bfd3-f140a0b4c38e",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4200b3f836",
+  "accepted": "IF YOU IN TITITRI COMEDY IN BANG YOU",
+  "guard_reason": "accepted"
+}

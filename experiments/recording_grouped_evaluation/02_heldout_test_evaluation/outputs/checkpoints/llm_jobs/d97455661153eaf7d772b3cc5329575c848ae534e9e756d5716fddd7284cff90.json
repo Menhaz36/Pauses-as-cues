@@ -1,0 +1,15 @@
+{
+  "job_hash": "d97455661153eaf7d772b3cc5329575c848ae534e9e756d5716fddd7284cff90",
+  "recording": "M01_3_0113",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "MAZINGING HE'S AS [0.8s_pause] OPEN TO FIRST HE'S",
+  "content": "MAZINGING HE'S AS [0.8s_pause] OPEN TO FIRST HE'S",
+  "provider_id": "chatcmpl-11d5f4f2-8908-4336-97e2-faea59d8b223",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_19b184c447",
+  "accepted": "MAZINGING HE'S AS [0.8s_pause] OPEN TO FIRST HE'S",
+  "guard_reason": "accepted"
+}

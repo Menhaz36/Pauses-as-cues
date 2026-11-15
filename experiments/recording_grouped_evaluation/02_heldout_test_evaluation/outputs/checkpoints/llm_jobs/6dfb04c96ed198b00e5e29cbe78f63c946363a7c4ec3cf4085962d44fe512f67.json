@@ -1,0 +1,15 @@
+{
+  "job_hash": "6dfb04c96ed198b00e5e29cbe78f63c946363a7c4ec3cf4085962d44fe512f67",
+  "recording": "F03_2_0007",
+  "arm": "random",
+  "region": 0,
+  "start": 6,
+  "end": 14,
+  "input_region": "BANKS YOU DO SOMETHING [0.6s_pause] TO BE ECONOMY YOU",
+  "content": "THANKS YOU DO SOMETHING [0.6s_pause] TO BE ECONOMY YOU",
+  "provider_id": "chatcmpl-ed7c3512-0326-4756-aff7-138322f16ad4",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_854fa9be4c",
+  "accepted": "THANKS YOU DO SOMETHING [0.6s_pause] TO BE ECONOMY YOU",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "34fef6fea7ae98e6c41b95a6a42520e197f01dbc6d62a91a1c9f209dd3b623ae",
+  "recording": "M02_1_0118",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "BUT THE OPPOSITE [1.0s_pause] BANANA OIL",
+  "content": "BUT THE OPPOSITE [1.0s_pause] BANANA OIL",
+  "provider_id": "chatcmpl-3987d68d-b8be-45e8-aa63-746d5150f2a9",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c15aa9c1b7",
+  "accepted": "BUT THE OPPOSITE [1.0s_pause] BANANA OIL",
+  "guard_reason": "accepted"
+}

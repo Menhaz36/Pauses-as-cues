@@ -1,0 +1,15 @@
+{
+  "job_hash": "2cca140dace3997d24c3badea9dadf733bc7240a5623ba52f7ca51851c04a79c",
+  "recording": "M05_2_0170",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 9,
+  "input_region": "I ATE BACK WITH BELLS BACK TO THIS WHEAT",
+  "content": "I ATE BACK WITH BELLS BACK TO THIS WHEAT",
+  "provider_id": "chatcmpl-b226374e-d5c4-4b1c-af9b-2bee5c3eb9e1",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e1a78f200e",
+  "accepted": "I ATE BACK WITH BELLS BACK TO THIS WHEAT",
+  "guard_reason": "accepted"
+}

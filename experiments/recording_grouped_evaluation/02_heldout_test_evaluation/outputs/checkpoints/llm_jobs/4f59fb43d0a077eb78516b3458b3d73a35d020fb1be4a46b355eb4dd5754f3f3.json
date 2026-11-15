@@ -1,0 +1,15 @@
+{
+  "job_hash": "4f59fb43d0a077eb78516b3458b3d73a35d020fb1be4a46b355eb4dd5754f3f3",
+  "recording": "M01_3_0202",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "THESE THESE [1.0s_pause] ARE BURIED OF TRANSLUCENT",
+  "content": "THESE [1.0s_pause] ARE BURIED OF TRANSLUCENT",
+  "provider_id": "chatcmpl-0c2fc350-b978-4728-a4f6-62412ba18810",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_64b2f1c926",
+  "accepted": "THESE [1.0s_pause] ARE BURIED OF TRANSLUCENT",
+  "guard_reason": "accepted"
+}

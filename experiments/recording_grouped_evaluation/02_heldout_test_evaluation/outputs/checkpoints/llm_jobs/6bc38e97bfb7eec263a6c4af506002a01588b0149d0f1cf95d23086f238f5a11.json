@@ -1,0 +1,15 @@
+{
+  "job_hash": "6bc38e97bfb7eec263a6c4af506002a01588b0149d0f1cf95d23086f238f5a11",
+  "recording": "M04_2_0029",
+  "arm": "visible",
+  "region": 0,
+  "start": 2,
+  "end": 17,
+  "input_region": "PEED HIS HEAD HIS [0.5s_pause] HEAD WAS A BIT [0.5s_pause] GLUGGLE AND [1.2s_pause] QUIT [0.9s_pause] QUIT WITH A STRETCH",
+  "content": "PEED HIS HEAD IS [0.5s_pause] HEAD WAS A BIT [0.5s_pause] GIGGLE AND [1.2s_pause] [0.9s_pause] QUIT WITH A STRETCH",
+  "provider_id": "chatcmpl-7f3738f1-18ff-46df-87fd-62e5538f7c60",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_5a93aea882",
+  "accepted": "PEED HIS HEAD HIS [0.5s_pause] HEAD WAS A BIT [0.5s_pause] GLUGGLE AND [1.2s_pause] QUIT [0.9s_pause] QUIT WITH A STRETCH",
+  "guard_reason": "excessive_rewrite"
+}

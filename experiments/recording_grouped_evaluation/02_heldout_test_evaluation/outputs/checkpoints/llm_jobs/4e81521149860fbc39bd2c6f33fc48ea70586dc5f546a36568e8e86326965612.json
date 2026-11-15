@@ -1,0 +1,15 @@
+{
+  "job_hash": "4e81521149860fbc39bd2c6f33fc48ea70586dc5f546a36568e8e86326965612",
+  "recording": "F03_1_0095",
+  "arm": "visible",
+  "region": 0,
+  "start": 6,
+  "end": 14,
+  "input_region": "JUST A BIT CRACKED [0.4s_pause] AND THAT COVERS EMMA",
+  "content": "JUST A BIT CRACKED [0.4s_pause] AND THAT COVERS EMMA",
+  "provider_id": "chatcmpl-efbb3f37-cb52-4d55-9cea-f834393efa76",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_b1dd3e7a63",
+  "accepted": "JUST A BIT CRACKED [0.4s_pause] AND THAT COVERS EMMA",
+  "guard_reason": "accepted"
+}

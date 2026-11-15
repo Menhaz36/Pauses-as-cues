@@ -1,0 +1,15 @@
+{
+  "job_hash": "fcf01a62114dc20cad0242e5608fa6996d59584fe6749d8001e5d32072829b80",
+  "recording": "M04_1_0094",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 17,
+  "input_region": "WHAT WAS SHE [1.1s_pause] PISSED HIS VOICE [2.0s_pause] HIS KID GOT A BIG [0.8s_pause] CAT [0.9s_pause] IN [2.6s_pause] A FEW OTHER STREET",
+  "content": "WHAT WAS SHE [1.1s_pause] MISSED HIS VOICE [2.0s_pause] HIS KID GOT A BIG [0.8s_pause] CAT [0.9s_pause] IN [2.6s_pause] A FEW OTHER STREET",
+  "provider_id": "chatcmpl-6162dc87-9a16-4a01-8fbc-afd040066de5",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8ea50c0161",
+  "accepted": "WHAT WAS SHE [1.1s_pause] MISSED HIS VOICE [2.0s_pause] HIS KID GOT A BIG [0.8s_pause] CAT [0.9s_pause] IN [2.6s_pause] A FEW OTHER STREET",
+  "guard_reason": "accepted"
+}

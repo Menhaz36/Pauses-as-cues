@@ -1,0 +1,15 @@
+{
+  "job_hash": "08d46c37f3165679aa704c6caa236e2a6c9ca2ad6db82306a9a4add4902587b7",
+  "recording": "M04_2_0236",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "THEN DOWN A GREAT IN WHITE",
+  "content": "THEN DROWN A GREAT IN WHITE",
+  "provider_id": "chatcmpl-812fcf44-e400-44b3-9563-33b18422a473",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_90620edd96",
+  "accepted": "THEN DROWN A GREAT IN WHITE",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "c741a332d8ca83dfa633a8ebfba46dd7bdf181a8910b35cae38cb737df263374",
+  "recording": "M04_2_0283",
+  "arm": "visible",
+  "region": 0,
+  "start": 1,
+  "end": 9,
+  "input_region": "WILL WORK WITHOUT THIN [0.3s_pause] WINGS FOR A WHILE",
+  "content": "WILL WORK WITHOUT THE [0.3s_pause] WINGS FOR A WHILE",
+  "provider_id": "chatcmpl-2b594b93-f2e5-4df5-9396-14994000e17f",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e1a78f200e",
+  "accepted": "WILL WORK WITHOUT THE [0.3s_pause] WINGS FOR A WHILE",
+  "guard_reason": "accepted"
+}

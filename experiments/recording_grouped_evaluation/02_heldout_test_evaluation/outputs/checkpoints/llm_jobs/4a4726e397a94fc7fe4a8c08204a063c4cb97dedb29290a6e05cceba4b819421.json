@@ -1,0 +1,15 @@
+{
+  "job_hash": "4a4726e397a94fc7fe4a8c08204a063c4cb97dedb29290a6e05cceba4b819421",
+  "recording": "M02_1_0055",
+  "arm": "random",
+  "region": 0,
+  "start": 6,
+  "end": 12,
+  "input_region": "WHICH HE WAS WHAT [0.5s_pause] ALL [0.5s_pause] YEAR",
+  "content": "WHICH HE WAS WHAT [0.5s_pause] ALL [0.5s_pause] YEAR",
+  "provider_id": "chatcmpl-f6c36c08-7e0a-4933-a4fb-bef7dea5ff34",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_f73454f048",
+  "accepted": "WHICH HE WAS WHAT [0.5s_pause] ALL [0.5s_pause] YEAR",
+  "guard_reason": "accepted"
+}

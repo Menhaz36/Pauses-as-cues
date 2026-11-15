@@ -1,0 +1,15 @@
+{
+  "job_hash": "7f3af593ea2d62a0e624e71b59e6afd9057e189cb3892006659d46c04029fecc",
+  "recording": "M05_2_0243",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "NIGHT ASK TONIGHT THEY RECEIVED A KNOWING",
+  "content": "NIGHT ASK TONIGHT THEY RECEIVED A KNOWING",
+  "provider_id": "chatcmpl-28bfe1e7-b246-47ca-828e-eeab2032ede3",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_90620edd96",
+  "accepted": "NIGHT ASK TONIGHT THEY RECEIVED A KNOWING",
+  "guard_reason": "accepted"
+}

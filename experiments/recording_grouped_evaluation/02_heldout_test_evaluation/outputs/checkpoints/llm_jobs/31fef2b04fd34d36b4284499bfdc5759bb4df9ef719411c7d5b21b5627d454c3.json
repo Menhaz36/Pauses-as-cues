@@ -1,0 +1,15 @@
+{
+  "job_hash": "31fef2b04fd34d36b4284499bfdc5759bb4df9ef719411c7d5b21b5627d454c3",
+  "recording": "M04_2_0295",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "THE [0.6s_pause] AGE OF ALL DREW",
+  "content": "THE [0.6s_pause] AGE OF ALL THREE",
+  "provider_id": "chatcmpl-b69794d4-be09-469e-96d5-c8a7b1f59a4a",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "THE [0.6s_pause] AGE OF ALL THREE",
+  "guard_reason": "accepted"
+}

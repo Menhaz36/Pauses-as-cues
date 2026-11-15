@@ -1,0 +1,237 @@
+{
+  "all_multiword_recordings_by_speaker": {
+    "F01": {
+      "asr_train": 12,
+      "asr_validation": 2,
+      "final_test": 4,
+      "pause_calibration": 2
+    },
+    "F03": {
+      "asr_train": 83,
+      "asr_validation": 14,
+      "final_test": 28,
+      "pause_calibration": 14
+    },
+    "F04": {
+      "asr_train": 61,
+      "asr_validation": 10,
+      "final_test": 20,
+      "pause_calibration": 10
+    },
+    "FC01": {
+      "asr_train": 16,
+      "asr_validation": 3,
+      "final_test": 5,
+      "pause_calibration": 2
+    },
+    "FC02": {
+      "asr_train": 190,
+      "asr_validation": 32,
+      "final_test": 63,
+      "pause_calibration": 31
+    },
+    "FC03": {
+      "asr_train": 157,
+      "asr_validation": 26,
+      "final_test": 52,
+      "pause_calibration": 26
+    },
+    "M01": {
+      "asr_train": 53,
+      "asr_validation": 9,
+      "final_test": 18,
+      "pause_calibration": 9
+    },
+    "M02": {
+      "asr_train": 55,
+      "asr_validation": 9,
+      "final_test": 19,
+      "pause_calibration": 9
+    },
+    "M03": {
+      "asr_train": 57,
+      "asr_validation": 10,
+      "final_test": 19,
+      "pause_calibration": 9
+    },
+    "M04": {
+      "asr_train": 52,
+      "asr_validation": 9,
+      "final_test": 17,
+      "pause_calibration": 8
+    },
+    "M05": {
+      "asr_train": 69,
+      "asr_validation": 12,
+      "final_test": 23,
+      "pause_calibration": 11
+    },
+    "MC01": {
+      "asr_train": 171,
+      "asr_validation": 29,
+      "final_test": 57,
+      "pause_calibration": 28
+    },
+    "MC02": {
+      "asr_train": 102,
+      "asr_validation": 17,
+      "final_test": 34,
+      "pause_calibration": 17
+    },
+    "MC03": {
+      "asr_train": 133,
+      "asr_validation": 22,
+      "final_test": 44,
+      "pause_calibration": 22
+    },
+    "MC04": {
+      "asr_train": 157,
+      "asr_validation": 26,
+      "final_test": 53,
+      "pause_calibration": 26
+    }
+  },
+  "counts": {
+    "asr_train": {
+      "primary_files": 5447,
+      "recordings": 5447,
+      "source_files": 9934
+    },
+    "asr_validation": {
+      "primary_files": 912,
+      "recordings": 912,
+      "source_files": 1648
+    },
+    "excluded": {
+      "primary_files": 0,
+      "recordings": 0,
+      "source_files": 0
+    },
+    "final_test": {
+      "primary_files": 1815,
+      "recordings": 1815,
+      "source_files": 3318
+    },
+    "pause_calibration": {
+      "primary_files": 901,
+      "recordings": 901,
+      "source_files": 1652
+    }
+  },
+  "dataset": "abnerh/TORGO-database",
+  "dataset_revision": "c4e0b560a515465e61bb555455e34fc620031fe8",
+  "dysarthric_multiword_recordings_by_speaker": {
+    "F01": {
+      "asr_train": 12,
+      "asr_validation": 2,
+      "final_test": 4,
+      "pause_calibration": 2
+    },
+    "F03": {
+      "asr_train": 83,
+      "asr_validation": 14,
+      "final_test": 28,
+      "pause_calibration": 14
+    },
+    "F04": {
+      "asr_train": 61,
+      "asr_validation": 10,
+      "final_test": 20,
+      "pause_calibration": 10
+    },
+    "M01": {
+      "asr_train": 53,
+      "asr_validation": 9,
+      "final_test": 18,
+      "pause_calibration": 9
+    },
+    "M02": {
+      "asr_train": 55,
+      "asr_validation": 9,
+      "final_test": 19,
+      "pause_calibration": 9
+    },
+    "M03": {
+      "asr_train": 57,
+      "asr_validation": 10,
+      "final_test": 19,
+      "pause_calibration": 9
+    },
+    "M04": {
+      "asr_train": 52,
+      "asr_validation": 9,
+      "final_test": 17,
+      "pause_calibration": 8
+    },
+    "M05": {
+      "asr_train": 69,
+      "asr_validation": 12,
+      "final_test": 23,
+      "pause_calibration": 11
+    }
+  },
+  "final_files_with_exact_prompt_in_training": 1742,
+  "final_primary_files": 1815,
+  "final_prompt_overlap_fraction": 0.9597796143250689,
+  "known_test_speakers": [
+    "F01",
+    "F03",
+    "F04",
+    "FC01",
+    "FC02",
+    "FC03",
+    "M01",
+    "M02",
+    "M03",
+    "M04",
+    "M05",
+    "MC01",
+    "MC02",
+    "MC03",
+    "MC04"
+  ],
+  "legacy_metadata_sha256": "3d5bb346d51f84fd9d2967798941e42c2d9a6dd515f29f26d5f32daf4edaf195",
+  "manifest_sha256": "c89bf6a4d688fe2f79a4b8e09e4d747a35bccea8862866c83836136dd46e13fe",
+  "primary_channels": {
+    "arrayMic": 1222,
+    "headMic": 7853
+  },
+  "primary_files_by_speaker_group": {
+    "asr_train": {
+      "dysarthria": 1873,
+      "healthy": 3574
+    },
+    "asr_validation": {
+      "dysarthria": 315,
+      "healthy": 597
+    },
+    "final_test": {
+      "dysarthria": 624,
+      "healthy": 1191
+    },
+    "pause_calibration": {
+      "dysarthria": 309,
+      "healthy": 592
+    }
+  },
+  "reasons": {
+    "included": 9075,
+    "outside_duration_limits": 2,
+    "secondary_channel": 7475
+  },
+  "recording_overlaps": {
+    "asr_train / asr_validation": 0,
+    "asr_train / final_test": 0,
+    "asr_train / pause_calibration": 0,
+    "asr_validation / final_test": 0,
+    "asr_validation / pause_calibration": 0,
+    "pause_calibration / final_test": 0
+  },
+  "seed": 42,
+  "source_sha256": {
+    "train-00000-of-00004.parquet": "cbf4d90de65fc584066de5b92c624bfc61f29a646c46f8676c43e99fd809c9df",
+    "train-00001-of-00004.parquet": "be0a1568d81f6d3afd696639c90d4bb67743a1c2267e1139963abfde8733b679",
+    "train-00002-of-00004.parquet": "5074644bed0519a2c40cc20e6feb7619332cd10cce9a0ab7be6f099af69e0e03",
+    "train-00003-of-00004.parquet": "26d8c649a198c084b9b366023cda88f99dc67dc85f50ccc5494675c104a5339c"
+  }
+}

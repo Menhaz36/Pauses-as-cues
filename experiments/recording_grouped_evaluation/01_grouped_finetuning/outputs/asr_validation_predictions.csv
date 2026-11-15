@@ -1,0 +1,913 @@
+sample_id,audio_name,recording,speaker,speech_status,partition,transcription,asr_raw,reference_normalized,asr_normalized,reference_punct_to_space,asr_punct_to_space
+13929,F01_1_headMic_0017.wav,F01_1_0017,F01,dysarthria,asr_validation,double, Dumble,DOUBLE,DUMBLE,DOUBLE,DUMBLE
+13970,F01_1_headMic_0026.wav,F01_1_0026,F01,dysarthria,asr_validation,train, Ping,TRAIN,PING,TRAIN,PING
+13880,F01_1_headMic_0029.wav,F01_1_0029,F01,dysarthria,asr_validation,beat, Beat,BEAT,BEAT,BEAT,BEAT
+13958,F01_1_headMic_0035.wav,F01_1_0035,F01,dysarthria,asr_validation,giving those who observe him a pronounced feeling of the utmost respect," Driving the rumble who was a brilliant player, feeling in him, oh, the amorous mishmicks",GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT,DRIVING THE RUMBLE WHO WAS A BRILLIANT PLAYER FEELING IN HIM OH THE AMOROUS MISHMICKS,GIVING THOSE WHO OBSERVE HIM A PRONOUNCED FEELING OF THE UTMOST RESPECT,DRIVING THE RUMBLE WHO WAS A BRILLIANT PLAYER FEELING IN HIM OH THE AMOROUS MISHMICKS
+13965,F01_1_headMic_0050.wav,F01_1_0050,F01,dysarthria,asr_validation,beta, Bitter,BETA,BITTER,BETA,BITTER
+13960,F01_1_headMic_0066.wav,F01_1_0066,F01,dysarthria,asr_validation,weed, We're with,WEED,WE'RE WITH,WEED,WE'RE WITH
+13973,F01_1_headMic_0071.wav,F01_1_0071,F01,dysarthria,asr_validation,jagged, Gagon,JAGGED,GAGON,JAGGED,GAGON
+13877,F01_1_headMic_0080.wav,F01_1_0080,F01,dysarthria,asr_validation,hair, hae,HAIR,HAE,HAIR,HAE
+13942,F01_1_headMic_0085.wav,F01_1_0085,F01,dysarthria,asr_validation,sip, Sip,SIP,SIP,SIP,SIP
+13870,F01_1_headMic_0087.wav,F01_1_0087,F01,dysarthria,asr_validation,alpha, Alpple,ALPHA,ALPPLE,ALPHA,ALPPLE
+13894,F01_1_headMic_0098.wav,F01_1_0098,F01,dysarthria,asr_validation,range, Link,RANGE,LINK,RANGE,LINK
+13945,F01_1_headMic_0105.wav,F01_1_0105,F01,dysarthria,asr_validation,yet he still thinks as swiftly as ever," Yes, he still thinks he's with Square and Outlook",YET HE STILL THINKS AS SWIFTLY AS EVER,YES HE STILL THINKS HE'S WITH SQUARE AND OUTLOOK,YET HE STILL THINKS AS SWIFTLY AS EVER,YES HE STILL THINKS HE'S WITH SQUARE AND OUTLOOK
+16376,F03_1_headMic_0020.wav,F03_1_0020,F03,dysarthria,asr_validation,tear , tear,TEAR,TEAR,TEAR,TEAR
+16446,F03_1_headMic_0030.wav,F03_1_0030,F03,dysarthria,asr_validation,Except in the winter when the ozone or snow or ice prevents, Except in the winter when the ozone or snow or ice prevents,EXCEPT IN THE WINTER WHEN THE OZONE OR SNOW OR ICE PREVENTS,EXCEPT IN THE WINTER WHEN THE OZONE OR SNOW OR ICE PREVENTS,EXCEPT IN THE WINTER WHEN THE OZONE OR SNOW OR ICE PREVENTS,EXCEPT IN THE WINTER WHEN THE OZONE OR SNOW OR ICE PREVENTS
+16537,F03_1_headMic_0038.wav,F03_1_0038,F03,dysarthria,asr_validation,air,air,AIR,AIR,AIR,AIR
+16470,F03_1_headMic_0043.wav,F03_1_0043,F03,dysarthria,asr_validation,right, Right,RIGHT,RIGHT,RIGHT,RIGHT
+16388,F03_1_headMic_0065.wav,F03_1_0065,F03,dysarthria,asr_validation,rave, Grave,RAVE,GRAVE,RAVE,GRAVE
+16406,F03_1_headMic_0083.wav,F03_1_0083,F03,dysarthria,asr_validation,corn, corn,CORN,CORN,CORN,CORN
+16452,F03_1_headMic_0089.wav,F03_1_0089,F03,dysarthria,asr_validation,read , Reade,READ,READE,READ,READE
+16433,F03_1_headMic_0107.wav,F03_1_0107,F03,dysarthria,asr_validation,The quick brown fox jumps over the lazy dog, The quick brown fox jumps over the lazy dog,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+16399,F03_1_headMic_0113.wav,F03_1_0113,F03,dysarthria,asr_validation,sip, Sip,SIP,SIP,SIP,SIP
+16423,F03_1_headMic_0119.wav,F03_1_0119,F03,dysarthria,asr_validation,warm, warm,WARM,WARM,WARM,WARM
+16513,F03_1_headMic_0148.wav,F03_1_0148,F03,dysarthria,asr_validation,Nothing is as offensive as innocence, Nothing is as offensive as innocence,NOTHING IS AS OFFENSIVE AS INNOCENCE,NOTHING IS AS OFFENSIVE AS INNOCENCE,NOTHING IS AS OFFENSIVE AS INNOCENCE,NOTHING IS AS OFFENSIVE AS INNOCENCE
+16410,F03_1_headMic_0157.wav,F03_1_0157,F03,dysarthria,asr_validation,I feel I can play this weekend, I feel I can play this week,I FEEL I CAN PLAY THIS WEEKEND,I FEEL I CAN PLAY THIS WEEK,I FEEL I CAN PLAY THIS WEEKEND,I FEEL I CAN PLAY THIS WEEK
+16407,F03_1_headMic_0160.wav,F03_1_0160,F03,dysarthria,asr_validation,coupe, coupe,COUPE,COUPE,COUPE,COUPE
+16429,F03_1_headMic_0167.wav,F03_1_0167,F03,dysarthria,asr_validation,She is thinner than I am, She's finited in item,SHE IS THINNER THAN I AM,SHE'S FINITED IN ITEM,SHE IS THINNER THAN I AM,SHE'S FINITED IN ITEM
+16370,F03_1_headMic_0168.wav,F03_1_0168,F03,dysarthria,asr_validation,Their house is grey and white, Their house is grey and white,THEIR HOUSE IS GREY AND WHITE,THEIR HOUSE IS GREY AND WHITE,THEIR HOUSE IS GREY AND WHITE,THEIR HOUSE IS GREY AND WHITE
+16551,F03_1_headMic_0171.wav,F03_1_0171,F03,dysarthria,asr_validation,write, Right,WRITE,RIGHT,WRITE,RIGHT
+16501,F03_1_headMic_0172.wav,F03_1_0172,F03,dysarthria,asr_validation,mere,mear,MERE,MEAR,MERE,MEAR
+16550,F03_1_headMic_0179.wav,F03_1_0179,F03,dysarthria,asr_validation,He will allow a rare lie, He will allow a wearer lie,HE WILL ALLOW A RARE LIE,HE WILL ALLOW A WEARER LIE,HE WILL ALLOW A RARE LIE,HE WILL ALLOW A WEARER LIE
+16439,F03_1_headMic_0183.wav,F03_1_0183,F03,dysarthria,asr_validation,cycle, cycle,CYCLE,CYCLE,CYCLE,CYCLE
+16427,F03_1_headMic_0199.wav,F03_1_0199,F03,dysarthria,asr_validation,tie, tie,TIE,TIE,TIE,TIE
+16498,F03_1_headMic_0202.wav,F03_1_0202,F03,dysarthria,asr_validation,rocks, Rocks,ROCKS,ROCKS,ROCKS,ROCKS
+16507,F03_1_headMic_0204.wav,F03_1_0204,F03,dysarthria,asr_validation,ate, H-h-h,ATE,HHH,ATE,H H H
+15741,F03_2_headMic_0036.wav,F03_2_0036,F03,dysarthria,asr_validation,thigh, Sorry,THIGH,SORRY,THIGH,SORRY
+15666,F03_2_headMic_0068.wav,F03_2_0068,F03,dysarthria,asr_validation,shy, Shire,SHY,SHIRE,SHY,SHIRE
+15729,F03_2_headMic_0084.wav,F03_2_0084,F03,dysarthria,asr_validation,hem, ham,HEM,HAM,HEM,HAM
+15642,F03_2_headMic_0102.wav,F03_2_0102,F03,dysarthria,asr_validation,mike, Wink,MIKE,WINK,MIKE,WINK
+15654,F03_2_headMic_0109.wav,F03_2_0109,F03,dysarthria,asr_validation,hark, Hark,HARK,HARK,HARK,HARK
+15675,F03_2_headMic_0110.wav,F03_2_0110,F03,dysarthria,asr_validation,brawn, brought bond,BRAWN,BROUGHT BOND,BRAWN,BROUGHT BOND
+15667,F03_2_headMic_0123.wav,F03_2_0123,F03,dysarthria,asr_validation,spit, split,SPIT,SPLIT,SPIT,SPLIT
+15672,F03_2_headMic_0126.wav,F03_2_0126,F03,dysarthria,asr_validation,nine, Nye,NINE,NYE,NINE,NYE
+15706,F03_2_headMic_0136.wav,F03_2_0136,F03,dysarthria,asr_validation,pit, Pit,PIT,PIT,PIT,PIT
+15721,F03_2_headMic_0138.wav,F03_2_0138,F03,dysarthria,asr_validation,hitting, heavy,HITTING,HEAVY,HITTING,HEAVY
+15722,F03_2_headMic_0157.wav,F03_2_0157,F03,dysarthria,asr_validation,pretty, Puddy,PRETTY,PUDDY,PRETTY,PUDDY
+16001,F03_3_headMic_0014.wav,F03_3_0014,F03,dysarthria,asr_validation,blend, lend,BLEND,LEND,BLEND,LEND
+16146,F03_3_headMic_0017.wav,F03_3_0017,F03,dysarthria,asr_validation,sierra, Sierra,SIERRA,SIERRA,SIERRA,SIERRA
+15972,F03_3_headMic_0028.wav,F03_3_0028,F03,dysarthria,asr_validation,knot, not,KNOT,NOT,KNOT,NOT
+16135,F03_3_headMic_0039.wav,F03_3_0039,F03,dysarthria,asr_validation,spit, Spit,SPIT,SPIT,SPIT,SPIT
+16134,F03_3_headMic_0051.wav,F03_3_0051,F03,dysarthria,asr_validation,court, Quart,COURT,QUART,COURT,QUART
+16032,F03_3_headMic_0064.wav,F03_3_0064,F03,dysarthria,asr_validation,rid, Red,RID,RED,RID,RED
+16037,F03_3_headMic_0068.wav,F03_3_0068,F03,dysarthria,asr_validation,and, and,AND,AND,AND,AND
+15968,F03_3_headMic_0078.wav,F03_3_0078,F03,dysarthria,asr_validation,three, Cee,THREE,CEE,THREE,CEE
+16042,F03_3_headMic_0084.wav,F03_3_0084,F03,dysarthria,asr_validation,There was only one decision to be made, There was only one decision to be made,THERE WAS ONLY ONE DECISION TO BE MADE,THERE WAS ONLY ONE DECISION TO BE MADE,THERE WAS ONLY ONE DECISION TO BE MADE,THERE WAS ONLY ONE DECISION TO BE MADE
+16056,F03_3_headMic_0088.wav,F03_3_0088,F03,dysarthria,asr_validation,lee, Lee,LEE,LEE,LEE,LEE
+16016,F03_3_headMic_0090.wav,F03_3_0090,F03,dysarthria,asr_validation,Aluminum silverware can often be flimsy," Alumera, so we'll reckon often be flinty",ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,ALUMERA SO WE'LL RECKON OFTEN BE FLINTY,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,ALUMERA SO WE'LL RECKON OFTEN BE FLINTY
+15990,F03_3_headMic_0105.wav,F03_3_0105,F03,dysarthria,asr_validation,You can ride stagecoach, you can rather have sagebrush,YOU CAN RIDE STAGECOACH,YOU CAN RATHER HAVE SAGEBRUSH,YOU CAN RIDE STAGECOACH,YOU CAN RATHER HAVE SAGEBRUSH
+16122,F03_3_headMic_0116.wav,F03_3_0116,F03,dysarthria,asr_validation,rest, rest,REST,REST,REST,REST
+16079,F03_3_headMic_0123.wav,F03_3_0123,F03,dysarthria,asr_validation,Nobody really expects to evacuate, Nobody really expects to evacuate,NOBODY REALLY EXPECTS TO EVACUATE,NOBODY REALLY EXPECTS TO EVACUATE,NOBODY REALLY EXPECTS TO EVACUATE,NOBODY REALLY EXPECTS TO EVACUATE
+15985,F03_3_headMic_0133.wav,F03_3_0133,F03,dysarthria,asr_validation,The prospects of cupping, The prospect of cupid,THE PROSPECTS OF CUPPING,THE PROSPECT OF CUPID,THE PROSPECTS OF CUPPING,THE PROSPECT OF CUPID
+16124,F03_3_headMic_0138.wav,F03_3_0138,F03,dysarthria,asr_validation,slicker, Slicker,SLICKER,SLICKER,SLICKER,SLICKER
+16041,F03_3_headMic_0141.wav,F03_3_0141,F03,dysarthria,asr_validation,whisky, whiskey,WHISKY,WHISKEY,WHISKY,WHISKEY
+16084,F03_3_headMic_0143.wav,F03_3_0143,F03,dysarthria,asr_validation,victor, Fricter,VICTOR,FRICTER,VICTOR,FRICTER
+16096,F03_3_headMic_0145.wav,F03_3_0145,F03,dysarthria,asr_validation,left, left,LEFT,LEFT,LEFT,LEFT
+16126,F03_3_headMic_0167.wav,F03_3_0167,F03,dysarthria,asr_validation,sin, sin,SIN,SIN,SIN,SIN
+16095,F03_3_headMic_0174.wav,F03_3_0174,F03,dysarthria,asr_validation,You want him to do well, you want him to do well,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL
+16072,F03_3_headMic_0212.wav,F03_3_0212,F03,dysarthria,asr_validation,It's about, Ansible,IT'S ABOUT,ANSIBLE,IT'S ABOUT,ANSIBLE
+15372,F04_1_arrayMic_0020.wav,F04_1_0020,F04,dysarthria,asr_validation,trace, trace,TRACE,TRACE,TRACE,TRACE
+15292,F04_1_arrayMic_0022.wav,F04_1_0022,F04,dysarthria,asr_validation,beat,beat,BEAT,BEAT,BEAT,BEAT
+15388,F04_1_arrayMic_0029.wav,F04_1_0029,F04,dysarthria,asr_validation,knew, News,KNEW,NEWS,KNEW,NEWS
+15355,F04_1_arrayMic_0030.wav,F04_1_0030,F04,dysarthria,asr_validation,chair, chair,CHAIR,CHAIR,CHAIR,CHAIR
+15379,F04_1_arrayMic_0051.wav,F04_1_0051,F04,dysarthria,asr_validation,park, Park,PARK,PARK,PARK,PARK
+15389,F04_1_arrayMic_0060.wav,F04_1_0060,F04,dysarthria,asr_validation,raid, Raid,RAID,RAID,RAID,RAID
+15337,F04_1_arrayMic_0061.wav,F04_1_0061,F04,dysarthria,asr_validation,he slowly takes a short walk in the open air each day, He slowly takes a short walk in the open air each day,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY
+15452,F04_1_arrayMic_0085.wav,F04_1_0085,F04,dysarthria,asr_validation,feet, Feet,FEET,FEET,FEET,FEET
+15424,F04_1_arrayMic_0089.wav,F04_1_0089,F04,dysarthria,asr_validation,double, double,DOUBLE,DOUBLE,DOUBLE,DOUBLE
+15321,F04_1_arrayMic_0091.wav,F04_1_0091,F04,dysarthria,asr_validation,Except in the winter when the ooze or snow or ice prevents, Accept in the winter when they owes or snow or ice prevents,EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS,ACCEPT IN THE WINTER WHEN THEY OWES OR SNOW OR ICE PREVENTS,EXCEPT IN THE WINTER WHEN THE OOZE OR SNOW OR ICE PREVENTS,ACCEPT IN THE WINTER WHEN THEY OWES OR SNOW OR ICE PREVENTS
+15288,F04_1_arrayMic_0114.wav,F04_1_0114,F04,dysarthria,asr_validation,one, one,ONE,ONE,ONE,ONE
+15377,F04_1_arrayMic_0116.wav,F04_1_0116,F04,dysarthria,asr_validation,sip, sip,SIP,SIP,SIP,SIP
+15320,F04_1_arrayMic_0136.wav,F04_1_0136,F04,dysarthria,asr_validation,troop, Troop,TROOP,TROOP,TROOP,TROOP
+15311,F04_1_arrayMic_0169.wav,F04_1_0169,F04,dysarthria,asr_validation,tile, tile,TILE,TILE,TILE,TILE
+15408,F04_1_arrayMic_0170.wav,F04_1_0170,F04,dysarthria,asr_validation,select, select,SELECT,SELECT,SELECT,SELECT
+15304,F04_1_arrayMic_0177.wav,F04_1_0177,F04,dysarthria,asr_validation,My sister made the flowered curtains, My sister made the flowered curtains,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS
+15356,F04_1_arrayMic_0182.wav,F04_1_0182,F04,dysarthria,asr_validation,pay, pay,PAY,PAY,PAY,PAY
+15430,F04_1_arrayMic_0183.wav,F04_1_0183,F04,dysarthria,asr_validation,light, light,LIGHT,LIGHT,LIGHT,LIGHT
+15359,F04_1_arrayMic_0190.wav,F04_1_0190,F04,dysarthria,asr_validation,rock, Rock,ROCK,ROCK,ROCK,ROCK
+15122,F04_2_headMic_0004.wav,F04_2_0004,F04,dysarthria,asr_validation,Will Robin wear a yellow lily, Will Robin wear a yellow lily,WILL ROBIN WEAR A YELLOW LILY,WILL ROBIN WEAR A YELLOW LILY,WILL ROBIN WEAR A YELLOW LILY,WILL ROBIN WEAR A YELLOW LILY
+15213,F04_2_headMic_0010.wav,F04_2_0010,F04,dysarthria,asr_validation,shear, sheer,SHEAR,SHEER,SHEAR,SHEER
+15159,F04_2_headMic_0017.wav,F04_2_0017,F04,dysarthria,asr_validation,sprinkle, Spinkle,SPRINKLE,SPINKLE,SPRINKLE,SPINKLE
+15123,F04_2_headMic_0051.wav,F04_2_0051,F04,dysarthria,asr_validation,side, side,SIDE,SIDE,SIDE,SIDE
+15212,F04_2_headMic_0055.wav,F04_2_0055,F04,dysarthria,asr_validation,The humidity is overwhelming there, The humidity is overwhelming there,THE HUMIDITY IS OVERWHELMING THERE,THE HUMIDITY IS OVERWHELMING THERE,THE HUMIDITY IS OVERWHELMING THERE,THE HUMIDITY IS OVERWHELMING THERE
+15236,F04_2_headMic_0069.wav,F04_2_0069,F04,dysarthria,asr_validation,fruit, Fruit,FRUIT,FRUIT,FRUIT,FRUIT
+15045,F04_2_headMic_0085.wav,F04_2_0085,F04,dysarthria,asr_validation,If you are losing water replace it immediately, If you are losing water replace it immediately,IF YOU ARE LOSING WATER REPLACE IT IMMEDIATELY,IF YOU ARE LOSING WATER REPLACE IT IMMEDIATELY,IF YOU ARE LOSING WATER REPLACE IT IMMEDIATELY,IF YOU ARE LOSING WATER REPLACE IT IMMEDIATELY
+15167,F04_2_headMic_0094.wav,F04_2_0094,F04,dysarthria,asr_validation,darn, darn,DARN,DARN,DARN,DARN
+15191,F04_2_headMic_0102.wav,F04_2_0102,F04,dysarthria,asr_validation,brought, Bought,BROUGHT,BOUGHT,BROUGHT,BOUGHT
+15245,F04_2_headMic_0110.wav,F04_2_0110,F04,dysarthria,asr_validation,dart, dart,DART,DART,DART,DART
+15224,F04_2_headMic_0118.wav,F04_2_0118,F04,dysarthria,asr_validation,It was a good win for us, It was a good wind for us,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIND FOR US,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIND FOR US
+15145,F04_2_headMic_0140.wav,F04_2_0140,F04,dysarthria,asr_validation,The box contained three sweaters, The box contains three sweaters,THE BOX CONTAINED THREE SWEATERS,THE BOX CONTAINS THREE SWEATERS,THE BOX CONTAINED THREE SWEATERS,THE BOX CONTAINS THREE SWEATERS
+15153,F04_2_headMic_0143.wav,F04_2_0143,F04,dysarthria,asr_validation,This is not a program of socialized medicine, This is not a program of socialized medicine,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE
+15181,F04_2_headMic_0146.wav,F04_2_0146,F04,dysarthria,asr_validation,at, at,AT,AT,AT,AT
+15165,F04_2_headMic_0158.wav,F04_2_0158,F04,dysarthria,asr_validation,hark, Hark,HARK,HARK,HARK,HARK
+15080,F04_2_headMic_0191.wav,F04_2_0191,F04,dysarthria,asr_validation,bite, Bite,BITE,BITE,BITE,BITE
+15155,F04_2_headMic_0194.wav,F04_2_0194,F04,dysarthria,asr_validation,thorn, corn,THORN,CORN,THORN,CORN
+15085,F04_2_headMic_0199.wav,F04_2_0199,F04,dysarthria,asr_validation,harp, Hup,HARP,HUP,HARP,HUP
+15053,F04_2_headMic_0206.wav,F04_2_0206,F04,dysarthria,asr_validation,The books are very expensive, The books are very expensive,THE BOOKS ARE VERY EXPENSIVE,THE BOOKS ARE VERY EXPENSIVE,THE BOOKS ARE VERY EXPENSIVE,THE BOOKS ARE VERY EXPENSIVE
+15067,F04_2_headMic_0211.wav,F04_2_0211,F04,dysarthria,asr_validation,sin, Sin,SIN,SIN,SIN,SIN
+15086,F04_2_headMic_0216.wav,F04_2_0216,F04,dysarthria,asr_validation,uniform, Uniform,UNIFORM,UNIFORM,UNIFORM,UNIFORM
+15195,F04_2_headMic_0229.wav,F04_2_0229,F04,dysarthria,asr_validation,nest, Nest,NEST,NEST,NEST,NEST
+15095,F04_2_headMic_0232.wav,F04_2_0232,F04,dysarthria,asr_validation,xray, X-ray,XRAY,XRAY,XRAY,X RAY
+15041,F04_2_headMic_0245.wav,F04_2_0245,F04,dysarthria,asr_validation,nut, NUTt,NUT,NUTT,NUT,NUTT
+190,FC01_1_headMic_0010.wav,FC01_1_0010,FC01,healthy,asr_validation,farm, Farm,FARM,FARM,FARM,FARM
+178,FC01_1_headMic_0024.wav,FC01_1_0024,FC01,healthy,asr_validation,swarm, swarm,SWARM,SWARM,SWARM,SWARM
+216,FC01_1_headMic_0028.wav,FC01_1_0028,FC01,healthy,asr_validation,form, form,FORM,FORM,FORM,FORM
+287,FC01_1_headMic_0031.wav,FC01_1_0031,FC01,healthy,asr_validation,chair, chair,CHAIR,CHAIR,CHAIR,CHAIR
+278,FC01_1_headMic_0044.wav,FC01_1_0044,FC01,healthy,asr_validation,stubble, stubble,STUBBLE,STUBBLE,STUBBLE,STUBBLE
+205,FC01_1_headMic_0053.wav,FC01_1_0053,FC01,healthy,asr_validation,raid, Raid,RAID,RAID,RAID,RAID
+228,FC01_1_headMic_0060.wav,FC01_1_0060,FC01,healthy,asr_validation,hair, hair,HAIR,HAIR,HAIR,HAIR
+162,FC01_1_headMic_0067.wav,FC01_1_0067,FC01,healthy,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+215,FC01_1_headMic_0069.wav,FC01_1_0069,FC01,healthy,asr_validation,beat,beat,BEAT,BEAT,BEAT,BEAT
+275,FC01_1_headMic_0074.wav,FC01_1_0074,FC01,healthy,asr_validation,stick, Stick,STICK,STICK,STICK,STICK
+208,FC01_1_headMic_0085.wav,FC01_1_0085,FC01,healthy,asr_validation,usually minus several buttons, Usually minus several buttons,USUALLY MINUS SEVERAL BUTTONS,USUALLY MINUS SEVERAL BUTTONS,USUALLY MINUS SEVERAL BUTTONS,USUALLY MINUS SEVERAL BUTTONS
+159,FC01_1_headMic_0092.wav,FC01_1_0092,FC01,healthy,asr_validation,jacket, jacket,JACKET,JACKET,JACKET,JACKET
+192,FC01_1_headMic_0111.wav,FC01_1_0111,FC01,healthy,asr_validation,yet he still thinks as swiftly as ever, Yet he still thinks as swiftly as ever,YET HE STILL THINKS AS SWIFTLY AS EVER,YET HE STILL THINKS AS SWIFTLY AS EVER,YET HE STILL THINKS AS SWIFTLY AS EVER,YET HE STILL THINKS AS SWIFTLY AS EVER
+237,FC01_1_headMic_0112.wav,FC01_1_0112,FC01,healthy,asr_validation,slip, slit,SLIP,SLIT,SLIP,SLIT
+260,FC01_1_headMic_0130.wav,FC01_1_0130,FC01,healthy,asr_validation,Mother sews yellow gingham aprons, Mother so is yellow-ging him aprons,MOTHER SEWS YELLOW GINGHAM APRONS,MOTHER SO IS YELLOWGING HIM APRONS,MOTHER SEWS YELLOW GINGHAM APRONS,MOTHER SO IS YELLOW GING HIM APRONS
+182,FC01_1_headMic_0158.wav,FC01_1_0158,FC01,healthy,asr_validation,coupe, coupe,COUPE,COUPE,COUPE,COUPE
+504,FC02_2_arrayMic_0005.wav,FC02_2_0005,FC02,healthy,asr_validation,no, No,NO,NO,NO,NO
+487,FC02_2_arrayMic_0013.wav,FC02_2_0013,FC02,healthy,asr_validation,knee, knee,KNEE,KNEE,KNEE,KNEE
+412,FC02_2_arrayMic_0027.wav,FC02_2_0027,FC02,healthy,asr_validation,trace, Trace,TRACE,TRACE,TRACE,TRACE
+406,FC02_2_arrayMic_0039.wav,FC02_2_0039,FC02,healthy,asr_validation,trait, trait,TRAIT,TRAIT,TRAIT,TRAIT
+488,FC02_2_arrayMic_0047.wav,FC02_2_0047,FC02,healthy,asr_validation,beat, Feet,BEAT,FEET,BEAT,FEET
+386,FC02_2_arrayMic_0048.wav,FC02_2_0048,FC02,healthy,asr_validation,he dresses himself in an ancient black frock coat, He dresses himself in an ancient black-frock coat,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACKFROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT
+463,FC02_2_arrayMic_0050.wav,FC02_2_0050,FC02,healthy,asr_validation,he dresses himself in an ancient black frock coat, He dresses himself in an ancient black-frock coat,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACKFROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT
+309,FC02_2_arrayMic_0072.wav,FC02_2_0072,FC02,healthy,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+350,FC02_2_arrayMic_0098.wav,FC02_2_0098,FC02,healthy,asr_validation,lead , Lead,LEAD,LEAD,LEAD,LEAD
+351,FC02_2_arrayMic_0112.wav,FC02_2_0112,FC02,healthy,asr_validation,read , read,READ,READ,READ,READ
+354,FC02_2_arrayMic_0114.wav,FC02_2_0114,FC02,healthy,asr_validation,gadget, Gadget,GADGET,GADGET,GADGET,GADGET
+444,FC02_2_arrayMic_0131.wav,FC02_2_0131,FC02,healthy,asr_validation,one, one,ONE,ONE,ONE,ONE
+339,FC02_2_arrayMic_0139.wav,FC02_2_0139,FC02,healthy,asr_validation,fear, fear,FEAR,FEAR,FEAR,FEAR
+341,FC02_2_arrayMic_0142.wav,FC02_2_0142,FC02,healthy,asr_validation,shear, Sheer,SHEAR,SHEER,SHEAR,SHEER
+347,FC02_2_arrayMic_0169.wav,FC02_2_0169,FC02,healthy,asr_validation,urgent, Urgent,URGENT,URGENT,URGENT,URGENT
+508,FC02_2_arrayMic_0176.wav,FC02_2_0176,FC02,healthy,asr_validation,droop,joop,DROOP,JOOP,DROOP,JOOP
+416,FC02_2_arrayMic_0179.wav,FC02_2_0179,FC02,healthy,asr_validation,much, much,MUCH,MUCH,MUCH,MUCH
+500,FC02_2_arrayMic_0184.wav,FC02_2_0184,FC02,healthy,asr_validation,mut, Mutt,MUT,MUTT,MUT,MUTT
+376,FC02_2_arrayMic_0190.wav,FC02_2_0190,FC02,healthy,asr_validation,I scrubbed the floors thoroughly, I scrubbed the floors thoroughly,I SCRUBBED THE FLOORS THOROUGHLY,I SCRUBBED THE FLOORS THOROUGHLY,I SCRUBBED THE FLOORS THOROUGHLY,I SCRUBBED THE FLOORS THOROUGHLY
+478,FC02_2_arrayMic_0191.wav,FC02_2_0191,FC02,healthy,asr_validation,I scrubbed the floors thoroughly, I scrubbed the floor as thoroughly,I SCRUBBED THE FLOORS THOROUGHLY,I SCRUBBED THE FLOOR AS THOROUGHLY,I SCRUBBED THE FLOORS THOROUGHLY,I SCRUBBED THE FLOOR AS THOROUGHLY
+502,FC02_2_arrayMic_0193.wav,FC02_2_0193,FC02,healthy,asr_validation,explore, Explore,EXPLORE,EXPLORE,EXPLORE,EXPLORE
+426,FC02_2_arrayMic_0196.wav,FC02_2_0196,FC02,healthy,asr_validation,I was conscious all the time, I was conscious all the time,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME
+312,FC02_2_arrayMic_0197.wav,FC02_2_0197,FC02,healthy,asr_validation,root, root,ROOT,ROOT,ROOT,ROOT
+396,FC02_2_arrayMic_0213.wav,FC02_2_0213,FC02,healthy,asr_validation,delta, filter,DELTA,FILTER,DELTA,FILTER
+410,FC02_2_arrayMic_0215.wav,FC02_2_0215,FC02,healthy,asr_validation,He will allow a rare lie, He will allow a rare lie,HE WILL ALLOW A RARE LIE,HE WILL ALLOW A RARE LIE,HE WILL ALLOW A RARE LIE,HE WILL ALLOW A RARE LIE
+456,FC02_2_arrayMic_0230.wav,FC02_2_0230,FC02,healthy,asr_validation,Two other cases also were under advisement, Two other cases also were under advisement,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT
+469,FC02_2_arrayMic_0238.wav,FC02_2_0238,FC02,healthy,asr_validation,deer, beer,DEER,BEER,DEER,BEER
+311,FC02_2_arrayMic_0243.wav,FC02_2_0243,FC02,healthy,asr_validation,sleep, Sleep,SLEEP,SLEEP,SLEEP,SLEEP
+415,FC02_2_arrayMic_0263.wav,FC02_2_0263,FC02,healthy,asr_validation,bat, bat bat,BAT,BAT BAT,BAT,BAT BAT
+2255,FC02_3_headMic_0017.wav,FC02_3_0017,FC02,healthy,asr_validation,There is a treehouse up above, There is a treehouse up above,THERE IS A TREEHOUSE UP ABOVE,THERE IS A TREEHOUSE UP ABOVE,THERE IS A TREEHOUSE UP ABOVE,THERE IS A TREEHOUSE UP ABOVE
+2158,FC02_3_headMic_0026.wav,FC02_3_0026,FC02,healthy,asr_validation,This is not a program of socialized medicine, This is not a program of socialized medicine,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE
+1991,FC02_3_headMic_0037.wav,FC02_3_0037,FC02,healthy,asr_validation,seed, Seed,SEED,SEED,SEED,SEED
+2231,FC02_3_headMic_0041.wav,FC02_3_0041,FC02,healthy,asr_validation,mike, Mike,MIKE,MIKE,MIKE,MIKE
+2301,FC02_3_headMic_0054.wav,FC02_3_0054,FC02,healthy,asr_validation,lair, layer,LAIR,LAYER,LAIR,LAYER
+2219,FC02_3_headMic_0062.wav,FC02_3_0062,FC02,healthy,asr_validation,pretty, Pretty,PRETTY,PRETTY,PRETTY,PRETTY
+1620,FC02_3_headMic_0074.wav,FC02_3_0074,FC02,healthy,asr_validation,him, him,HIM,HIM,HIM,HIM
+2099,FC02_3_headMic_0076.wav,FC02_3_0076,FC02,healthy,asr_validation,Swing your arm as high as you can, Swing your arm as high as can,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS CAN
+2220,FC02_3_headMic_0084.wav,FC02_3_0084,FC02,healthy,asr_validation,lima, Lima,LIMA,LIMA,LIMA,LIMA
+2449,FC02_3_headMic_0088.wav,FC02_3_0088,FC02,healthy,asr_validation,The dolphins swam around our boat, The dolphin swam around our boat,THE DOLPHINS SWAM AROUND OUR BOAT,THE DOLPHIN SWAM AROUND OUR BOAT,THE DOLPHINS SWAM AROUND OUR BOAT,THE DOLPHIN SWAM AROUND OUR BOAT
+1997,FC02_3_headMic_0105.wav,FC02_3_0105,FC02,healthy,asr_validation,darn, darn,DARN,DARN,DARN,DARN
+1538,FC02_3_headMic_0116.wav,FC02_3_0116,FC02,healthy,asr_validation,heart, heart,HEART,HEART,HEART,HEART
+1957,FC02_3_headMic_0124.wav,FC02_3_0124,FC02,healthy,asr_validation,zero, Zero,ZERO,ZERO,ZERO,ZERO
+1606,FC02_3_headMic_0137.wav,FC02_3_0137,FC02,healthy,asr_validation,The owners regularly look for plumbing leaks, The owner's regularly looked for plumbing leaks,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,THE OWNER'S REGULARLY LOOKED FOR PLUMBING LEAKS,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,THE OWNER'S REGULARLY LOOKED FOR PLUMBING LEAKS
+1896,FC02_3_headMic_0171.wav,FC02_3_0171,FC02,healthy,asr_validation,glitter, Glitter,GLITTER,GLITTER,GLITTER,GLITTER
+1572,FC02_3_headMic_0182.wav,FC02_3_0182,FC02,healthy,asr_validation,Only lawyers love millionaires, Only lawyers love millionaires,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES
+1767,FC02_3_headMic_0183.wav,FC02_3_0183,FC02,healthy,asr_validation,spit, spit,SPIT,SPIT,SPIT,SPIT
+2460,FC02_3_headMic_0196.wav,FC02_3_0196,FC02,healthy,asr_validation,hand, Hand,HAND,HAND,HAND,HAND
+2390,FC02_3_headMic_0210.wav,FC02_3_0210,FC02,healthy,asr_validation,hand, Hand,HAND,HAND,HAND,HAND
+1550,FC02_3_headMic_0220.wav,FC02_3_0220,FC02,healthy,asr_validation,him, him,HIM,HIM,HIM,HIM
+2474,FC02_3_headMic_0221.wav,FC02_3_0221,FC02,healthy,asr_validation,romeo, Romeo,ROMEO,ROMEO,ROMEO,ROMEO
+2156,FC02_3_headMic_0229.wav,FC02_3_0229,FC02,healthy,asr_validation,nice, Nice,NICE,NICE,NICE,NICE
+1848,FC02_3_headMic_0250.wav,FC02_3_0250,FC02,healthy,asr_validation,whisky, whiskey,WHISKY,WHISKEY,WHISKY,WHISKEY
+2144,FC02_3_headMic_0254.wav,FC02_3_0254,FC02,healthy,asr_validation,air, air,AIR,AIR,AIR,AIR
+2017,FC02_3_headMic_0286.wav,FC02_3_0286,FC02,healthy,asr_validation,chair, chair,CHAIR,CHAIR,CHAIR,CHAIR
+1876,FC02_3_headMic_0291.wav,FC02_3_0291,FC02,healthy,asr_validation,leak, Leak,LEAK,LEAK,LEAK,LEAK
+1598,FC02_3_headMic_0292.wav,FC02_3_0292,FC02,healthy,asr_validation,much, MUTt,MUCH,MUTT,MUCH,MUTT
+1543,FC02_3_headMic_0297.wav,FC02_3_0297,FC02,healthy,asr_validation,weep, Weep,WEEP,WEEP,WEEP,WEEP
+1934,FC02_3_headMic_0306.wav,FC02_3_0306,FC02,healthy,asr_validation,snort, snort,SNORT,SNORT,SNORT,SNORT
+2467,FC02_3_headMic_0310.wav,FC02_3_0310,FC02,healthy,asr_validation,Who knows what you'll discover about yourself, Who knows what you'll discover about yourself,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF
+2106,FC02_3_headMic_0315.wav,FC02_3_0315,FC02,healthy,asr_validation,rake, Rake,RAKE,RAKE,RAKE,RAKE
+1965,FC02_3_headMic_0316.wav,FC02_3_0316,FC02,healthy,asr_validation,dead, dead,DEAD,DEAD,DEAD,DEAD
+1853,FC02_3_headMic_0329.wav,FC02_3_0329,FC02,healthy,asr_validation,The results were very disappointing, The results were very disappointing,THE RESULTS WERE VERY DISAPPOINTING,THE RESULTS WERE VERY DISAPPOINTING,THE RESULTS WERE VERY DISAPPOINTING,THE RESULTS WERE VERY DISAPPOINTING
+2082,FC02_3_headMic_0334.wav,FC02_3_0334,FC02,healthy,asr_validation,ray, Ray,RAY,RAY,RAY,RAY
+2018,FC02_3_headMic_0338.wav,FC02_3_0338,FC02,healthy,asr_validation,hold, Hold,HOLD,HOLD,HOLD,HOLD
+2135,FC02_3_headMic_0341.wav,FC02_3_0341,FC02,healthy,asr_validation,That's what life is really all about, That's what life is really all about,THAT'S WHAT LIFE IS REALLY ALL ABOUT,THAT'S WHAT LIFE IS REALLY ALL ABOUT,THAT'S WHAT LIFE IS REALLY ALL ABOUT,THAT'S WHAT LIFE IS REALLY ALL ABOUT
+2218,FC02_3_headMic_0370.wav,FC02_3_0370,FC02,healthy,asr_validation,reap, Reap,REAP,REAP,REAP,REAP
+2327,FC02_3_headMic_0375.wav,FC02_3_0375,FC02,healthy,asr_validation,lend, Lend,LEND,LEND,LEND,LEND
+2081,FC02_3_headMic_0378.wav,FC02_3_0378,FC02,healthy,asr_validation,rise, Rise,RISE,RISE,RISE,RISE
+2225,FC02_3_headMic_0387.wav,FC02_3_0387,FC02,healthy,asr_validation,lip, lip,LIP,LIP,LIP,LIP
+1577,FC02_3_headMic_0394.wav,FC02_3_0394,FC02,healthy,asr_validation,muck, muck,MUCK,MUCK,MUCK,MUCK
+2454,FC02_3_headMic_0406.wav,FC02_3_0406,FC02,healthy,asr_validation,six, 6,SIX,6,SIX,6
+2173,FC02_3_headMic_0417.wav,FC02_3_0417,FC02,healthy,asr_validation,reap, Reap,REAP,REAP,REAP,REAP
+2379,FC02_3_headMic_0418.wav,FC02_3_0418,FC02,healthy,asr_validation,hail, Hale,HAIL,HALE,HAIL,HALE
+1828,FC02_3_headMic_0427.wav,FC02_3_0427,FC02,healthy,asr_validation,me, Meey,ME,MEEY,ME,MEEY
+2356,FC02_3_headMic_0430.wav,FC02_3_0430,FC02,healthy,asr_validation,Gold can be found anywhere, Gold can be found anywhere,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE
+2290,FC02_3_headMic_0435.wav,FC02_3_0435,FC02,healthy,asr_validation,I loved every minute of it, I loved every minute of it,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT
+2102,FC02_3_headMic_0439.wav,FC02_3_0439,FC02,healthy,asr_validation,I don't think it's a good idea, I don't think it's a good idea,I DON'T THINK IT'S A GOOD IDEA,I DON'T THINK IT'S A GOOD IDEA,I DON'T THINK IT'S A GOOD IDEA,I DON'T THINK IT'S A GOOD IDEA
+1781,FC02_3_headMic_0451.wav,FC02_3_0451,FC02,healthy,asr_validation,guess, guess,GUESS,GUESS,GUESS,GUESS
+1976,FC02_3_headMic_0462.wav,FC02_3_0462,FC02,healthy,asr_validation,That pickpocket was caught redhanded, that pick pocket was caught red handed,THAT PICKPOCKET WAS CAUGHT REDHANDED,THAT PICK POCKET WAS CAUGHT RED HANDED,THAT PICKPOCKET WAS CAUGHT REDHANDED,THAT PICK POCKET WAS CAUGHT RED HANDED
+1908,FC02_3_headMic_0464.wav,FC02_3_0464,FC02,healthy,asr_validation,mock, mock,MOCK,MOCK,MOCK,MOCK
+1548,FC02_3_headMic_0474.wav,FC02_3_0474,FC02,healthy,asr_validation,food, food,FOOD,FOOD,FOOD,FOOD
+2294,FC02_3_headMic_0476.wav,FC02_3_0476,FC02,healthy,asr_validation,see, See,SEE,SEE,SEE,SEE
+1738,FC02_3_headMic_0485.wav,FC02_3_0485,FC02,healthy,asr_validation,The marriage went well from the start, The marriage went well from the start,THE MARRIAGE WENT WELL FROM THE START,THE MARRIAGE WENT WELL FROM THE START,THE MARRIAGE WENT WELL FROM THE START,THE MARRIAGE WENT WELL FROM THE START
+1893,FC02_3_headMic_0494.wav,FC02_3_0494,FC02,healthy,asr_validation,ape, eight,APE,EIGHT,APE,EIGHT
+1703,FC02_3_headMic_0505.wav,FC02_3_0505,FC02,healthy,asr_validation,tail, tail,TAIL,TAIL,TAIL,TAIL
+2188,FC02_3_headMic_0509.wav,FC02_3_0509,FC02,healthy,asr_validation,ache, Ake,ACHE,AKE,ACHE,AKE
+2157,FC02_3_headMic_0513.wav,FC02_3_0513,FC02,healthy,asr_validation,beef, beef,BEEF,BEEF,BEEF,BEEF
+1952,FC02_3_headMic_0523.wav,FC02_3_0523,FC02,healthy,asr_validation,hat, hat,HAT,HAT,HAT,HAT
+2207,FC02_3_headMic_0525.wav,FC02_3_0525,FC02,healthy,asr_validation,knock,knock,KNOCK,KNOCK,KNOCK,KNOCK
+1867,FC02_3_headMic_0539.wav,FC02_3_0539,FC02,healthy,asr_validation,rake, Rake,RAKE,RAKE,RAKE,RAKE
+2105,FC02_3_headMic_0555.wav,FC02_3_0555,FC02,healthy,asr_validation,punch, punch,PUNCH,PUNCH,PUNCH,PUNCH
+1833,FC02_3_headMic_0560.wav,FC02_3_0560,FC02,healthy,asr_validation,Range was a vital detail, Range was a vital detail,RANGE WAS A VITAL DETAIL,RANGE WAS A VITAL DETAIL,RANGE WAS A VITAL DETAIL,RANGE WAS A VITAL DETAIL
+2149,FC02_3_headMic_0614.wav,FC02_3_0614,FC02,healthy,asr_validation,I didn't know where they were coming from, I didn't know where they were coming from,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM
+2042,FC02_3_headMic_0615.wav,FC02_3_0615,FC02,healthy,asr_validation,Look for pockets of black sand, Look for pockets of black sand,LOOK FOR POCKETS OF BLACK SAND,LOOK FOR POCKETS OF BLACK SAND,LOOK FOR POCKETS OF BLACK SAND,LOOK FOR POCKETS OF BLACK SAND
+1758,FC02_3_headMic_0654.wav,FC02_3_0654,FC02,healthy,asr_validation,fork, fork,FORK,FORK,FORK,FORK
+2393,FC02_3_headMic_0679.wav,FC02_3_0679,FC02,healthy,asr_validation,pant, pant,PANT,PANT,PANT,PANT
+1661,FC02_3_headMic_0680.wav,FC02_3_0680,FC02,healthy,asr_validation,win, Wynn,WIN,WYNN,WIN,WYNN
+1975,FC02_3_headMic_0694.wav,FC02_3_0694,FC02,healthy,asr_validation,pat, Pat Pat,PAT,PAT PAT,PAT,PAT PAT
+1901,FC02_3_headMic_0700.wav,FC02_3_0700,FC02,healthy,asr_validation,We're all disappointed with our start, We're all disappointed with our start,WE'RE ALL DISAPPOINTED WITH OUR START,WE'RE ALL DISAPPOINTED WITH OUR START,WE'RE ALL DISAPPOINTED WITH OUR START,WE'RE ALL DISAPPOINTED WITH OUR START
+2340,FC02_3_headMic_0703.wav,FC02_3_0703,FC02,healthy,asr_validation,eyes, eyes,EYES,EYES,EYES,EYES
+1652,FC02_3_headMic_0706.wav,FC02_3_0706,FC02,healthy,asr_validation,sink, sink,SINK,SINK,SINK,SINK
+1596,FC02_3_headMic_0723.wav,FC02_3_0723,FC02,healthy,asr_validation,The snow blew into large drifts, The snow blew into large dress,THE SNOW BLEW INTO LARGE DRIFTS,THE SNOW BLEW INTO LARGE DRESS,THE SNOW BLEW INTO LARGE DRIFTS,THE SNOW BLEW INTO LARGE DRESS
+1696,FC02_3_headMic_0724.wav,FC02_3_0724,FC02,healthy,asr_validation,Regular attendance is seldom required, Regular attendance is seldom required,REGULAR ATTENDANCE IS SELDOM REQUIRED,REGULAR ATTENDANCE IS SELDOM REQUIRED,REGULAR ATTENDANCE IS SELDOM REQUIRED,REGULAR ATTENDANCE IS SELDOM REQUIRED
+2456,FC02_3_headMic_0737.wav,FC02_3_0737,FC02,healthy,asr_validation,The staff deserves a lot of credit working down here under real obstacles, The staff deserves a lot of credit working down here under real obstacles,THE STAFF DESERVES A LOT OF CREDIT WORKING DOWN HERE UNDER REAL OBSTACLES,THE STAFF DESERVES A LOT OF CREDIT WORKING DOWN HERE UNDER REAL OBSTACLES,THE STAFF DESERVES A LOT OF CREDIT WORKING DOWN HERE UNDER REAL OBSTACLES,THE STAFF DESERVES A LOT OF CREDIT WORKING DOWN HERE UNDER REAL OBSTACLES
+2041,FC02_3_headMic_0738.wav,FC02_3_0738,FC02,healthy,asr_validation,hid, hid,HID,HID,HID,HID
+1746,FC02_3_headMic_0780.wav,FC02_3_0780,FC02,healthy,asr_validation,beat,beat,BEAT,BEAT,BEAT,BEAT
+1916,FC02_3_headMic_0792.wav,FC02_3_0792,FC02,healthy,asr_validation,fool, Fool,FOOL,FOOL,FOOL,FOOL
+2137,FC02_3_headMic_0793.wav,FC02_3_0793,FC02,healthy,asr_validation,all, all,ALL,ALL,ALL,ALL
+1576,FC02_3_headMic_0816.wav,FC02_3_0816,FC02,healthy,asr_validation,bat, bat,BAT,BAT,BAT,BAT
+1760,FC02_3_headMic_0818.wav,FC02_3_0818,FC02,healthy,asr_validation,bat, bat,BAT,BAT,BAT,BAT
+1953,FC02_3_headMic_0823.wav,FC02_3_0823,FC02,healthy,asr_validation,space, space,SPACE,SPACE,SPACE,SPACE
+2363,FC02_3_headMic_0838.wav,FC02_3_0838,FC02,healthy,asr_validation,funnel, Funnel,FUNNEL,FUNNEL,FUNNEL,FUNNEL
+2126,FC02_3_headMic_0844.wav,FC02_3_0844,FC02,healthy,asr_validation,Spain, Spain,SPAIN,SPAIN,SPAIN,SPAIN
+2168,FC02_3_headMic_0846.wav,FC02_3_0846,FC02,healthy,asr_validation,cold, cold,COLD,COLD,COLD,COLD
+1941,FC02_3_headMic_0849.wav,FC02_3_0849,FC02,healthy,asr_validation,paste, Paste,PASTE,PASTE,PASTE,PASTE
+2076,FC02_3_headMic_0883.wav,FC02_3_0883,FC02,healthy,asr_validation,That's what I thought it was at first, That's what I thought it was at first,THAT'S WHAT I THOUGHT IT WAS AT FIRST,THAT'S WHAT I THOUGHT IT WAS AT FIRST,THAT'S WHAT I THOUGHT IT WAS AT FIRST,THAT'S WHAT I THOUGHT IT WAS AT FIRST
+1718,FC02_3_headMic_0884.wav,FC02_3_0884,FC02,healthy,asr_validation,They make gin saws and deal in parts supplies and some used gin machinery, They make gin sauce and deal in parts supplies and some used gin machinery,THEY MAKE GIN SAWS AND DEAL IN PARTS SUPPLIES AND SOME USED GIN MACHINERY,THEY MAKE GIN SAUCE AND DEAL IN PARTS SUPPLIES AND SOME USED GIN MACHINERY,THEY MAKE GIN SAWS AND DEAL IN PARTS SUPPLIES AND SOME USED GIN MACHINERY,THEY MAKE GIN SAUCE AND DEAL IN PARTS SUPPLIES AND SOME USED GIN MACHINERY
+2426,FC02_3_headMic_0900.wav,FC02_3_0900,FC02,healthy,asr_validation,shawl, Shaw,SHAWL,SHAW,SHAWL,SHAW
+2083,FC02_3_headMic_0910.wav,FC02_3_0910,FC02,healthy,asr_validation,Unfortunately there is still little demand for broccoli and cauliflower," Unfortunately, there are still little demands for broccoli and cauliflower",UNFORTUNATELY THERE IS STILL LITTLE DEMAND FOR BROCCOLI AND CAULIFLOWER,UNFORTUNATELY THERE ARE STILL LITTLE DEMANDS FOR BROCCOLI AND CAULIFLOWER,UNFORTUNATELY THERE IS STILL LITTLE DEMAND FOR BROCCOLI AND CAULIFLOWER,UNFORTUNATELY THERE ARE STILL LITTLE DEMANDS FOR BROCCOLI AND CAULIFLOWER
+1737,FC02_3_headMic_0927.wav,FC02_3_0927,FC02,healthy,asr_validation,slip, slip,SLIP,SLIP,SLIP,SLIP
+2368,FC02_3_headMic_0929.wav,FC02_3_0929,FC02,healthy,asr_validation,The misprint provoked an immediate disclaimer, The misprint provoked an immediate disclaimer,THE MISPRINT PROVOKED AN IMMEDIATE DISCLAIMER,THE MISPRINT PROVOKED AN IMMEDIATE DISCLAIMER,THE MISPRINT PROVOKED AN IMMEDIATE DISCLAIMER,THE MISPRINT PROVOKED AN IMMEDIATE DISCLAIMER
+2170,FC02_3_headMic_0964.wav,FC02_3_0964,FC02,healthy,asr_validation,converge, Converge,CONVERGE,CONVERGE,CONVERGE,CONVERGE
+2161,FC02_3_headMic_0976.wav,FC02_3_0976,FC02,healthy,asr_validation,deserve, dessert,DESERVE,DESSERT,DESERVE,DESSERT
+4364,FC03_1_headMic_0008.wav,FC03_1_0008,FC03,healthy,asr_validation,train, train,TRAIN,TRAIN,TRAIN,TRAIN
+4120,FC03_1_headMic_0018.wav,FC03_1_0018,FC03,healthy,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+4115,FC03_1_headMic_0028.wav,FC03_1_0028,FC03,healthy,asr_validation,double, Devil,DOUBLE,DEVIL,DOUBLE,DEVIL
+4146,FC03_1_headMic_0037.wav,FC03_1_0037,FC03,healthy,asr_validation,range, Range,RANGE,RANGE,RANGE,RANGE
+4102,FC03_1_headMic_0038.wav,FC03_1_0038,FC03,healthy,asr_validation,bubble, Bubble,BUBBLE,BUBBLE,BUBBLE,BUBBLE
+4291,FC03_1_headMic_0047.wav,FC03_1_0047,FC03,healthy,asr_validation,trouble, treble,TROUBLE,TREBLE,TROUBLE,TREBLE
+4185,FC03_1_headMic_0048.wav,FC03_1_0048,FC03,healthy,asr_validation,stubble, Stubble,STUBBLE,STUBBLE,STUBBLE,STUBBLE
+4266,FC03_1_headMic_0049.wav,FC03_1_0049,FC03,healthy,asr_validation,Well he is nearly ninetythree years old," Well, he is nearly 93 years old",WELL HE IS NEARLY NINETYTHREE YEARS OLD,WELL HE IS NEARLY 93 YEARS OLD,WELL HE IS NEARLY NINETYTHREE YEARS OLD,WELL HE IS NEARLY 93 YEARS OLD
+4324,FC03_1_headMic_0058.wav,FC03_1_0058,FC03,healthy,asr_validation,torn, Torn,TORN,TORN,TORN,TORN
+4109,FC03_1_headMic_0059.wav,FC03_1_0059,FC03,healthy,asr_validation,You wished to know all about my grandfather, You wish to know all about my grandfather,YOU WISHED TO KNOW ALL ABOUT MY GRANDFATHER,YOU WISH TO KNOW ALL ABOUT MY GRANDFATHER,YOU WISHED TO KNOW ALL ABOUT MY GRANDFATHER,YOU WISH TO KNOW ALL ABOUT MY GRANDFATHER
+4182,FC03_1_headMic_0080.wav,FC03_1_0080,FC03,healthy,asr_validation,swarm, swarm,SWARM,SWARM,SWARM,SWARM
+4217,FC03_1_headMic_0094.wav,FC03_1_0094,FC03,healthy,asr_validation,beat,beat,BEAT,BEAT,BEAT,BEAT
+4216,FC03_1_headMic_0104.wav,FC03_1_0104,FC03,healthy,asr_validation,bug, bug,BUG,BUG,BUG,BUG
+4379,FC03_1_headMic_0109.wav,FC03_1_0109,FC03,healthy,asr_validation,Twice each day he plays skillfully and with zest upon our small organ, twice each day he plays skillfully and with zest upon a small organ,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON A SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON A SMALL ORGAN
+4033,FC03_1_headMic_0110.wav,FC03_1_0110,FC03,healthy,asr_validation,lead , Lead,LEAD,LEAD,LEAD,LEAD
+4225,FC03_1_headMic_0120.wav,FC03_1_0120,FC03,healthy,asr_validation,trace, trace,TRACE,TRACE,TRACE,TRACE
+4118,FC03_1_headMic_0123.wav,FC03_1_0123,FC03,healthy,asr_validation,hair, hair,HAIR,HAIR,HAIR,HAIR
+4122,FC03_1_headMic_0125.wav,FC03_1_0125,FC03,healthy,asr_validation,warm, warm,WARM,WARM,WARM,WARM
+4335,FC03_1_headMic_0140.wav,FC03_1_0140,FC03,healthy,asr_validation,If you destroy confidence in banks you do something to the economy he said," If you destroy confidence in banks, you do something to the economy he said",IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID
+4400,FC03_1_headMic_0146.wav,FC03_1_0146,FC03,healthy,asr_validation,root, root,ROOT,ROOT,ROOT,ROOT
+4281,FC03_1_headMic_0148.wav,FC03_1_0148,FC03,healthy,asr_validation,menu, menu,MENU,MENU,MENU,MENU
+4397,FC03_1_headMic_0149.wav,FC03_1_0149,FC03,healthy,asr_validation,Why yell or worry over silly items, Why yell or worry over silly items,WHY YELL OR WORRY OVER SILLY ITEMS,WHY YELL OR WORRY OVER SILLY ITEMS,WHY YELL OR WORRY OVER SILLY ITEMS,WHY YELL OR WORRY OVER SILLY ITEMS
+4387,FC03_1_headMic_0177.wav,FC03_1_0177,FC03,healthy,asr_validation,slay, slay,SLAY,SLAY,SLAY,SLAY
+4067,FC03_1_headMic_0185.wav,FC03_1_0185,FC03,healthy,asr_validation,Everything went real smooth the sheriff said, Everything white real smooth the share of sad,EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WHITE REAL SMOOTH THE SHARE OF SAD,EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WHITE REAL SMOOTH THE SHARE OF SAD
+4238,FC03_1_headMic_0196.wav,FC03_1_0196,FC03,healthy,asr_validation,snoop, Snoop,SNOOP,SNOOP,SNOOP,SNOOP
+4360,FC03_1_headMic_0218.wav,FC03_1_0218,FC03,healthy,asr_validation,knot, knot,KNOT,KNOT,KNOT,KNOT
+4407,FC03_1_headMic_0221.wav,FC03_1_0221,FC03,healthy,asr_validation,slip, Slip,SLIP,SLIP,SLIP,SLIP
+4347,FC03_1_headMic_0237.wav,FC03_1_0237,FC03,healthy,asr_validation,We gathered shells on the beach, We gathered shells on the beach,WE GATHERED SHELLS ON THE BEACH,WE GATHERED SHELLS ON THE BEACH,WE GATHERED SHELLS ON THE BEACH,WE GATHERED SHELLS ON THE BEACH
+4164,FC03_1_headMic_0242.wav,FC03_1_0242,FC03,healthy,asr_validation,Their house is grey and white, their houses grey and white,THEIR HOUSE IS GREY AND WHITE,THEIR HOUSES GREY AND WHITE,THEIR HOUSE IS GREY AND WHITE,THEIR HOUSES GREY AND WHITE
+4091,FC03_1_headMic_0251.wav,FC03_1_0251,FC03,healthy,asr_validation,pot, pot,POT,POT,POT,POT
+4219,FC03_1_headMic_0300.wav,FC03_1_0300,FC03,healthy,asr_validation,We rode horseback to the farm, We rode horseback to the farm,WE RODE HORSEBACK TO THE FARM,WE RODE HORSEBACK TO THE FARM,WE RODE HORSEBACK TO THE FARM,WE RODE HORSEBACK TO THE FARM
+4312,FC03_1_headMic_0335.wav,FC03_1_0335,FC03,healthy,asr_validation,league, League,LEAGUE,LEAGUE,LEAGUE,LEAGUE
+4311,FC03_1_headMic_0364.wav,FC03_1_0364,FC03,healthy,asr_validation,sitting, sitting,SITTING,SITTING,SITTING,SITTING
+4369,FC03_1_headMic_0386.wav,FC03_1_0386,FC03,healthy,asr_validation,november, November,NOVEMBER,NOVEMBER,NOVEMBER,NOVEMBER
+4133,FC03_1_headMic_0389.wav,FC03_1_0389,FC03,healthy,asr_validation,cart, Cart,CART,CART,CART,CART
+4346,FC03_1_headMic_0392.wav,FC03_1_0392,FC03,healthy,asr_validation,city, city,CITY,CITY,CITY,CITY
+4097,FC03_1_headMic_0393.wav,FC03_1_0393,FC03,healthy,asr_validation,Carl lives in a lively home, Carl lives in a lively home,CARL LIVES IN A LIVELY HOME,CARL LIVES IN A LIVELY HOME,CARL LIVES IN A LIVELY HOME,CARL LIVES IN A LIVELY HOME
+4298,FC03_1_headMic_0402.wav,FC03_1_0402,FC03,healthy,asr_validation,blow, blow,BLOW,BLOW,BLOW,BLOW
+3072,FC03_2_headMic_0007.wav,FC03_2_0007,FC03,healthy,asr_validation,tin, tin,TIN,TIN,TIN,TIN
+3217,FC03_2_headMic_0016.wav,FC03_2_0016,FC03,healthy,asr_validation,ticker, ticker,TICKER,TICKER,TICKER,TICKER
+3093,FC03_2_headMic_0023.wav,FC03_2_0023,FC03,healthy,asr_validation,quicker, quicker,QUICKER,QUICKER,QUICKER,QUICKER
+3194,FC03_2_headMic_0025.wav,FC03_2_0025,FC03,healthy,asr_validation,Then we'd really have someplace to go, Then we'd really have some place to go,THEN WE'D REALLY HAVE SOMEPLACE TO GO,THEN WE'D REALLY HAVE SOME PLACE TO GO,THEN WE'D REALLY HAVE SOMEPLACE TO GO,THEN WE'D REALLY HAVE SOME PLACE TO GO
+2916,FC03_2_headMic_0032.wav,FC03_2_0032,FC03,healthy,asr_validation,nod, nod,NOD,NOD,NOD,NOD
+3184,FC03_2_headMic_0033.wav,FC03_2_0033,FC03,healthy,asr_validation,nest, Nest,NEST,NEST,NEST,NEST
+3113,FC03_2_headMic_0037.wav,FC03_2_0037,FC03,healthy,asr_validation,sink, sink,SINK,SINK,SINK,SINK
+3154,FC03_2_headMic_0047.wav,FC03_2_0047,FC03,healthy,asr_validation,Ned, Ned,NED,NED,NED,NED
+2908,FC03_2_headMic_0055.wav,FC03_2_0055,FC03,healthy,asr_validation,Some hotels are available nearby, Somehow tells are available nearby,SOME HOTELS ARE AVAILABLE NEARBY,SOMEHOW TELLS ARE AVAILABLE NEARBY,SOME HOTELS ARE AVAILABLE NEARBY,SOMEHOW TELLS ARE AVAILABLE NEARBY
+3059,FC03_2_headMic_0060.wav,FC03_2_0060,FC03,healthy,asr_validation,I'm willing to experiment for the first time, I'm willing to experiment for the first time,I'M WILLING TO EXPERIMENT FOR THE FIRST TIME,I'M WILLING TO EXPERIMENT FOR THE FIRST TIME,I'M WILLING TO EXPERIMENT FOR THE FIRST TIME,I'M WILLING TO EXPERIMENT FOR THE FIRST TIME
+2917,FC03_2_headMic_0069.wav,FC03_2_0069,FC03,healthy,asr_validation,sin, sin,SIN,SIN,SIN,SIN
+3069,FC03_2_headMic_0082.wav,FC03_2_0082,FC03,healthy,asr_validation,shoot, Shit,SHOOT,SHIT,SHOOT,SHIT
+2991,FC03_2_headMic_0097.wav,FC03_2_0097,FC03,healthy,asr_validation,Help Greg to pick a peck of potatoes, Help Greg to pick a peg of potatoes,HELP GREG TO PICK A PECK OF POTATOES,HELP GREG TO PICK A PEG OF POTATOES,HELP GREG TO PICK A PECK OF POTATOES,HELP GREG TO PICK A PEG OF POTATOES
+3172,FC03_2_headMic_0103.wav,FC03_2_0103,FC03,healthy,asr_validation,xray, X-ray,XRAY,XRAY,XRAY,X RAY
+2987,FC03_2_headMic_0114.wav,FC03_2_0114,FC03,healthy,asr_validation,The prospect of cutting back spending is an unpleasant one for any governor, The prospects of cutting back spending isn't unpleasant one for any governor,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECTS OF CUTTING BACK SPENDING ISN'T UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECTS OF CUTTING BACK SPENDING ISN'T UNPLEASANT ONE FOR ANY GOVERNOR
+3015,FC03_2_headMic_0129.wav,FC03_2_0129,FC03,healthy,asr_validation,In fact our whole defensive unit did a good job, In fact our whole defensive unit did a good job,IN FACT OUR WHOLE DEFENSIVE UNIT DID A GOOD JOB,IN FACT OUR WHOLE DEFENSIVE UNIT DID A GOOD JOB,IN FACT OUR WHOLE DEFENSIVE UNIT DID A GOOD JOB,IN FACT OUR WHOLE DEFENSIVE UNIT DID A GOOD JOB
+3193,FC03_2_headMic_0163.wav,FC03_2_0163,FC03,healthy,asr_validation,cheer, Cheer,CHEER,CHEER,CHEER,CHEER
+2882,FC03_2_headMic_0174.wav,FC03_2_0174,FC03,healthy,asr_validation,sketch, sketch,SKETCH,SKETCH,SKETCH,SKETCH
+3077,FC03_2_headMic_0176.wav,FC03_2_0176,FC03,healthy,asr_validation,foe, foe,FOE,FOE,FOE,FOE
+3202,FC03_2_headMic_0191.wav,FC03_2_0191,FC03,healthy,asr_validation,ship, Ship,SHIP,SHIP,SHIP,SHIP
+3122,FC03_2_headMic_0196.wav,FC03_2_0196,FC03,healthy,asr_validation,meat, meat,MEAT,MEAT,MEAT,MEAT
+3203,FC03_2_headMic_0201.wav,FC03_2_0201,FC03,healthy,asr_validation,A quick touchdown resulted, A quick touch down resulted,A QUICK TOUCHDOWN RESULTED,A QUICK TOUCH DOWN RESULTED,A QUICK TOUCHDOWN RESULTED,A QUICK TOUCH DOWN RESULTED
+2897,FC03_2_headMic_0210.wav,FC03_2_0210,FC03,healthy,asr_validation,reap, Reap,REAP,REAP,REAP,REAP
+3056,FC03_2_headMic_0272.wav,FC03_2_0272,FC03,healthy,asr_validation,timber, timber,TIMBER,TIMBER,TIMBER,TIMBER
+2954,FC03_2_headMic_0276.wav,FC03_2_0276,FC03,healthy,asr_validation,feet, Feet,FEET,FEET,FEET,FEET
+2977,FC03_2_headMic_0281.wav,FC03_2_0281,FC03,healthy,asr_validation,cheer, Cheer,CHEER,CHEER,CHEER,CHEER
+3058,FC03_2_headMic_0298.wav,FC03_2_0298,FC03,healthy,asr_validation,five, five,FIVE,FIVE,FIVE,FIVE
+3227,FC03_2_headMic_0311.wav,FC03_2_0311,FC03,healthy,asr_validation,knife, knife,KNIFE,KNIFE,KNIFE,KNIFE
+3189,FC03_2_headMic_0318.wav,FC03_2_0318,FC03,healthy,asr_validation,sticks, sticks,STICKS,STICKS,STICKS,STICKS
+3067,FC03_2_headMic_0323.wav,FC03_2_0323,FC03,healthy,asr_validation,Mom strongly dislikes appetizers, Mum strongly dislikes appetizers,MOM STRONGLY DISLIKES APPETIZERS,MUM STRONGLY DISLIKES APPETIZERS,MOM STRONGLY DISLIKES APPETIZERS,MUM STRONGLY DISLIKES APPETIZERS
+3051,FC03_2_headMic_0325.wav,FC03_2_0325,FC03,healthy,asr_validation,seat, seat,SEAT,SEAT,SEAT,SEAT
+2909,FC03_2_headMic_0332.wav,FC03_2_0332,FC03,healthy,asr_validation,hash, hash,HASH,HASH,HASH,HASH
+2958,FC03_2_headMic_0350.wav,FC03_2_0350,FC03,healthy,asr_validation,ache, ache,ACHE,ACHE,ACHE,ACHE
+3214,FC03_2_headMic_0381.wav,FC03_2_0381,FC03,healthy,asr_validation,lender, Lender,LENDER,LENDER,LENDER,LENDER
+2976,FC03_2_headMic_0384.wav,FC03_2_0384,FC03,healthy,asr_validation,nice, Nice,NICE,NICE,NICE,NICE
+3479,FC03_3_headMic_0008.wav,FC03_3_0008,FC03,healthy,asr_validation,see, See,SEE,SEE,SEE,SEE
+3524,FC03_3_headMic_0012.wav,FC03_3_0012,FC03,healthy,asr_validation,aid, Aid,AID,AID,AID,AID
+3537,FC03_3_headMic_0013.wav,FC03_3_0013,FC03,healthy,asr_validation,had, had,HAD,HAD,HAD,HAD
+3494,FC03_3_headMic_0019.wav,FC03_3_0019,FC03,healthy,asr_validation,fat, fat,FAT,FAT,FAT,FAT
+3581,FC03_3_headMic_0023.wav,FC03_3_0023,FC03,healthy,asr_validation,sticks, sticks,STICKS,STICKS,STICKS,STICKS
+3505,FC03_3_headMic_0033.wav,FC03_3_0033,FC03,healthy,asr_validation,We know we can score, We know we can score,WE KNOW WE CAN SCORE,WE KNOW WE CAN SCORE,WE KNOW WE CAN SCORE,WE KNOW WE CAN SCORE
+3560,FC03_3_headMic_0036.wav,FC03_3_0036,FC03,healthy,asr_validation,pat, Pat,PAT,PAT,PAT,PAT
+3586,FC03_3_headMic_0048.wav,FC03_3_0048,FC03,healthy,asr_validation,ache, eat,ACHE,EAT,ACHE,EAT
+3573,FC03_3_headMic_0050.wav,FC03_3_0050,FC03,healthy,asr_validation,The lack of heat compounded the tenant's grievances, The lack of heat compounded the tens grievances,THE LACK OF HEAT COMPOUNDED THE TENANT'S GRIEVANCES,THE LACK OF HEAT COMPOUNDED THE TENS GRIEVANCES,THE LACK OF HEAT COMPOUNDED THE TENANT'S GRIEVANCES,THE LACK OF HEAT COMPOUNDED THE TENS GRIEVANCES
+3510,FC03_3_headMic_0064.wav,FC03_3_0064,FC03,healthy,asr_validation,punch, punch,PUNCH,PUNCH,PUNCH,PUNCH
+3549,FC03_3_headMic_0075.wav,FC03_3_0075,FC03,healthy,asr_validation,The legislature met to judge the state of public education, The legislator met to judge the state of public education,THE LEGISLATURE MET TO JUDGE THE STATE OF PUBLIC EDUCATION,THE LEGISLATOR MET TO JUDGE THE STATE OF PUBLIC EDUCATION,THE LEGISLATURE MET TO JUDGE THE STATE OF PUBLIC EDUCATION,THE LEGISLATOR MET TO JUDGE THE STATE OF PUBLIC EDUCATION
+3544,FC03_3_headMic_0114.wav,FC03_3_0114,FC03,healthy,asr_validation,take, Take,TAKE,TAKE,TAKE,TAKE
+3546,FC03_3_headMic_0116.wav,FC03_3_0116,FC03,healthy,asr_validation,leak, Leak,LEAK,LEAK,LEAK,LEAK
+3567,FC03_3_headMic_0134.wav,FC03_3_0134,FC03,healthy,asr_validation,Be prepared for odd behavior from friends, Be prepared for odd behavior from friends,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS
+3609,FC03_3_headMic_0146.wav,FC03_3_0146,FC03,healthy,asr_validation,wax, wax,WAX,WAX,WAX,WAX
+3464,FC03_3_headMic_0147.wav,FC03_3_0147,FC03,healthy,asr_validation,He can't abide mistakes in his own game, He can't abide mistakes in his own game,HE CAN'T ABIDE MISTAKES IN HIS OWN GAME,HE CAN'T ABIDE MISTAKES IN HIS OWN GAME,HE CAN'T ABIDE MISTAKES IN HIS OWN GAME,HE CAN'T ABIDE MISTAKES IN HIS OWN GAME
+3583,FC03_3_headMic_0174.wav,FC03_3_0174,FC03,healthy,asr_validation,waste, Waste,WASTE,WASTE,WASTE,WASTE
+3590,FC03_3_headMic_0179.wav,FC03_3_0179,FC03,healthy,asr_validation,hold, Hold Hold,HOLD,HOLD HOLD,HOLD,HOLD HOLD
+3509,FC03_3_headMic_0183.wav,FC03_3_0183,FC03,healthy,asr_validation,It was time to go up myself, It was time to go up myself,IT WAS TIME TO GO UP MYSELF,IT WAS TIME TO GO UP MYSELF,IT WAS TIME TO GO UP MYSELF,IT WAS TIME TO GO UP MYSELF
+3616,FC03_3_headMic_0186.wav,FC03_3_0186,FC03,healthy,asr_validation,We got drenched from the uninterrupted rain, We got drenched from the uninterpreted rain out,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN,WE GOT DRENCHED FROM THE UNINTERPRETED RAIN OUT,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN,WE GOT DRENCHED FROM THE UNINTERPRETED RAIN OUT
+3624,FC03_3_headMic_0189.wav,FC03_3_0189,FC03,healthy,asr_validation,wise, Wise,WISE,WISE,WISE,WISE
+3633,FC03_3_headMic_0199.wav,FC03_3_0199,FC03,healthy,asr_validation,pink, paint,PINK,PAINT,PINK,PAINT
+3630,FC03_3_headMic_0206.wav,FC03_3_0206,FC03,healthy,asr_validation,A few may be hard to find, A few may be hard to find,A FEW MAY BE HARD TO FIND,A FEW MAY BE HARD TO FIND,A FEW MAY BE HARD TO FIND,A FEW MAY BE HARD TO FIND
+13704,M01_1_headMic_0008.wav,M01_1_0008,M01,dysarthria,asr_validation,fee, see,FEE,SEE,FEE,SEE
+13690,M01_1_headMic_0020.wav,M01_1_0020,M01,dysarthria,asr_validation,horn, On,HORN,ON,HORN,ON
+13655,M01_1_headMic_0038.wav,M01_1_0038,M01,dysarthria,asr_validation,rain, Rayn,RAIN,RAYN,RAIN,RAYN
+13676,M01_1_headMic_0044.wav,M01_1_0044,M01,dysarthria,asr_validation,Don't ask me to carry an oily rag like that, The ones I give me took a little in only with my juice back,DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT,THE ONES I GIVE ME TOOK A LITTLE IN ONLY WITH MY JUICE BACK,DON'T ASK ME TO CARRY AN OILY RAG LIKE THAT,THE ONES I GIVE ME TOOK A LITTLE IN ONLY WITH MY JUICE BACK
+13720,M01_1_headMic_0052.wav,M01_1_0052,M01,dysarthria,asr_validation,form, Phone,FORM,PHONE,FORM,PHONE
+13728,M01_1_headMic_0069.wav,M01_1_0069,M01,dysarthria,asr_validation,know, low,KNOW,LOW,KNOW,LOW
+13718,M01_1_headMic_0091.wav,M01_1_0091,M01,dysarthria,asr_validation,jagged, Junk,JAGGED,JUNK,JAGGED,JUNK
+13660,M01_1_headMic_0095.wav,M01_1_0095,M01,dysarthria,asr_validation,yes, yet,YES,YET,YES,YET
+13665,M01_1_headMic_0098.wav,M01_1_0098,M01,dysarthria,asr_validation,corn, corn,CORN,CORN,CORN,CORN
+13415,M01_3_headMic_0001.wav,M01_3_0001,M01,dysarthria,asr_validation,one, one,ONE,ONE,ONE,ONE
+13370,M01_3_headMic_0011.wav,M01_3_0011,M01,dysarthria,asr_validation,range, Rains,RANGE,RAINS,RANGE,RAINS
+13411,M01_3_headMic_0031.wav,M01_3_0031,M01,dysarthria,asr_validation,fate, paint,FATE,PAINT,FATE,PAINT
+13460,M01_3_headMic_0053.wav,M01_3_0053,M01,dysarthria,asr_validation,peer, peer,PEER,PEER,PEER,PEER
+13424,M01_3_headMic_0054.wav,M01_3_0054,M01,dysarthria,asr_validation,jaw, jar,JAW,JAR,JAW,JAR
+13435,M01_3_headMic_0070.wav,M01_3_0070,M01,dysarthria,asr_validation,area, area,AREA,AREA,AREA,AREA
+13393,M01_3_headMic_0075.wav,M01_3_0075,M01,dysarthria,asr_validation,bad, Bad,BAD,BAD,BAD,BAD
+13387,M01_3_headMic_0079.wav,M01_3_0079,M01,dysarthria,asr_validation,pat, pad,PAT,PAD,PAT,PAD
+13364,M01_3_headMic_0100.wav,M01_3_0100,M01,dysarthria,asr_validation,ate, eight,ATE,EIGHT,ATE,EIGHT
+13363,M01_3_headMic_0118.wav,M01_3_0118,M01,dysarthria,asr_validation,mut, mud,MUT,MUD,MUT,MUD
+13513,M01_3_headMic_0127.wav,M01_3_0127,M01,dysarthria,asr_validation,Why yell or worry over silly items, Why yell a row of silly items,WHY YELL OR WORRY OVER SILLY ITEMS,WHY YELL A ROW OF SILLY ITEMS,WHY YELL OR WORRY OVER SILLY ITEMS,WHY YELL A ROW OF SILLY ITEMS
+13483,M01_3_headMic_0129.wav,M01_3_0129,M01,dysarthria,asr_validation,The train approached the depot slowly, The train's a broated divorce story,THE TRAIN APPROACHED THE DEPOT SLOWLY,THE TRAIN'S A BROATED DIVORCE STORY,THE TRAIN APPROACHED THE DEPOT SLOWLY,THE TRAIN'S A BROATED DIVORCE STORY
+13474,M01_3_headMic_0131.wav,M01_3_0131,M01,dysarthria,asr_validation,rocks, Rock,ROCKS,ROCK,ROCKS,ROCK
+13342,M01_3_headMic_0143.wav,M01_3_0143,M01,dysarthria,asr_validation,toot, doot,TOOT,DOOT,TOOT,DOOT
+13493,M01_3_headMic_0145.wav,M01_3_0145,M01,dysarthria,asr_validation,You're used to being on the field, You're used to being on the field,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD
+13418,M01_3_headMic_0146.wav,M01_3_0146,M01,dysarthria,asr_validation,Everything went real smooth the sheriff said," Everything went real smooth, the layer of red",EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WENT REAL SMOOTH THE LAYER OF RED,EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WENT REAL SMOOTH THE LAYER OF RED
+13382,M01_3_headMic_0152.wav,M01_3_0152,M01,dysarthria,asr_validation,He will allow a rare lie, you will allow a red line,HE WILL ALLOW A RARE LIE,YOU WILL ALLOW A RED LINE,HE WILL ALLOW A RARE LIE,YOU WILL ALLOW A RED LINE
+13372,M01_3_headMic_0169.wav,M01_3_0169,M01,dysarthria,asr_validation,fitting, Fierd-turt,FITTING,FIERDTURT,FITTING,FIERD TURT
+13477,M01_3_headMic_0176.wav,M01_3_0176,M01,dysarthria,asr_validation,zero, Zero,ZERO,ZERO,ZERO,ZERO
+13324,M01_3_headMic_0177.wav,M01_3_0177,M01,dysarthria,asr_validation,Day after day some new episode is reported, They have today a new episode is reported,DAY AFTER DAY SOME NEW EPISODE IS REPORTED,THEY HAVE TODAY A NEW EPISODE IS REPORTED,DAY AFTER DAY SOME NEW EPISODE IS REPORTED,THEY HAVE TODAY A NEW EPISODE IS REPORTED
+13518,M01_3_headMic_0192.wav,M01_3_0192,M01,dysarthria,asr_validation,blow,ville,BLOW,VILLE,BLOW,VILLE
+13398,M01_3_headMic_0211.wav,M01_3_0211,M01,dysarthria,asr_validation,seeds, Seat,SEEDS,SEAT,SEEDS,SEAT
+13309,M01_3_headMic_0215.wav,M01_3_0215,M01,dysarthria,asr_validation,hotel, Ordeal,HOTEL,ORDEAL,HOTEL,ORDEAL
+13527,M01_3_headMic_0223.wav,M01_3_0223,M01,dysarthria,asr_validation,five, five,FIVE,FIVE,FIVE,FIVE
+13508,M01_3_headMic_0225.wav,M01_3_0225,M01,dysarthria,asr_validation,take, Take,TAKE,TAKE,TAKE,TAKE
+13441,M01_3_headMic_0235.wav,M01_3_0235,M01,dysarthria,asr_validation,The museum hires musicians every evening," The newrium art, newy didn't have reliefs made",THE MUSEUM HIRES MUSICIANS EVERY EVENING,THE NEWRIUM ART NEWY DIDN'T HAVE RELIEFS MADE,THE MUSEUM HIRES MUSICIANS EVERY EVENING,THE NEWRIUM ART NEWY DIDN'T HAVE RELIEFS MADE
+13422,M01_3_headMic_0258.wav,M01_3_0258,M01,dysarthria,asr_validation,park, pork,PARK,PORK,PARK,PORK
+13457,M01_3_headMic_0275.wav,M01_3_0275,M01,dysarthria,asr_validation,Swing your arm as high as you can, Swing your arms outside as you can,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARMS OUTSIDE AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARMS OUTSIDE AS YOU CAN
+12254,M02_1_headMic_0016.wav,M02_1_0016,M02,dysarthria,asr_validation,fair, Fair,FAIR,FAIR,FAIR,FAIR
+12319,M02_1_headMic_0027.wav,M02_1_0027,M02,dysarthria,asr_validation,the, saw,THE,SAW,THE,SAW
+12132,M02_1_headMic_0029.wav,M02_1_0029,M02,dysarthria,asr_validation,one, one,ONE,ONE,ONE,ONE
+12223,M02_1_headMic_0030.wav,M02_1_0030,M02,dysarthria,asr_validation,torn, porn,TORN,PORN,TORN,PORN
+12147,M02_1_headMic_0051.wav,M02_1_0051,M02,dysarthria,asr_validation,bat, Bath,BAT,BATH,BAT,BATH
+12124,M02_1_headMic_0054.wav,M02_1_0054,M02,dysarthria,asr_validation,trait, Trate,TRAIT,TRATE,TRAIT,TRATE
+12138,M02_1_headMic_0074.wav,M02_1_0074,M02,dysarthria,asr_validation,beat, Wheat,BEAT,WHEAT,BEAT,WHEAT
+12131,M02_1_headMic_0080.wav,M02_1_0080,M02,dysarthria,asr_validation,he slowly takes a short walk in the open air each day," She's slowly takes the show off, walks, and he opens air each day",HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,SHE'S SLOWLY TAKES THE SHOW OFF WALKS AND HE OPENS AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,SHE'S SLOWLY TAKES THE SHOW OFF WALKS AND HE OPENS AIR EACH DAY
+12226,M02_1_headMic_0086.wav,M02_1_0086,M02,dysarthria,asr_validation,glow, Glow,GLOW,GLOW,GLOW,GLOW
+12126,M02_1_headMic_0095.wav,M02_1_0095,M02,dysarthria,asr_validation,meat, Sweep,MEAT,SWEEP,MEAT,SWEEP
+12316,M02_1_headMic_0140.wav,M02_1_0140,M02,dysarthria,asr_validation,hate, HIT,HATE,HIT,HATE,HIT
+12332,M02_1_headMic_0155.wav,M02_1_0155,M02,dysarthria,asr_validation,knot, Knock,KNOT,KNOCK,KNOT,KNOCK
+12232,M02_1_headMic_0162.wav,M02_1_0162,M02,dysarthria,asr_validation,were, War,WERE,WAR,WERE,WAR
+12225,M02_1_headMic_0168.wav,M02_1_0168,M02,dysarthria,asr_validation,If you destroy confidence in banks you do something to the economy he said," If you destroy confidence in Benning, you do something to the economy he said",IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BENNING YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BENNING YOU DO SOMETHING TO THE ECONOMY HE SAID
+12214,M02_1_headMic_0172.wav,M02_1_0172,M02,dysarthria,asr_validation,I can play this weekend, I come play this weekend,I CAN PLAY THIS WEEKEND,I COME PLAY THIS WEEKEND,I CAN PLAY THIS WEEKEND,I COME PLAY THIS WEEKEND
+12249,M02_1_headMic_0173.wav,M02_1_0173,M02,dysarthria,asr_validation,I feel I can play this weekend, I feel like him played this weekend,I FEEL I CAN PLAY THIS WEEKEND,I FEEL LIKE HIM PLAYED THIS WEEKEND,I FEEL I CAN PLAY THIS WEEKEND,I FEEL LIKE HIM PLAYED THIS WEEKEND
+12247,M02_1_headMic_0190.wav,M02_1_0190,M02,dysarthria,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+12257,M02_1_headMic_0191.wav,M02_1_0191,M02,dysarthria,asr_validation,tie, Tive,TIE,TIVE,TIE,TIVE
+12148,M02_1_headMic_0205.wav,M02_1_0205,M02,dysarthria,asr_validation,jungle, jungle,JUNGLE,JUNGLE,JUNGLE,JUNGLE
+12128,M02_1_headMic_0210.wav,M02_1_0210,M02,dysarthria,asr_validation,You're used to being on the field, when he's tripping on the field,YOU'RE USED TO BEING ON THE FIELD,WHEN HE'S TRIPPING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD,WHEN HE'S TRIPPING ON THE FIELD
+12308,M02_1_headMic_0214.wav,M02_1_0214,M02,dysarthria,asr_validation,delta, Dellettar,DELTA,DELLETTAR,DELTA,DELLETTAR
+12163,M02_1_headMic_0224.wav,M02_1_0224,M02,dysarthria,asr_validation,fate, fake,FATE,FAKE,FATE,FAKE
+12184,M02_1_headMic_0228.wav,M02_1_0228,M02,dysarthria,asr_validation,know, No.,KNOW,NO,KNOW,NO
+12168,M02_1_headMic_0232.wav,M02_1_0232,M02,dysarthria,asr_validation,Jane may earn more money by working hard, James made your moments by working hot,JANE MAY EARN MORE MONEY BY WORKING HARD,JAMES MADE YOUR MOMENTS BY WORKING HOT,JANE MAY EARN MORE MONEY BY WORKING HARD,JAMES MADE YOUR MOMENTS BY WORKING HOT
+12260,M02_1_headMic_0235.wav,M02_1_0235,M02,dysarthria,asr_validation,root, loot,ROOT,LOOT,ROOT,LOOT
+11758,M02_2_headMic_0103.wav,M02_2_0103,M02,dysarthria,asr_validation,brought, a draw,BROUGHT,A DRAW,BROUGHT,A DRAW
+11862,M02_2_headMic_0108.wav,M02_2_0108,M02,dysarthria,asr_validation,pitting,補billard,PITTING,BILLARD,PITTING,BILLARD
+11835,M02_2_headMic_0114.wav,M02_2_0114,M02,dysarthria,asr_validation,vat, fat,VAT,FAT,VAT,FAT
+11848,M02_2_headMic_0133.wav,M02_2_0133,M02,dysarthria,asr_validation,Alimony harms a divorced man's wealth," All the formulas, I'd suggest names to laugh",ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALL THE FORMULAS I'D SUGGEST NAMES TO LAUGH,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALL THE FORMULAS I'D SUGGEST NAMES TO LAUGH
+11774,M02_2_headMic_0136.wav,M02_2_0136,M02,dysarthria,asr_validation,knitting, Knitting,KNITTING,KNITTING,KNITTING,KNITTING
+11858,M02_2_headMic_0157.wav,M02_2_0157,M02,dysarthria,asr_validation,leak, Lake,LEAK,LAKE,LEAK,LAKE
+11817,M02_2_headMic_0164.wav,M02_2_0164,M02,dysarthria,asr_validation,sitting, Sitter,SITTING,SITTER,SITTING,SITTER
+11730,M02_2_headMic_0166.wav,M02_2_0166,M02,dysarthria,asr_validation,rich, Warch,RICH,WARCH,RICH,WARCH
+11763,M02_2_headMic_0181.wav,M02_2_0181,M02,dysarthria,asr_validation,park, Park,PARK,PARK,PARK,PARK
+11791,M02_2_headMic_0184.wav,M02_2_0184,M02,dysarthria,asr_validation,zero, Zero,ZERO,ZERO,ZERO,ZERO
+11806,M02_2_headMic_0188.wav,M02_2_0188,M02,dysarthria,asr_validation,The little schoolhouse stood empty, The little girl how does that happen?,THE LITTLE SCHOOLHOUSE STOOD EMPTY,THE LITTLE GIRL HOW DOES THAT HAPPEN,THE LITTLE SCHOOLHOUSE STOOD EMPTY,THE LITTLE GIRL HOW DOES THAT HAPPEN
+11724,M02_2_headMic_0219.wav,M02_2_0219,M02,dysarthria,asr_validation,leak, Lake,LEAK,LAKE,LEAK,LAKE
+11725,M02_2_headMic_0235.wav,M02_2_0235,M02,dysarthria,asr_validation,The owners regularly look for plumbing leaks, Stone has like a little flip to the main loop,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,STONE HAS LIKE A LITTLE FLIP TO THE MAIN LOOP,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,STONE HAS LIKE A LITTLE FLIP TO THE MAIN LOOP
+11767,M02_2_headMic_0241.wav,M02_2_0241,M02,dysarthria,asr_validation,said, Sare,SAID,SARE,SAID,SARE
+14775,M03_2_headMic_0006.wav,M03_2_0006,M03,dysarthria,asr_validation,gadget, Gadget,GADGET,GADGET,GADGET,GADGET
+14458,M03_2_headMic_0011.wav,M03_2_0011,M03,dysarthria,asr_validation,tip, tip,TIP,TIP,TIP,TIP
+14740,M03_2_headMic_0038.wav,M03_2_0038,M03,dysarthria,asr_validation,rate,rate,RATE,RATE,RATE,RATE
+14393,M03_2_headMic_0040.wav,M03_2_0040,M03,dysarthria,asr_validation,raid, Raid,RAID,RAID,RAID,RAID
+14411,M03_2_headMic_0044.wav,M03_2_0044,M03,dysarthria,asr_validation,storm, Storm,STORM,STORM,STORM,STORM
+14486,M03_2_headMic_0046.wav,M03_2_0046,M03,dysarthria,asr_validation,grow, Grow,GROW,GROW,GROW,GROW
+14613,M03_2_headMic_0056.wav,M03_2_0056,M03,dysarthria,asr_validation,beta, beta,BETA,BETA,BETA,BETA
+14720,M03_2_headMic_0081.wav,M03_2_0081,M03,dysarthria,asr_validation,warm, Warm,WARM,WARM,WARM,WARM
+14761,M03_2_headMic_0093.wav,M03_2_0093,M03,dysarthria,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+14456,M03_2_headMic_0098.wav,M03_2_0098,M03,dysarthria,asr_validation,We have often urged him to walk more and smoke less, We have often urged him to walk more and smoke less,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS,WE HAVE OFTEN URGED HIM TO WALK MORE AND SMOKE LESS
+14494,M03_2_headMic_0100.wav,M03_2_0100,M03,dysarthria,asr_validation,he dresses himself in an ancient black frock coat, He dresses himself in an ancient black-frogged coat,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACKFROGGED COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROCK COAT,HE DRESSES HIMSELF IN AN ANCIENT BLACK FROGGED COAT
+14439,M03_2_headMic_0122.wav,M03_2_0122,M03,dysarthria,asr_validation,wish, wish,WISH,WISH,WISH,WISH
+14635,M03_2_headMic_0137.wav,M03_2_0137,M03,dysarthria,asr_validation,write, right,WRITE,RIGHT,WRITE,RIGHT
+14662,M03_2_headMic_0138.wav,M03_2_0138,M03,dysarthria,asr_validation,All the big baseball players get traded, All the big baseball players get traded,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED
+14579,M03_2_headMic_0148.wav,M03_2_0148,M03,dysarthria,asr_validation,area, area,AREA,AREA,AREA,AREA
+14625,M03_2_headMic_0151.wav,M03_2_0151,M03,dysarthria,asr_validation,Are your grades higher or lower than Nancy's, Are your grades higher or lower than Nancy's?,ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S,ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S,ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S,ARE YOUR GRADES HIGHER OR LOWER THAN NANCY'S
+14736,M03_2_headMic_0159.wav,M03_2_0159,M03,dysarthria,asr_validation,charlie, Charlie,CHARLIE,CHARLIE,CHARLIE,CHARLIE
+14401,M03_2_headMic_0161.wav,M03_2_0161,M03,dysarthria,asr_validation,bad, Bad,BAD,BAD,BAD,BAD
+14529,M03_2_headMic_0191.wav,M03_2_0191,M03,dysarthria,asr_validation,fear, fear,FEAR,FEAR,FEAR,FEAR
+14759,M03_2_headMic_0192.wav,M03_2_0192,M03,dysarthria,asr_validation,Where were you while we were away, Where were you while we were away?,WHERE WERE YOU WHILE WE WERE AWAY,WHERE WERE YOU WHILE WE WERE AWAY,WHERE WERE YOU WHILE WE WERE AWAY,WHERE WERE YOU WHILE WE WERE AWAY
+14604,M03_2_headMic_0196.wav,M03_2_0196,M03,dysarthria,asr_validation,They carried me off on the stretcher, He carried me off on the stretcher,THEY CARRIED ME OFF ON THE STRETCHER,HE CARRIED ME OFF ON THE STRETCHER,THEY CARRIED ME OFF ON THE STRETCHER,HE CARRIED ME OFF ON THE STRETCHER
+14463,M03_2_headMic_0201.wav,M03_2_0201,M03,dysarthria,asr_validation,though, though,THOUGH,THOUGH,THOUGH,THOUGH
+14768,M03_2_headMic_0202.wav,M03_2_0202,M03,dysarthria,asr_validation,sway, Sweat,SWAY,SWEAT,SWAY,SWEAT
+14408,M03_2_headMic_0209.wav,M03_2_0209,M03,dysarthria,asr_validation,Just one side got wet, Just one side got wet,JUST ONE SIDE GOT WET,JUST ONE SIDE GOT WET,JUST ONE SIDE GOT WET,JUST ONE SIDE GOT WET
+14435,M03_2_headMic_0210.wav,M03_2_0210,M03,dysarthria,asr_validation,knot, not,KNOT,NOT,KNOT,NOT
+14508,M03_2_headMic_0214.wav,M03_2_0214,M03,dysarthria,asr_validation,here, here,HERE,HERE,HERE,HERE
+14493,M03_2_headMic_0261.wav,M03_2_0261,M03,dysarthria,asr_validation,park, Park,PARK,PARK,PARK,PARK
+14447,M03_2_headMic_0273.wav,M03_2_0273,M03,dysarthria,asr_validation,The misguided souls have lost their way, the misguided souls have lost their way,THE MISGUIDED SOULS HAVE LOST THEIR WAY,THE MISGUIDED SOULS HAVE LOST THEIR WAY,THE MISGUIDED SOULS HAVE LOST THEIR WAY,THE MISGUIDED SOULS HAVE LOST THEIR WAY
+14647,M03_2_headMic_0282.wav,M03_2_0282,M03,dysarthria,asr_validation,lick, lick,LICK,LICK,LICK,LICK
+14693,M03_2_headMic_0286.wav,M03_2_0286,M03,dysarthria,asr_validation,A roll of wire lay near the wall," A roll of wire lay near the wall,",A ROLL OF WIRE LAY NEAR THE WALL,A ROLL OF WIRE LAY NEAR THE WALL,A ROLL OF WIRE LAY NEAR THE WALL,A ROLL OF WIRE LAY NEAR THE WALL
+14643,M03_2_headMic_0287.wav,M03_2_0287,M03,dysarthria,asr_validation,It eventually became a rather proud claim, it eventually became a rather proud claim,IT EVENTUALLY BECAME A RATHER PROUD CLAIM,IT EVENTUALLY BECAME A RATHER PROUD CLAIM,IT EVENTUALLY BECAME A RATHER PROUD CLAIM,IT EVENTUALLY BECAME A RATHER PROUD CLAIM
+14420,M03_2_headMic_0288.wav,M03_2_0288,M03,dysarthria,asr_validation,pit, Pit,PIT,PIT,PIT,PIT
+14547,M03_2_headMic_0299.wav,M03_2_0299,M03,dysarthria,asr_validation,cart, Cart,CART,CART,CART,CART
+14663,M03_2_headMic_0325.wav,M03_2_0325,M03,dysarthria,asr_validation,liar, Lire,LIAR,LIRE,LIAR,LIRE
+14500,M03_2_headMic_0330.wav,M03_2_0330,M03,dysarthria,asr_validation,hat, hat,HAT,HAT,HAT,HAT
+14705,M03_2_headMic_0332.wav,M03_2_0332,M03,dysarthria,asr_validation,dark, Dark dark,DARK,DARK DARK,DARK,DARK DARK
+14464,M03_2_headMic_0345.wav,M03_2_0345,M03,dysarthria,asr_validation,written, written,WRITTEN,WRITTEN,WRITTEN,WRITTEN
+14778,M03_2_headMic_0350.wav,M03_2_0350,M03,dysarthria,asr_validation,bit, bit,BIT,BIT,BIT,BIT
+14726,M03_2_headMic_0357.wav,M03_2_0357,M03,dysarthria,asr_validation,zero, zero,ZERO,ZERO,ZERO,ZERO
+14594,M03_2_headMic_0359.wav,M03_2_0359,M03,dysarthria,asr_validation,darn, Darn,DARN,DARN,DARN,DARN
+14429,M03_2_headMic_0405.wav,M03_2_0405,M03,dysarthria,asr_validation,wicked, Wicked,WICKED,WICKED,WICKED,WICKED
+12893,M04_1_arrayMic_0005.wav,M04_1_0005,M04,dysarthria,asr_validation,trouble, drop to dribble,TROUBLE,DROP TO DRIBBLE,TROUBLE,DROP TO DRIBBLE
+12902,M04_1_arrayMic_0007.wav,M04_1_0007,M04,dysarthria,asr_validation,weed, with whip,WEED,WITH WHIP,WEED,WITH WHIP
+12950,M04_1_arrayMic_0049.wav,M04_1_0049,M04,dysarthria,asr_validation,right, Red,RIGHT,RED,RIGHT,RED
+12936,M04_1_arrayMic_0054.wav,M04_1_0054,M04,dysarthria,asr_validation,I can read, I can't breathe,I CAN READ,I CAN'T BREATHE,I CAN READ,I CAN'T BREATHE
+12946,M04_1_arrayMic_0058.wav,M04_1_0058,M04,dysarthria,asr_validation,go, Goal,GO,GOAL,GO,GOAL
+12914,M04_1_arrayMic_0059.wav,M04_1_0059,M04,dysarthria,asr_validation,gadget, Get it,GADGET,GET IT,GADGET,GET IT
+12910,M04_1_arrayMic_0070.wav,M04_1_0070,M04,dysarthria,asr_validation,dug, Duck,DUG,DUCK,DUG,DUCK
+12941,M04_1_arrayMic_0096.wav,M04_1_0096,M04,dysarthria,asr_validation,read , right,READ,RIGHT,READ,RIGHT
+12961,M04_1_arrayMic_0103.wav,M04_1_0103,M04,dysarthria,asr_validation,the, that,THE,THAT,THE,THAT
+12939,M04_1_arrayMic_0105.wav,M04_1_0105,M04,dysarthria,asr_validation,usually min min, usually nurse nurse,USUALLY MIN MIN,USUALLY NURSE NURSE,USUALLY MIN MIN,USUALLY NURSE NURSE
+12909,M04_1_arrayMic_0119.wav,M04_1_0119,M04,dysarthria,asr_validation,race, Revenge,RACE,REVENGE,RACE,REVENGE
+12767,M04_2_headMic_0034.wav,M04_2_0034,M04,dysarthria,asr_validation,down, DONE,DOWN,DONE,DOWN,DONE
+12683,M04_2_headMic_0049.wav,M04_2_0049,M04,dysarthria,asr_validation,feed, feed,FEED,FEED,FEED,FEED
+12818,M04_2_headMic_0050.wav,M04_2_0050,M04,dysarthria,asr_validation,feed, Cheeg,FEED,CHEEG,FEED,CHEEG
+12685,M04_2_headMic_0054.wav,M04_2_0054,M04,dysarthria,asr_validation,bit, Ditt,BIT,DITT,BIT,DITT
+12729,M04_2_headMic_0076.wav,M04_2_0076,M04,dysarthria,asr_validation,air, air,AIR,AIR,AIR,AIR
+12774,M04_2_headMic_0084.wav,M04_2_0084,M04,dysarthria,asr_validation,tip, dip,TIP,DIP,TIP,DIP
+12684,M04_2_headMic_0104.wav,M04_2_0104,M04,dysarthria,asr_validation,two, do,TWO,DO,TWO,DO
+12762,M04_2_headMic_0139.wav,M04_2_0139,M04,dysarthria,asr_validation,bad, fat,BAD,FAT,BAD,FAT
+12771,M04_2_headMic_0142.wav,M04_2_0142,M04,dysarthria,asr_validation,floor, floor,FLOOR,FLOOR,FLOOR,FLOOR
+12745,M04_2_headMic_0144.wav,M04_2_0144,M04,dysarthria,asr_validation,bad, Dad,BAD,DAD,BAD,DAD
+12692,M04_2_headMic_0147.wav,M04_2_0147,M04,dysarthria,asr_validation,Two other cases also were under advisement, Two other nakedes all the were under an abitment,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER NAKEDES ALL THE WERE UNDER AN ABITMENT,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER NAKEDES ALL THE WERE UNDER AN ABITMENT
+12884,M04_2_headMic_0164.wav,M04_2_0164,M04,dysarthria,asr_validation,slay, Flee,SLAY,FLEE,SLAY,FLEE
+12632,M04_2_headMic_0174.wav,M04_2_0174,M04,dysarthria,asr_validation,We gathered shells on the beach," Sweet Winky, get us just on on a beep each",WE GATHERED SHELLS ON THE BEACH,SWEET WINKY GET US JUST ON ON A BEEP EACH,WE GATHERED SHELLS ON THE BEACH,SWEET WINKY GET US JUST ON ON A BEEP EACH
+12633,M04_2_headMic_0179.wav,M04_2_0179,M04,dysarthria,asr_validation,cheer, sure,CHEER,SURE,CHEER,SURE
+12728,M04_2_headMic_0186.wav,M04_2_0186,M04,dysarthria,asr_validation,Just one side got wet," Just one side, he got wet",JUST ONE SIDE GOT WET,JUST ONE SIDE HE GOT WET,JUST ONE SIDE GOT WET,JUST ONE SIDE HE GOT WET
+12781,M04_2_headMic_0190.wav,M04_2_0190,M04,dysarthria,asr_validation,Where were you while we were away," Well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well, well",WHERE WERE YOU WHILE WE WERE AWAY,WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL,WHERE WERE YOU WHILE WE WERE AWAY,WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL WELL
+12775,M04_2_headMic_0203.wav,M04_2_0203,M04,dysarthria,asr_validation,prior, Spiderman,PRIOR,SPIDERMAN,PRIOR,SPIDERMAN
+12713,M04_2_headMic_0213.wav,M04_2_0213,M04,dysarthria,asr_validation,urgent, Urgent,URGENT,URGENT,URGENT,URGENT
+12715,M04_2_headMic_0221.wav,M04_2_0221,M04,dysarthria,asr_validation,sigh, Sigh,SIGH,SIGH,SIGH,SIGH
+12664,M04_2_headMic_0233.wav,M04_2_0233,M04,dysarthria,asr_validation,bat, Bett,BAT,BETT,BAT,BETT
+12779,M04_2_headMic_0239.wav,M04_2_0239,M04,dysarthria,asr_validation,jungle, Django,JUNGLE,DJANGO,JUNGLE,DJANGO
+12794,M04_2_headMic_0241.wav,M04_2_0241,M04,dysarthria,asr_validation,shear, sure,SHEAR,SURE,SHEAR,SURE
+12640,M04_2_headMic_0248.wav,M04_2_0248,M04,dysarthria,asr_validation,Nothing is as offensive as innocence, Nothing is as expected to add to adding in,NOTHING IS AS OFFENSIVE AS INNOCENCE,NOTHING IS AS EXPECTED TO ADD TO ADDING IN,NOTHING IS AS OFFENSIVE AS INNOCENCE,NOTHING IS AS EXPECTED TO ADD TO ADDING IN
+12638,M04_2_headMic_0256.wav,M04_2_0256,M04,dysarthria,asr_validation,coupe, Coup,COUPE,COUP,COUPE,COUP
+12718,M04_2_headMic_0261.wav,M04_2_0261,M04,dysarthria,asr_validation,toot, Toot,TOOT,TOOT,TOOT,TOOT
+12870,M04_2_headMic_0264.wav,M04_2_0264,M04,dysarthria,asr_validation,The humidity is overwhelming there, But she meant he is overwhelming,THE HUMIDITY IS OVERWHELMING THERE,BUT SHE MEANT HE IS OVERWHELMING,THE HUMIDITY IS OVERWHELMING THERE,BUT SHE MEANT HE IS OVERWHELMING
+12804,M04_2_headMic_0277.wav,M04_2_0277,M04,dysarthria,asr_validation,brawn, Babbles,BRAWN,BABBLES,BRAWN,BABBLES
+12819,M04_2_headMic_0282.wav,M04_2_0282,M04,dysarthria,asr_validation,It also provides for funds to clear slums and help colleges build dormitories, It also combines for fun to to feel slump and an appetite in films to don't need this,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES,IT ALSO COMBINES FOR FUN TO TO FEEL SLUMP AND AN APPETITE IN FILMS TO DON'T NEED THIS,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES,IT ALSO COMBINES FOR FUN TO TO FEEL SLUMP AND AN APPETITE IN FILMS TO DON'T NEED THIS
+12828,M04_2_headMic_0289.wav,M04_2_0289,M04,dysarthria,asr_validation,pitting, the bit-bitty bit-bitty,PITTING,THE BITBITTY BITBITTY,PITTING,THE BIT BITTY BIT BITTY
+11491,M05_1_headMic_0009.wav,M05_1_0009,M05,dysarthria,asr_validation,Twice each day he plays skillfully and with zest upon our small organ," ""Trys his day he plays scuffly and relish a pun of a swallowing order",TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TRYS HIS DAY HE PLAYS SCUFFLY AND RELISH A PUN OF A SWALLOWING ORDER,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TRYS HIS DAY HE PLAYS SCUFFLY AND RELISH A PUN OF A SWALLOWING ORDER
+11552,M05_1_headMic_0014.wav,M05_1_0014,M05,dysarthria,asr_validation,read , Ridg,READ,RIDG,READ,RIDG
+11526,M05_1_headMic_0035.wav,M05_1_0035,M05,dysarthria,asr_validation,down, Down,DOWN,DOWN,DOWN,DOWN
+11470,M05_1_headMic_0058.wav,M05_1_0058,M05,dysarthria,asr_validation,torn, two toys,TORN,TWO TOYS,TORN,TWO TOYS
+11476,M05_1_headMic_0059.wav,M05_1_0059,M05,dysarthria,asr_validation,range, Rinch,RANGE,RINCH,RANGE,RINCH
+11492,M05_1_headMic_0081.wav,M05_1_0081,M05,dysarthria,asr_validation,double, double,DOUBLE,DOUBLE,DOUBLE,DOUBLE
+11498,M05_1_headMic_0086.wav,M05_1_0086,M05,dysarthria,asr_validation,pat, Pat,PAT,PAT,PAT,PAT
+11459,M05_1_headMic_0101.wav,M05_1_0101,M05,dysarthria,asr_validation,Grandfather likes to be modern in his language, Grow harder like to be modern in his that language,GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE,GROW HARDER LIKE TO BE MODERN IN HIS THAT LANGUAGE,GRANDFATHER LIKES TO BE MODERN IN HIS LANGUAGE,GROW HARDER LIKE TO BE MODERN IN HIS THAT LANGUAGE
+10985,M05_2_headMic_0006.wav,M05_2_0006,M05,dysarthria,asr_validation,sway, Sway,SWAY,SWAY,SWAY,SWAY
+11030,M05_2_headMic_0021.wav,M05_2_0021,M05,dysarthria,asr_validation,knot, nut,KNOT,NUT,KNOT,NUT
+11278,M05_2_headMic_0045.wav,M05_2_0045,M05,dysarthria,asr_validation,urgent, urgent,URGENT,URGENT,URGENT,URGENT
+11244,M05_2_headMic_0052.wav,M05_2_0052,M05,dysarthria,asr_validation,area, Aria,AREA,ARIA,AREA,ARIA
+11226,M05_2_headMic_0081.wav,M05_2_0081,M05,dysarthria,asr_validation,briar, bright,BRIAR,BRIGHT,BRIAR,BRIGHT
+11225,M05_2_headMic_0083.wav,M05_2_0083,M05,dysarthria,asr_validation,toot, Tilt,TOOT,TILT,TOOT,TILT
+11198,M05_2_headMic_0109.wav,M05_2_0109,M05,dysarthria,asr_validation,slip, Slip,SLIP,SLIP,SLIP,SLIP
+11298,M05_2_headMic_0111.wav,M05_2_0111,M05,dysarthria,asr_validation,wish, Wish,WISH,WISH,WISH,WISH
+11036,M05_2_headMic_0122.wav,M05_2_0122,M05,dysarthria,asr_validation,Just one side got wet, Just one side go wet,JUST ONE SIDE GOT WET,JUST ONE SIDE GO WET,JUST ONE SIDE GOT WET,JUST ONE SIDE GO WET
+11029,M05_2_headMic_0124.wav,M05_2_0124,M05,dysarthria,asr_validation,I was conscious all the time, I was conscious all the time,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME,I WAS CONSCIOUS ALL THE TIME
+11008,M05_2_headMic_0126.wav,M05_2_0126,M05,dysarthria,asr_validation,peer, Peer,PEER,PEER,PEER,PEER
+11073,M05_2_headMic_0135.wav,M05_2_0135,M05,dysarthria,asr_validation,Will Robin wear a yellow lily, We're robbing away a yellow lip,WILL ROBIN WEAR A YELLOW LILY,WE'RE ROBBING AWAY A YELLOW LIP,WILL ROBIN WEAR A YELLOW LILY,WE'RE ROBBING AWAY A YELLOW LIP
+11224,M05_2_headMic_0136.wav,M05_2_0136,M05,dysarthria,asr_validation,loop, Loop,LOOP,LOOP,LOOP,LOOP
+11058,M05_2_headMic_0143.wav,M05_2_0143,M05,dysarthria,asr_validation,pitting, Pitting,PITTING,PITTING,PITTING,PITTING
+11166,M05_2_headMic_0152.wav,M05_2_0152,M05,dysarthria,asr_validation,The box contained three sweaters, The box contains three sweaters,THE BOX CONTAINED THREE SWEATERS,THE BOX CONTAINS THREE SWEATERS,THE BOX CONTAINED THREE SWEATERS,THE BOX CONTAINS THREE SWEATERS
+10993,M05_2_headMic_0154.wav,M05_2_0154,M05,dysarthria,asr_validation,shy, a sigh,SHY,A SIGH,SHY,A SIGH
+11301,M05_2_headMic_0159.wav,M05_2_0159,M05,dysarthria,asr_validation,bitten, Betting,BITTEN,BETTING,BITTEN,BETTING
+11097,M05_2_headMic_0168.wav,M05_2_0168,M05,dysarthria,asr_validation,mush, mush,MUSH,MUSH,MUSH,MUSH
+11239,M05_2_headMic_0169.wav,M05_2_0169,M05,dysarthria,asr_validation,leak, leak,LEAK,LEAK,LEAK,LEAK
+11251,M05_2_headMic_0175.wav,M05_2_0175,M05,dysarthria,asr_validation,kitten, Kitten,KITTEN,KITTEN,KITTEN,KITTEN
+11292,M05_2_headMic_0223.wav,M05_2_0223,M05,dysarthria,asr_validation,november, Nump of Weber,NOVEMBER,NUMP OF WEBER,NOVEMBER,NUMP OF WEBER
+11267,M05_2_headMic_0250.wav,M05_2_0250,M05,dysarthria,asr_validation,hem, hem,HEM,HEM,HEM,HEM
+11083,M05_2_headMic_0260.wav,M05_2_0260,M05,dysarthria,asr_validation,This is not a program of socialized medicine, In this is not a program of socialized medicine,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,IN THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,IN THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE
+11140,M05_2_headMic_0266.wav,M05_2_0266,M05,dysarthria,asr_validation,reek, Reak,REEK,REAK,REEK,REAK
+11309,M05_2_headMic_0271.wav,M05_2_0271,M05,dysarthria,asr_validation,hitting, HIPPY,HITTING,HIPPY,HITTING,HIPPY
+11286,M05_2_headMic_0273.wav,M05_2_0273,M05,dysarthria,asr_validation,romeo, Raleigh-Oe-Oe,ROMEO,RALEIGHOEOE,ROMEO,RALEIGH OE OE
+11110,M05_2_headMic_0275.wav,M05_2_0275,M05,dysarthria,asr_validation,Did dad do academic bidding, Did that do you reckon the make-bitty?,DID DAD DO ACADEMIC BIDDING,DID THAT DO YOU RECKON THE MAKEBITTY,DID DAD DO ACADEMIC BIDDING,DID THAT DO YOU RECKON THE MAKE BITTY
+11299,M05_2_headMic_0284.wav,M05_2_0284,M05,dysarthria,asr_validation,wit, wit,WIT,WIT,WIT,WIT
+11090,M05_2_headMic_0286.wav,M05_2_0286,M05,dysarthria,asr_validation,The owners regularly look for plumbing leaks, The only regularly look for plumbing leaks,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,THE ONLY REGULARLY LOOK FOR PLUMBING LEAKS,THE OWNERS REGULARLY LOOK FOR PLUMBING LEAKS,THE ONLY REGULARLY LOOK FOR PLUMBING LEAKS
+11091,M05_2_headMic_0287.wav,M05_2_0287,M05,dysarthria,asr_validation,Whitecapped waves covered the entire bay, Workout waves covered either the Intangate Bay,WHITECAPPED WAVES COVERED THE ENTIRE BAY,WORKOUT WAVES COVERED EITHER THE INTANGATE BAY,WHITECAPPED WAVES COVERED THE ENTIRE BAY,WORKOUT WAVES COVERED EITHER THE INTANGATE BAY
+11086,M05_2_headMic_0295.wav,M05_2_0295,M05,dysarthria,asr_validation,wicked, wicked,WICKED,WICKED,WICKED,WICKED
+11304,M05_2_headMic_0299.wav,M05_2_0299,M05,dysarthria,asr_validation,sin, Sidney,SIN,SIDNEY,SIN,SIDNEY
+11190,M05_2_headMic_0302.wav,M05_2_0302,M05,dysarthria,asr_validation,sing, [ ] [ [ ],SING,,SING,
+11300,M05_2_headMic_0308.wav,M05_2_0308,M05,dysarthria,asr_validation,rock, Rocks,ROCK,ROCKS,ROCK,ROCKS
+11057,M05_2_headMic_0314.wav,M05_2_0314,M05,dysarthria,asr_validation,Nobody really expects to evacuate, Nobody re-expects the inaccurate,NOBODY REALLY EXPECTS TO EVACUATE,NOBODY REEXPECTS THE INACCURATE,NOBODY REALLY EXPECTS TO EVACUATE,NOBODY RE EXPECTS THE INACCURATE
+11122,M05_2_headMic_0317.wav,M05_2_0317,M05,dysarthria,asr_validation,bitter, bitter,BITTER,BITTER,BITTER,BITTER
+11079,M05_2_headMic_0319.wav,M05_2_0319,M05,dysarthria,asr_validation,sip, Sip,SIP,SIP,SIP,SIP
+10979,M05_2_headMic_0321.wav,M05_2_0321,M05,dysarthria,asr_validation,Beg that guard for one gallon of gas, Biggest good for one gallon or gas,BEG THAT GUARD FOR ONE GALLON OF GAS,BIGGEST GOOD FOR ONE GALLON OR GAS,BEG THAT GUARD FOR ONE GALLON OF GAS,BIGGEST GOOD FOR ONE GALLON OR GAS
+11255,M05_2_headMic_0363.wav,M05_2_0363,M05,dysarthria,asr_validation,red, Red,RED,RED,RED,RED
+11302,M05_2_headMic_0373.wav,M05_2_0373,M05,dysarthria,asr_validation,witch, Witch,WITCH,WITCH,WITCH,WITCH
+7502,MC01_1_headMic_0006.wav,MC01_1_0006,MC01,healthy,asr_validation,spark, Spark,SPARK,SPARK,SPARK,SPARK
+7430,MC01_1_headMic_0008.wav,MC01_1_0008,MC01,healthy,asr_validation,bug, Pug,BUG,PUG,BUG,PUG
+7556,MC01_1_headMic_0009.wav,MC01_1_0009,MC01,healthy,asr_validation,stick,stick,STICK,STICK,STICK,STICK
+7442,MC01_1_headMic_0014.wav,MC01_1_0014,MC01,healthy,asr_validation,trace, trace,TRACE,TRACE,TRACE,TRACE
+7510,MC01_1_headMic_0024.wav,MC01_1_0024,MC01,healthy,asr_validation,beat, Beat,BEAT,BEAT,BEAT,BEAT
+7406,MC01_1_headMic_0033.wav,MC01_1_0033,MC01,healthy,asr_validation,up, Up,UP,UP,UP,UP
+7568,MC01_1_headMic_0037.wav,MC01_1_0037,MC01,healthy,asr_validation,She had your dark suit in greasy wash water all year, She had your dark suit in greasy washwater all year,SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR,SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR,SHE HAD YOUR DARK SUIT IN GREASY WASH WATER ALL YEAR,SHE HAD YOUR DARK SUIT IN GREASY WASHWATER ALL YEAR
+7535,MC01_1_headMic_0039.wav,MC01_1_0039,MC01,healthy,asr_validation,ship, ship,SHIP,SHIP,SHIP,SHIP
+7478,MC01_1_headMic_0047.wav,MC01_1_0047,MC01,healthy,asr_validation,dug, Doug,DUG,DOUG,DUG,DOUG
+7445,MC01_1_headMic_0052.wav,MC01_1_0052,MC01,healthy,asr_validation,trouble, trouble,TROUBLE,TROUBLE,TROUBLE,TROUBLE
+7603,MC01_1_headMic_0057.wav,MC01_1_0057,MC01,healthy,asr_validation,warm, warm,WARM,WARM,WARM,WARM
+7563,MC01_1_headMic_0112.wav,MC01_1_0112,MC01,healthy,asr_validation,storm, Storm,STORM,STORM,STORM,STORM
+7677,MC01_1_headMic_0114.wav,MC01_1_0114,MC01,healthy,asr_validation,tip, tip,TIP,TIP,TIP,TIP
+7418,MC01_1_headMic_0155.wav,MC01_1_0155,MC01,healthy,asr_validation,droop, Drupe,DROOP,DRUPE,DROOP,DRUPE
+7435,MC01_1_headMic_0164.wav,MC01_1_0164,MC01,healthy,asr_validation,My sister made the flowered curtains, My sister made the flowered curtains,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS
+7618,MC01_1_headMic_0170.wav,MC01_1_0170,MC01,healthy,asr_validation,lip, lip,LIP,LIP,LIP,LIP
+7551,MC01_1_headMic_0175.wav,MC01_1_0175,MC01,healthy,asr_validation,mut, MUT,MUT,MUT,MUT,MUT
+7401,MC01_1_headMic_0197.wav,MC01_1_0197,MC01,healthy,asr_validation,bat, bat,BAT,BAT,BAT,BAT
+7591,MC01_1_headMic_0203.wav,MC01_1_0203,MC01,healthy,asr_validation,menu, menu,MENU,MENU,MENU,MENU
+7638,MC01_1_headMic_0219.wav,MC01_1_0219,MC01,healthy,asr_validation,air, air,AIR,AIR,AIR,AIR
+7667,MC01_1_headMic_0233.wav,MC01_1_0233,MC01,healthy,asr_validation,tile, tile,TILE,TILE,TILE,TILE
+7520,MC01_1_headMic_0253.wav,MC01_1_0253,MC01,healthy,asr_validation,It was a good win for us, It was a good win for us,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US
+7405,MC01_1_headMic_0261.wav,MC01_1_0261,MC01,healthy,asr_validation,Alfalfa is healthy for you, Alfalfa is healthy for you,ALFALFA IS HEALTHY FOR YOU,ALFALFA IS HEALTHY FOR YOU,ALFALFA IS HEALTHY FOR YOU,ALFALFA IS HEALTHY FOR YOU
+7680,MC01_1_headMic_0263.wav,MC01_1_0263,MC01,healthy,asr_validation,Aluminum silverware can often be flimsy, Aluminum silverware can often be flimsy,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY
+7447,MC01_1_headMic_0264.wav,MC01_1_0264,MC01,healthy,asr_validation,chop, chop,CHOP,CHOP,CHOP,CHOP
+7672,MC01_1_headMic_0267.wav,MC01_1_0267,MC01,healthy,asr_validation,sell,sell,SELL,SELL,SELL,SELL
+7559,MC01_1_headMic_0271.wav,MC01_1_0271,MC01,healthy,asr_validation,yes, Yes,YES,YES,YES,YES
+7620,MC01_1_headMic_0283.wav,MC01_1_0283,MC01,healthy,asr_validation,pit, Pit,PIT,PIT,PIT,PIT
+7512,MC01_1_headMic_0298.wav,MC01_1_0298,MC01,healthy,asr_validation,spain, Spain,SPAIN,SPAIN,SPAIN,SPAIN
+7513,MC01_1_headMic_0306.wav,MC01_1_0306,MC01,healthy,asr_validation,papa, Papa,PAPA,PAPA,PAPA,PAPA
+7475,MC01_1_headMic_0307.wav,MC01_1_0307,MC01,healthy,asr_validation,seven, seven,SEVEN,SEVEN,SEVEN,SEVEN
+7454,MC01_1_headMic_0309.wav,MC01_1_0309,MC01,healthy,asr_validation,Alimony harms a divorced man's wealth, Alimony harms a divorced man's wealth,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALIMONY HARMS A DIVORCED MAN'S WEALTH
+7519,MC01_1_headMic_0318.wav,MC01_1_0318,MC01,healthy,asr_validation,The job provides many benefits, The job provides many benefits,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS
+7626,MC01_1_headMic_0321.wav,MC01_1_0321,MC01,healthy,asr_validation,knitting, Knitting,KNITTING,KNITTING,KNITTING,KNITTING
+7685,MC01_1_headMic_0324.wav,MC01_1_0324,MC01,healthy,asr_validation,dark, Dark,DARK,DARK,DARK,DARK
+6169,MC01_2_headMic_0005.wav,MC01_2_0005,MC01,healthy,asr_validation,sitting, sitting,SITTING,SITTING,SITTING,SITTING
+5904,MC01_2_headMic_0025.wav,MC01_2_0025,MC01,healthy,asr_validation,This is not a program of socialized medicine, This is not a program of socialized medicine,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE,THIS IS NOT A PROGRAM OF SOCIALIZED MEDICINE
+6105,MC01_2_headMic_0033.wav,MC01_2_0033,MC01,healthy,asr_validation,cart, Cart,CART,CART,CART,CART
+6061,MC01_2_headMic_0035.wav,MC01_2_0035,MC01,healthy,asr_validation,seed, Seed,SEED,SEED,SEED,SEED
+6121,MC01_2_headMic_0037.wav,MC01_2_0037,MC01,healthy,asr_validation,golf, Golf,GOLF,GOLF,GOLF,GOLF
+6113,MC01_2_headMic_0040.wav,MC01_2_0040,MC01,healthy,asr_validation,dart, Dart,DART,DART,DART,DART
+5994,MC01_2_headMic_0042.wav,MC01_2_0042,MC01,healthy,asr_validation,fat, fat,FAT,FAT,FAT,FAT
+6052,MC01_2_headMic_0076.wav,MC01_2_0076,MC01,healthy,asr_validation,ticker, ticker,TICKER,TICKER,TICKER,TICKER
+5923,MC01_2_headMic_0077.wav,MC01_2_0077,MC01,healthy,asr_validation,Being able to dance can help too, Being able to dance can help too,BEING ABLE TO DANCE CAN HELP TOO,BEING ABLE TO DANCE CAN HELP TOO,BEING ABLE TO DANCE CAN HELP TOO,BEING ABLE TO DANCE CAN HELP TOO
+6095,MC01_2_headMic_0085.wav,MC01_2_0085,MC01,healthy,asr_validation,ham, ham,HAM,HAM,HAM,HAM
+6167,MC01_2_headMic_0087.wav,MC01_2_0087,MC01,healthy,asr_validation,dress, Dress,DRESS,DRESS,DRESS,DRESS
+6228,MC01_2_headMic_0091.wav,MC01_2_0091,MC01,healthy,asr_validation,Help Greg to pick a peck of potatoes, Help Greg to pick a pack of potatoes,HELP GREG TO PICK A PECK OF POTATOES,HELP GREG TO PICK A PACK OF POTATOES,HELP GREG TO PICK A PECK OF POTATOES,HELP GREG TO PICK A PACK OF POTATOES
+6059,MC01_2_headMic_0106.wav,MC01_2_0106,MC01,healthy,asr_validation,Each one volunteered to jump first, each one volunteered to jump first,EACH ONE VOLUNTEERED TO JUMP FIRST,EACH ONE VOLUNTEERED TO JUMP FIRST,EACH ONE VOLUNTEERED TO JUMP FIRST,EACH ONE VOLUNTEERED TO JUMP FIRST
+6193,MC01_2_headMic_0110.wav,MC01_2_0110,MC01,healthy,asr_validation,He really crucified him he nailed it for a yard loss," He really crucified him, he nailed it for a yard loss",HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS
+5953,MC01_2_headMic_0111.wav,MC01_2_0111,MC01,healthy,asr_validation,Please open the window quickly, Please open the window quickly,PLEASE OPEN THE WINDOW QUICKLY,PLEASE OPEN THE WINDOW QUICKLY,PLEASE OPEN THE WINDOW QUICKLY,PLEASE OPEN THE WINDOW QUICKLY
+5928,MC01_2_headMic_0116.wav,MC01_2_0116,MC01,healthy,asr_validation,in, in,IN,IN,IN,IN
+5937,MC01_2_headMic_0138.wav,MC01_2_0138,MC01,healthy,asr_validation,bread, Bread,BREAD,BREAD,BREAD,BREAD
+6010,MC01_2_headMic_0141.wav,MC01_2_0141,MC01,healthy,asr_validation,romeo, Romeo,ROMEO,ROMEO,ROMEO,ROMEO
+6066,MC01_2_headMic_0164.wav,MC01_2_0164,MC01,healthy,asr_validation,liquor, licker,LIQUOR,LICKER,LIQUOR,LICKER
+6017,MC01_2_headMic_0186.wav,MC01_2_0186,MC01,healthy,asr_validation,heat, Heat,HEAT,HEAT,HEAT,HEAT
+6133,MC01_2_headMic_0212.wav,MC01_2_0212,MC01,healthy,asr_validation,fort, Fort,FORT,FORT,FORT,FORT
+5888,MC01_2_headMic_0214.wav,MC01_2_0214,MC01,healthy,asr_validation,tear , Tear,TEAR,TEAR,TEAR,TEAR
+6050,MC01_2_headMic_0219.wav,MC01_2_0219,MC01,healthy,asr_validation,I called two different painters, I call two different painters,I CALLED TWO DIFFERENT PAINTERS,I CALL TWO DIFFERENT PAINTERS,I CALLED TWO DIFFERENT PAINTERS,I CALL TWO DIFFERENT PAINTERS
+5927,MC01_2_headMic_0220.wav,MC01_2_0220,MC01,healthy,asr_validation,boot, boot,BOOT,BOOT,BOOT,BOOT
+6079,MC01_2_headMic_0224.wav,MC01_2_0224,MC01,healthy,asr_validation,blend, blend,BLEND,BLEND,BLEND,BLEND
+5949,MC01_2_headMic_0227.wav,MC01_2_0227,MC01,healthy,asr_validation,see, See,SEE,SEE,SEE,SEE
+6000,MC01_2_headMic_0247.wav,MC01_2_0247,MC01,healthy,asr_validation,sight, site,SIGHT,SITE,SIGHT,SITE
+6020,MC01_2_headMic_0264.wav,MC01_2_0264,MC01,healthy,asr_validation,three, three,THREE,THREE,THREE,THREE
+6210,MC01_2_headMic_0265.wav,MC01_2_0265,MC01,healthy,asr_validation,Critical equipment needs proper maintenance, Critical equipment needs proper maintenance,CRITICAL EQUIPMENT NEEDS PROPER MAINTENANCE,CRITICAL EQUIPMENT NEEDS PROPER MAINTENANCE,CRITICAL EQUIPMENT NEEDS PROPER MAINTENANCE,CRITICAL EQUIPMENT NEEDS PROPER MAINTENANCE
+6103,MC01_2_headMic_0268.wav,MC01_2_0268,MC01,healthy,asr_validation,sheet, Sheet,SHEET,SHEET,SHEET,SHEET
+5935,MC01_2_headMic_0289.wav,MC01_2_0289,MC01,healthy,asr_validation,Who knows what you'll discover about yourself, Who knows what you'll discover about yourself?,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF
+6119,MC01_2_headMic_0297.wav,MC01_2_0297,MC01,healthy,asr_validation,cork, cork,CORK,CORK,CORK,CORK
+5966,MC01_2_headMic_0307.wav,MC01_2_0307,MC01,healthy,asr_validation,The little girls cut lacy valentines, The little girls cut lacy valentines,THE LITTLE GIRLS CUT LACY VALENTINES,THE LITTLE GIRLS CUT LACY VALENTINES,THE LITTLE GIRLS CUT LACY VALENTINES,THE LITTLE GIRLS CUT LACY VALENTINES
+6108,MC01_2_headMic_0324.wav,MC01_2_0324,MC01,healthy,asr_validation,I loved every minute of it, I loved every minute of it,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT,I LOVED EVERY MINUTE OF IT
+6162,MC01_2_headMic_0326.wav,MC01_2_0326,MC01,healthy,asr_validation,six, Six,SIX,SIX,SIX,SIX
+6220,MC01_2_headMic_0341.wav,MC01_2_0341,MC01,healthy,asr_validation,Those people are much quicker than I am, Those people are much quicker than I am,THOSE PEOPLE ARE MUCH QUICKER THAN I AM,THOSE PEOPLE ARE MUCH QUICKER THAN I AM,THOSE PEOPLE ARE MUCH QUICKER THAN I AM,THOSE PEOPLE ARE MUCH QUICKER THAN I AM
+6030,MC01_2_headMic_0357.wav,MC01_2_0357,MC01,healthy,asr_validation,Mom strongly dislikes appetizers, Mom strongly dislikes appetizers,MOM STRONGLY DISLIKES APPETIZERS,MOM STRONGLY DISLIKES APPETIZERS,MOM STRONGLY DISLIKES APPETIZERS,MOM STRONGLY DISLIKES APPETIZERS
+6713,MC01_3_headMic_0031.wav,MC01_3_0031,MC01,healthy,asr_validation,leap,leap,LEAP,LEAP,LEAP,LEAP
+6729,MC01_3_headMic_0051.wav,MC01_3_0051,MC01,healthy,asr_validation,beast, Beast,BEAST,BEAST,BEAST,BEAST
+7011,MC01_3_headMic_0070.wav,MC01_3_0070,MC01,healthy,asr_validation,It requires no big investment, it requires no big investment,IT REQUIRES NO BIG INVESTMENT,IT REQUIRES NO BIG INVESTMENT,IT REQUIRES NO BIG INVESTMENT,IT REQUIRES NO BIG INVESTMENT
+6677,MC01_3_headMic_0087.wav,MC01_3_0087,MC01,healthy,asr_validation,fell, fell,FELL,FELL,FELL,FELL
+6706,MC01_3_headMic_0116.wav,MC01_3_0116,MC01,healthy,asr_validation,aches, aches,ACHES,ACHES,ACHES,ACHES
+6796,MC01_3_headMic_0144.wav,MC01_3_0144,MC01,healthy,asr_validation,see, see,SEE,SEE,SEE,SEE
+7017,MC01_3_headMic_0147.wav,MC01_3_0147,MC01,healthy,asr_validation,Now I'm living exactly as I chose, Now I'm living exactly as I chose,NOW I'M LIVING EXACTLY AS I CHOSE,NOW I'M LIVING EXACTLY AS I CHOSE,NOW I'M LIVING EXACTLY AS I CHOSE,NOW I'M LIVING EXACTLY AS I CHOSE
+6822,MC01_3_headMic_0153.wav,MC01_3_0153,MC01,healthy,asr_validation,pat, Pat,PAT,PAT,PAT,PAT
+6726,MC01_3_headMic_0165.wav,MC01_3_0165,MC01,healthy,asr_validation,I had no desire to change my ways, I had no desire to change my ways,I HAD NO DESIRE TO CHANGE MY WAYS,I HAD NO DESIRE TO CHANGE MY WAYS,I HAD NO DESIRE TO CHANGE MY WAYS,I HAD NO DESIRE TO CHANGE MY WAYS
+6824,MC01_3_headMic_0167.wav,MC01_3_0167,MC01,healthy,asr_validation,is, is,IS,IS,IS,IS
+6932,MC01_3_headMic_0178.wav,MC01_3_0178,MC01,healthy,asr_validation,steak, steak,STEAK,STEAK,STEAK,STEAK
+6768,MC01_3_headMic_0194.wav,MC01_3_0194,MC01,healthy,asr_validation,hail, Hail,HAIL,HAIL,HAIL,HAIL
+6825,MC01_3_headMic_0219.wav,MC01_3_0219,MC01,healthy,asr_validation,blow, low,BLOW,LOW,BLOW,LOW
+6753,MC01_3_headMic_0231.wav,MC01_3_0231,MC01,healthy,asr_validation,wide, Why? Why?,WIDE,WHY WHY,WIDE,WHY WHY
+6743,MC01_3_headMic_0250.wav,MC01_3_0250,MC01,healthy,asr_validation,sink, sink,SINK,SINK,SINK,SINK
+6718,MC01_3_headMic_0252.wav,MC01_3_0252,MC01,healthy,asr_validation,cake, Cake,CAKE,CAKE,CAKE,CAKE
+6926,MC01_3_headMic_0255.wav,MC01_3_0255,MC01,healthy,asr_validation,Eat your raisins outdoors on the porch steps, He erected outdoors on the porch steps,EAT YOUR RAISINS OUTDOORS ON THE PORCH STEPS,HE ERECTED OUTDOORS ON THE PORCH STEPS,EAT YOUR RAISINS OUTDOORS ON THE PORCH STEPS,HE ERECTED OUTDOORS ON THE PORCH STEPS
+6910,MC01_3_headMic_0259.wav,MC01_3_0259,MC01,healthy,asr_validation,hall, Hall,HALL,HALL,HALL,HALL
+6792,MC01_3_headMic_0277.wav,MC01_3_0277,MC01,healthy,asr_validation,hall, Hall,HALL,HALL,HALL,HALL
+6663,MC01_3_headMic_0284.wav,MC01_3_0284,MC01,healthy,asr_validation,rise, Rise,RISE,RISE,RISE,RISE
+6712,MC01_3_headMic_0293.wav,MC01_3_0293,MC01,healthy,asr_validation,dash, dash,DASH,DASH,DASH,DASH
+6653,MC01_3_headMic_0308.wav,MC01_3_0308,MC01,healthy,asr_validation,The new highway is straight and empty, The new highway is straight and empty,THE NEW HIGHWAY IS STRAIGHT AND EMPTY,THE NEW HIGHWAY IS STRAIGHT AND EMPTY,THE NEW HIGHWAY IS STRAIGHT AND EMPTY,THE NEW HIGHWAY IS STRAIGHT AND EMPTY
+6865,MC01_3_headMic_0315.wav,MC01_3_0315,MC01,healthy,asr_validation,Last year's gas shortage caused steep price increases, Ask yours gas shortage caused deep pricing creases,LAST YEAR'S GAS SHORTAGE CAUSED STEEP PRICE INCREASES,ASK YOURS GAS SHORTAGE CAUSED DEEP PRICING CREASES,LAST YEAR'S GAS SHORTAGE CAUSED STEEP PRICE INCREASES,ASK YOURS GAS SHORTAGE CAUSED DEEP PRICING CREASES
+6969,MC01_3_headMic_0321.wav,MC01_3_0321,MC01,healthy,asr_validation,hold, hold,HOLD,HOLD,HOLD,HOLD
+6781,MC01_3_headMic_0324.wav,MC01_3_0324,MC01,healthy,asr_validation,ship, ship,SHIP,SHIP,SHIP,SHIP
+6902,MC01_3_headMic_0329.wav,MC01_3_0329,MC01,healthy,asr_validation,Spring Street is straight ahead, Spring Street is straight ahead,SPRING STREET IS STRAIGHT AHEAD,SPRING STREET IS STRAIGHT AHEAD,SPRING STREET IS STRAIGHT AHEAD,SPRING STREET IS STRAIGHT AHEAD
+7047,MC01_3_headMic_0337.wav,MC01_3_0337,MC01,healthy,asr_validation,wine, wine,WINE,WINE,WINE,WINE
+6833,MC01_3_headMic_0338.wav,MC01_3_0338,MC01,healthy,asr_validation,We got drenched from the uninterrupted rain, We got drenched from the uninterrupted rain,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN,WE GOT DRENCHED FROM THE UNINTERRUPTED RAIN
+6666,MC01_3_headMic_0344.wav,MC01_3_0344,MC01,healthy,asr_validation,feel, feel,FEEL,FEEL,FEEL,FEEL
+6989,MC01_3_headMic_0352.wav,MC01_3_0352,MC01,healthy,asr_validation,fold, fold,FOLD,FOLD,FOLD,FOLD
+6785,MC01_3_headMic_0357.wav,MC01_3_0357,MC01,healthy,asr_validation,spray, spray,SPRAY,SPRAY,SPRAY,SPRAY
+6772,MC01_3_headMic_0370.wav,MC01_3_0370,MC01,healthy,asr_validation,able, Able,ABLE,ABLE,ABLE,ABLE
+6897,MC01_3_headMic_0372.wav,MC01_3_0372,MC01,healthy,asr_validation,We must be ready for any needed sacrifice, We must be ready for any needed sacrifice,WE MUST BE READY FOR ANY NEEDED SACRIFICE,WE MUST BE READY FOR ANY NEEDED SACRIFICE,WE MUST BE READY FOR ANY NEEDED SACRIFICE,WE MUST BE READY FOR ANY NEEDED SACRIFICE
+6830,MC01_3_headMic_0389.wav,MC01_3_0389,MC01,healthy,asr_validation,each, each,EACH,EACH,EACH,EACH
+6856,MC01_3_headMic_0393.wav,MC01_3_0393,MC01,healthy,asr_validation,table, Table,TABLE,TABLE,TABLE,TABLE
+6984,MC01_3_headMic_0406.wav,MC01_3_0406,MC01,healthy,asr_validation,boot, boot,BOOT,BOOT,BOOT,BOOT
+5494,MC02_1_headMic_0024.wav,MC02_1_0024,MC02,healthy,asr_validation,swore, swore,SWORE,SWORE,SWORE,SWORE
+5365,MC02_1_headMic_0030.wav,MC02_1_0030,MC02,healthy,asr_validation,The quick brown fox jumps over the lazy dog, The quickbound fox jumps over the lazy dog,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG,THE QUICKBOUND FOX JUMPS OVER THE LAZY DOG,THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG,THE QUICKBOUND FOX JUMPS OVER THE LAZY DOG
+5219,MC02_1_headMic_0047.wav,MC02_1_0047,MC02,healthy,asr_validation,raid, raid,RAID,RAID,RAID,RAID
+5412,MC02_1_headMic_0056.wav,MC02_1_0056,MC02,healthy,asr_validation,the, Zip,THE,ZIP,THE,ZIP
+5235,MC02_1_headMic_0064.wav,MC02_1_0064,MC02,healthy,asr_validation,fair, Fair,FAIR,FAIR,FAIR,FAIR
+5303,MC02_1_headMic_0086.wav,MC02_1_0086,MC02,healthy,asr_validation,rage,rage,RAGE,RAGE,RAGE,RAGE
+5523,MC02_1_headMic_0094.wav,MC02_1_0094,MC02,healthy,asr_validation,rate, rate,RATE,RATE,RATE,RATE
+5517,MC02_1_headMic_0113.wav,MC02_1_0113,MC02,healthy,asr_validation,bit, bit,BIT,BIT,BIT,BIT
+5445,MC02_1_headMic_0127.wav,MC02_1_0127,MC02,healthy,asr_validation,Everything went real smooth the sheriff said, Everything went real smooth to Sheriff's said,EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WENT REAL SMOOTH TO SHERIFF'S SAID,EVERYTHING WENT REAL SMOOTH THE SHERIFF SAID,EVERYTHING WENT REAL SMOOTH TO SHERIFF'S SAID
+5326,MC02_1_headMic_0135.wav,MC02_1_0135,MC02,healthy,asr_validation,toot, Two,TOOT,TWO,TOOT,TWO
+5407,MC02_1_headMic_0136.wav,MC02_1_0136,MC02,healthy,asr_validation,though, though,THOUGH,THOUGH,THOUGH,THOUGH
+5263,MC02_1_headMic_0141.wav,MC02_1_0141,MC02,healthy,asr_validation,The islands are sparsely populated, The islands are sparsely populated,THE ISLANDS ARE SPARSELY POPULATED,THE ISLANDS ARE SPARSELY POPULATED,THE ISLANDS ARE SPARSELY POPULATED,THE ISLANDS ARE SPARSELY POPULATED
+5277,MC02_1_headMic_0144.wav,MC02_1_0144,MC02,healthy,asr_validation,know, No.,KNOW,NO,KNOW,NO
+5414,MC02_1_headMic_0150.wav,MC02_1_0150,MC02,healthy,asr_validation,whoop, Whip,WHOOP,WHIP,WHOOP,WHIP
+5380,MC02_1_headMic_0179.wav,MC02_1_0179,MC02,healthy,asr_validation,All the big baseball players get traded, all the big baseball players get traded,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED
+5472,MC02_1_headMic_0194.wav,MC02_1_0194,MC02,healthy,asr_validation,coupe, Cook,COUPE,COOK,COUPE,COOK
+5413,MC02_1_headMic_0216.wav,MC02_1_0216,MC02,healthy,asr_validation,mut, mutt,MUT,MUTT,MUT,MUTT
+5436,MC02_1_headMic_0220.wav,MC02_1_0220,MC02,healthy,asr_validation,bad, Bad,BAD,BAD,BAD,BAD
+5466,MC02_1_headMic_0241.wav,MC02_1_0241,MC02,healthy,asr_validation,we're, Wear,WE'RE,WEAR,WE'RE,WEAR
+5215,MC02_1_headMic_0243.wav,MC02_1_0243,MC02,healthy,asr_validation,air, air,AIR,AIR,AIR,AIR
+5357,MC02_1_headMic_0249.wav,MC02_1_0249,MC02,healthy,asr_validation,tile, tile,TILE,TILE,TILE,TILE
+5234,MC02_1_headMic_0252.wav,MC02_1_0252,MC02,healthy,asr_validation,If you destroy confidence in banks you do something to the economy he said," If you destroy confidence in banks, you do something the economy he said",IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO THE ECONOMY HE SAID,IF YOU DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING THE ECONOMY HE SAID
+5508,MC02_1_headMic_0256.wav,MC02_1_0256,MC02,healthy,asr_validation,shy, Shire,SHY,SHIRE,SHY,SHIRE
+5184,MC02_1_headMic_0262.wav,MC02_1_0262,MC02,healthy,asr_validation,He further proposed grants of an unspecified sum for experimental hospitals, He further proposed grants of an unex un-organized,HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS,HE FURTHER PROPOSED GRANTS OF AN UNEX UNORGANIZED,HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS,HE FURTHER PROPOSED GRANTS OF AN UNEX UN ORGANIZED
+5442,MC02_1_headMic_0263.wav,MC02_1_0263,MC02,healthy,asr_validation,He further proposed grants of an unspecified sum for experimental hospitals, He fitted proposed grants of an unspecified sum for experimental hospitals,HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS,HE FITTED PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS,HE FURTHER PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS,HE FITTED PROPOSED GRANTS OF AN UNSPECIFIED SUM FOR EXPERIMENTAL HOSPITALS
+5375,MC02_1_headMic_0275.wav,MC02_1_0275,MC02,healthy,asr_validation,quebec, Quebec,QUEBEC,QUEBEC,QUEBEC,QUEBEC
+5462,MC02_1_headMic_0304.wav,MC02_1_0304,MC02,healthy,asr_validation,There is a treehouse up above, There is a tree house up above,THERE IS A TREEHOUSE UP ABOVE,THERE IS A TREE HOUSE UP ABOVE,THERE IS A TREEHOUSE UP ABOVE,THERE IS A TREE HOUSE UP ABOVE
+5342,MC02_1_headMic_0317.wav,MC02_1_0317,MC02,healthy,asr_validation,Swing your arm as high as you can, Swing your arm as high as you can,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN
+5452,MC02_1_headMic_0328.wav,MC02_1_0328,MC02,healthy,asr_validation,witch, Witch,WITCH,WITCH,WITCH,WITCH
+5364,MC02_1_headMic_0357.wav,MC02_1_0357,MC02,healthy,asr_validation,loyal, loyal,LOYAL,LOYAL,LOYAL,LOYAL
+5280,MC02_1_headMic_0361.wav,MC02_1_0361,MC02,healthy,asr_validation,The little schoolhouse stood empty, The little schoolhouse stood empty,THE LITTLE SCHOOLHOUSE STOOD EMPTY,THE LITTLE SCHOOLHOUSE STOOD EMPTY,THE LITTLE SCHOOLHOUSE STOOD EMPTY,THE LITTLE SCHOOLHOUSE STOOD EMPTY
+5386,MC02_1_headMic_0364.wav,MC02_1_0364,MC02,healthy,asr_validation,kitten, kitten,KITTEN,KITTEN,KITTEN,KITTEN
+5293,MC02_1_headMic_0381.wav,MC02_1_0381,MC02,healthy,asr_validation,dart, Start,DART,START,DART,START
+4696,MC02_2_arrayMic_0081.wav,MC02_2_0081,MC02,healthy,asr_validation,hand, head,HAND,HEAD,HAND,HEAD
+4568,MC02_2_arrayMic_0100.wav,MC02_2_0100,MC02,healthy,asr_validation,dress, dress,DRESS,DRESS,DRESS,DRESS
+4519,MC02_2_arrayMic_0106.wav,MC02_2_0106,MC02,healthy,asr_validation,A good attitude is unbeatable, The good attitude is unbeatable,A GOOD ATTITUDE IS UNBEATABLE,THE GOOD ATTITUDE IS UNBEATABLE,A GOOD ATTITUDE IS UNBEATABLE,THE GOOD ATTITUDE IS UNBEATABLE
+4622,MC02_2_arrayMic_0126.wav,MC02_2_0126,MC02,healthy,asr_validation,red, Red,RED,RED,RED,RED
+4506,MC02_2_arrayMic_0127.wav,MC02_2_0127,MC02,healthy,asr_validation,write, right,WRITE,RIGHT,WRITE,RIGHT
+4525,MC02_2_arrayMic_0129.wav,MC02_2_0129,MC02,healthy,asr_validation,back, back,BACK,BACK,BACK,BACK
+4439,MC02_2_arrayMic_0152.wav,MC02_2_0152,MC02,healthy,asr_validation,quart, Quart,QUART,QUART,QUART,QUART
+4425,MC02_2_arrayMic_0155.wav,MC02_2_0155,MC02,healthy,asr_validation,leak, Leak,LEAK,LEAK,LEAK,LEAK
+4633,MC02_2_arrayMic_0159.wav,MC02_2_0159,MC02,healthy,asr_validation,shot, shock,SHOT,SHOCK,SHOT,SHOCK
+4706,MC02_2_arrayMic_0164.wav,MC02_2_0164,MC02,healthy,asr_validation,Who knows what you'll discover about yourself, Who knows what you'll discover about yourself?,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF,WHO KNOWS WHAT YOU'LL DISCOVER ABOUT YOURSELF
+4437,MC02_2_arrayMic_0172.wav,MC02_2_0172,MC02,healthy,asr_validation,Life is short and precious, Life is short and precious,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS
+4502,MC02_2_arrayMic_0178.wav,MC02_2_0178,MC02,healthy,asr_validation,lip, lip,LIP,LIP,LIP,LIP
+4673,MC02_2_arrayMic_0183.wav,MC02_2_0183,MC02,healthy,asr_validation,goat, go,GOAT,GO,GOAT,GO
+4619,MC02_2_arrayMic_0197.wav,MC02_2_0197,MC02,healthy,asr_validation,shoot, Shoot,SHOOT,SHOOT,SHOOT,SHOOT
+4685,MC02_2_arrayMic_0221.wav,MC02_2_0221,MC02,healthy,asr_validation,snake, Snake,SNAKE,SNAKE,SNAKE,SNAKE
+4428,MC02_2_arrayMic_0223.wav,MC02_2_0223,MC02,healthy,asr_validation,Barb's gold bracelet was a graduation present, Barbers' gold bracelet was a graduation present,BARB'S GOLD BRACELET WAS A GRADUATION PRESENT,BARBERS' GOLD BRACELET WAS A GRADUATION PRESENT,BARB'S GOLD BRACELET WAS A GRADUATION PRESENT,BARBERS' GOLD BRACELET WAS A GRADUATION PRESENT
+4594,MC02_2_arrayMic_0228.wav,MC02_2_0228,MC02,healthy,asr_validation,lee, Lee,LEE,LEE,LEE,LEE
+4416,MC02_2_arrayMic_0242.wav,MC02_2_0242,MC02,healthy,asr_validation,hold, Holded,HOLD,HOLDED,HOLD,HOLDED
+4482,MC02_2_arrayMic_0244.wav,MC02_2_0244,MC02,healthy,asr_validation,fort, Fort,FORT,FORT,FORT,FORT
+4693,MC02_2_arrayMic_0260.wav,MC02_2_0260,MC02,healthy,asr_validation,geese, Bease,GEESE,BEASE,GEESE,BEASE
+4634,MC02_2_arrayMic_0264.wav,MC02_2_0264,MC02,healthy,asr_validation,row, Rope,ROW,ROPE,ROW,ROPE
+4419,MC02_2_arrayMic_0273.wav,MC02_2_0273,MC02,healthy,asr_validation,six, Six,SIX,SIX,SIX,SIX
+4538,MC02_2_arrayMic_0275.wav,MC02_2_0275,MC02,healthy,asr_validation,seat, see,SEAT,SEE,SEAT,SEE
+4596,MC02_2_arrayMic_0287.wav,MC02_2_0287,MC02,healthy,asr_validation,geese, ease,GEESE,EASE,GEESE,EASE
+4582,MC02_2_arrayMic_0294.wav,MC02_2_0294,MC02,healthy,asr_validation,me, meat,ME,MEAT,ME,MEAT
+4588,MC02_2_arrayMic_0307.wav,MC02_2_0307,MC02,healthy,asr_validation,sticks, sticks,STICKS,STICKS,STICKS,STICKS
+4453,MC02_2_arrayMic_0312.wav,MC02_2_0312,MC02,healthy,asr_validation,beast, Beast,BEAST,BEAST,BEAST,BEAST
+4769,MC02_2_headMic_0017.wav,MC02_2_0017,MC02,healthy,asr_validation,Travel is about the only leisure we have, Travel is about the only leisure we have,TRAVEL IS ABOUT THE ONLY LEISURE WE HAVE,TRAVEL IS ABOUT THE ONLY LEISURE WE HAVE,TRAVEL IS ABOUT THE ONLY LEISURE WE HAVE,TRAVEL IS ABOUT THE ONLY LEISURE WE HAVE
+4781,MC02_2_headMic_0021.wav,MC02_2_0021,MC02,healthy,asr_validation,zulu, Zulu,ZULU,ZULU,ZULU,ZULU
+4760,MC02_2_headMic_0030.wav,MC02_2_0030,MC02,healthy,asr_validation,one, one,ONE,ONE,ONE,ONE
+4712,MC02_2_headMic_0039.wav,MC02_2_0039,MC02,healthy,asr_validation,knot, Knott,KNOT,KNOTT,KNOT,KNOTT
+4765,MC02_2_headMic_0045.wav,MC02_2_0045,MC02,healthy,asr_validation,spit, spit,SPIT,SPIT,SPIT,SPIT
+4740,MC02_2_headMic_0059.wav,MC02_2_0059,MC02,healthy,asr_validation,Nobody really expects to evacuate, [ ],NOBODY REALLY EXPECTS TO EVACUATE,,NOBODY REALLY EXPECTS TO EVACUATE,
+4722,MC02_2_headMic_0062.wav,MC02_2_0062,MC02,healthy,asr_validation,The prospect of cutting back spending is an unpleasant one for any governor," The puffets have been perfect, one doesn't want for any government",THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PUFFETS HAVE BEEN PERFECT ONE DOESN'T WANT FOR ANY GOVERNMENT,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PUFFETS HAVE BEEN PERFECT ONE DOESN'T WANT FOR ANY GOVERNMENT
+4754,MC02_2_headMic_0075.wav,MC02_2_0075,MC02,healthy,asr_validation,chip, chip,CHIP,CHIP,CHIP,CHIP
+8980,MC03_1_headMic_0016.wav,MC03_1_0016,MC03,healthy,asr_validation,trouble, treble,TROUBLE,TREBLE,TROUBLE,TREBLE
+8928,MC03_1_headMic_0020.wav,MC03_1_0020,MC03,healthy,asr_validation,feed, feed,FEED,FEED,FEED,FEED
+9058,MC03_1_headMic_0024.wav,MC03_1_0024,MC03,healthy,asr_validation,right, right,RIGHT,RIGHT,RIGHT,RIGHT
+8829,MC03_1_headMic_0045.wav,MC03_1_0045,MC03,healthy,asr_validation,train, train,TRAIN,TRAIN,TRAIN,TRAIN
+8891,MC03_1_headMic_0050.wav,MC03_1_0050,MC03,healthy,asr_validation,Twice each day he plays skillfully and with zest upon our small organ, twice each day he plays skillfully and with zest upon our small organ,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN,TWICE EACH DAY HE PLAYS SKILLFULLY AND WITH ZEST UPON OUR SMALL ORGAN
+8821,MC03_1_headMic_0065.wav,MC03_1_0065,MC03,healthy,asr_validation,spark, spark,SPARK,SPARK,SPARK,SPARK
+9012,MC03_1_headMic_0075.wav,MC03_1_0075,MC03,healthy,asr_validation,lead , lead,LEAD,LEAD,LEAD,LEAD
+9342,MC03_1_headMic_0076.wav,MC03_1_0076,MC03,healthy,asr_validation,he slowly takes a short walk in the open air each day, He slowly takes a short walk in the open air each day,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY,HE SLOWLY TAKES A SHORT WALK IN THE OPEN AIR EACH DAY
+9140,MC03_1_headMic_0084.wav,MC03_1_0084,MC03,healthy,asr_validation,for, four,FOR,FOUR,FOR,FOUR
+9076,MC03_1_headMic_0085.wav,MC03_1_0085,MC03,healthy,asr_validation,torn, torn,TORN,TORN,TORN,TORN
+9276,MC03_1_headMic_0111.wav,MC03_1_0111,MC03,healthy,asr_validation,knee, Meey,KNEE,MEEY,KNEE,MEEY
+9174,MC03_1_headMic_0116.wav,MC03_1_0116,MC03,healthy,asr_validation,trait, Trade,TRAIT,TRADE,TRAIT,TRADE
+9080,MC03_1_headMic_0137.wav,MC03_1_0137,MC03,healthy,asr_validation,no, no,NO,NO,NO,NO
+9259,MC03_1_headMic_0168.wav,MC03_1_0168,MC03,healthy,asr_validation,They carried me off on the stretcher, They carried me off on the stretcher,THEY CARRIED ME OFF ON THE STRETCHER,THEY CARRIED ME OFF ON THE STRETCHER,THEY CARRIED ME OFF ON THE STRETCHER,THEY CARRIED ME OFF ON THE STRETCHER
+8785,MC03_1_headMic_0174.wav,MC03_1_0174,MC03,healthy,asr_validation,gnaw, No.,GNAW,NO,GNAW,NO
+9336,MC03_1_headMic_0176.wav,MC03_1_0176,MC03,healthy,asr_validation,You're used to being on the field, you're used to being on the field,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD,YOU'RE USED TO BEING ON THE FIELD
+8840,MC03_1_headMic_0200.wav,MC03_1_0200,MC03,healthy,asr_validation,He will allow a rare lie, she will allow a rare lie,HE WILL ALLOW A RARE LIE,SHE WILL ALLOW A RARE LIE,HE WILL ALLOW A RARE LIE,SHE WILL ALLOW A RARE LIE
+9073,MC03_1_headMic_0216.wav,MC03_1_0216,MC03,healthy,asr_validation,All the big baseball players get traded, All the big baseball players get traded,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED,ALL THE BIG BASEBALL PLAYERS GET TRADED
+9144,MC03_1_headMic_0226.wav,MC03_1_0226,MC03,healthy,asr_validation,My sister made the flowered curtains, My sister made the floured curtains,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOURED CURTAINS,MY SISTER MADE THE FLOWERED CURTAINS,MY SISTER MADE THE FLOURED CURTAINS
+9205,MC03_1_headMic_0264.wav,MC03_1_0264,MC03,healthy,asr_validation,leak, Leak,LEAK,LEAK,LEAK,LEAK
+8993,MC03_1_headMic_0280.wav,MC03_1_0280,MC03,healthy,asr_validation,Both injuries were to the same leg, both injuries were felt,BOTH INJURIES WERE TO THE SAME LEG,BOTH INJURIES WERE FELT,BOTH INJURIES WERE TO THE SAME LEG,BOTH INJURIES WERE FELT
+9039,MC03_1_headMic_0287.wav,MC03_1_0287,MC03,healthy,asr_validation,hill, Hill,HILL,HILL,HILL,HILL
+8838,MC03_1_headMic_0297.wav,MC03_1_0297,MC03,healthy,asr_validation,knitting, knitting,KNITTING,KNITTING,KNITTING,KNITTING
+8952,MC03_1_headMic_0305.wav,MC03_1_0305,MC03,healthy,asr_validation,I expect we'll bounce back this week, I expect Will bounce back this week,I EXPECT WE'LL BOUNCE BACK THIS WEEK,I EXPECT WILL BOUNCE BACK THIS WEEK,I EXPECT WE'LL BOUNCE BACK THIS WEEK,I EXPECT WILL BOUNCE BACK THIS WEEK
+9209,MC03_1_headMic_0311.wav,MC03_1_0311,MC03,healthy,asr_validation,We rode horseback to the farm, We wrote horseback to your farm,WE RODE HORSEBACK TO THE FARM,WE WROTE HORSEBACK TO YOUR FARM,WE RODE HORSEBACK TO THE FARM,WE WROTE HORSEBACK TO YOUR FARM
+9137,MC03_1_headMic_0332.wav,MC03_1_0332,MC03,healthy,asr_validation,cake, Cake,CAKE,CAKE,CAKE,CAKE
+8925,MC03_1_headMic_0343.wav,MC03_1_0343,MC03,healthy,asr_validation,fill, fill,FILL,FILL,FILL,FILL
+8792,MC03_1_headMic_0347.wav,MC03_1_0347,MC03,healthy,asr_validation,seed, Seed,SEED,SEED,SEED,SEED
+9252,MC03_1_headMic_0350.wav,MC03_1_0350,MC03,healthy,asr_validation,at, hat,AT,HAT,AT,HAT
+8825,MC03_1_headMic_0357.wav,MC03_1_0357,MC03,healthy,asr_validation,It also provides for funds to clear slums and help colleges build dormitories, It also provides for funds to clear slums and help colleges build dormitories,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES,IT ALSO PROVIDES FOR FUNDS TO CLEAR SLUMS AND HELP COLLEGES BUILD DORMITORIES
+8909,MC03_1_headMic_0359.wav,MC03_1_0359,MC03,healthy,asr_validation,quebec, Quebec,QUEBEC,QUEBEC,QUEBEC,QUEBEC
+8936,MC03_1_headMic_0361.wav,MC03_1_0361,MC03,healthy,asr_validation,The job provides many benefits, The job provides many benefits,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS,THE JOB PROVIDES MANY BENEFITS
+8961,MC03_1_headMic_0380.wav,MC03_1_0380,MC03,healthy,asr_validation,city, city,CITY,CITY,CITY,CITY
+9087,MC03_1_headMic_0389.wav,MC03_1_0389,MC03,healthy,asr_validation,rock, Rock,ROCK,ROCK,ROCK,ROCK
+9016,MC03_1_headMic_0391.wav,MC03_1_0391,MC03,healthy,asr_validation,nut, Nutt,NUT,NUTT,NUT,NUTT
+9325,MC03_1_headMic_0395.wav,MC03_1_0395,MC03,healthy,asr_validation,spit, spit,SPIT,SPIT,SPIT,SPIT
+8877,MC03_1_headMic_0396.wav,MC03_1_0396,MC03,healthy,asr_validation,red, Red,RED,RED,RED,RED
+9323,MC03_1_headMic_0404.wav,MC03_1_0404,MC03,healthy,asr_validation,meat, Meat,MEAT,MEAT,MEAT,MEAT
+9288,MC03_1_headMic_0409.wav,MC03_1_0409,MC03,healthy,asr_validation,hand, head,HAND,HEAD,HAND,HEAD
+9167,MC03_1_headMic_0416.wav,MC03_1_0416,MC03,healthy,asr_validation,no, No.,NO,NO,NO,NO
+9077,MC03_1_headMic_0422.wav,MC03_1_0422,MC03,healthy,asr_validation,sheet, sheet,SHEET,SHEET,SHEET,SHEET
+8998,MC03_1_headMic_0425.wav,MC03_1_0425,MC03,healthy,asr_validation,You want him to do well, You want him to do well,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL,YOU WANT HIM TO DO WELL
+8918,MC03_1_headMic_0426.wav,MC03_1_0426,MC03,healthy,asr_validation,liquor, liquor,LIQUOR,LIQUOR,LIQUOR,LIQUOR
+9135,MC03_1_headMic_0430.wav,MC03_1_0430,MC03,healthy,asr_validation,ship, ship,SHIP,SHIP,SHIP,SHIP
+9163,MC03_1_headMic_0452.wav,MC03_1_0452,MC03,healthy,asr_validation,one, one,ONE,ONE,ONE,ONE
+9111,MC03_1_headMic_0483.wav,MC03_1_0483,MC03,healthy,asr_validation,The prospect of cutting back spending is an unpleasant one for any governor, The prospect of cutting back spending is an unpleasant one for any governor,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR,THE PROSPECT OF CUTTING BACK SPENDING IS AN UNPLEASANT ONE FOR ANY GOVERNOR
+9262,MC03_1_headMic_0487.wav,MC03_1_0487,MC03,healthy,asr_validation,sit, sit,SIT,SIT,SIT,SIT
+9139,MC03_1_headMic_0529.wav,MC03_1_0529,MC03,healthy,asr_validation,yes, Yes,YES,YES,YES,YES
+9258,MC03_1_headMic_0543.wav,MC03_1_0543,MC03,healthy,asr_validation,geese, Leaf,GEESE,LEAF,GEESE,LEAF
+9150,MC03_1_headMic_0554.wav,MC03_1_0554,MC03,healthy,asr_validation,ship, ship,SHIP,SHIP,SHIP,SHIP
+8881,MC03_1_headMic_0559.wav,MC03_1_0559,MC03,healthy,asr_validation,fort, Fort,FORT,FORT,FORT,FORT
+9270,MC03_1_headMic_0586.wav,MC03_1_0586,MC03,healthy,asr_validation,heat, heat,HEAT,HEAT,HEAT,HEAT
+8803,MC03_1_headMic_0597.wav,MC03_1_0597,MC03,healthy,asr_validation,Don't do Charlie's dirty dishes, Don't do Charlie's dirty dishes,DON'T DO CHARLIE'S DIRTY DISHES,DON'T DO CHARLIE'S DIRTY DISHES,DON'T DO CHARLIE'S DIRTY DISHES,DON'T DO CHARLIE'S DIRTY DISHES
+7949,MC03_2_arrayMic_0229.wav,MC03_2_0229,MC03,healthy,asr_validation,I didn't know where they were coming from, I didn't know where they were coming from,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM,I DIDN'T KNOW WHERE THEY WERE COMING FROM
+7818,MC03_2_arrayMic_0236.wav,MC03_2_0236,MC03,healthy,asr_validation,rip, rip,RIP,RIP,RIP,RIP
+7912,MC03_2_arrayMic_0244.wav,MC03_2_0244,MC03,healthy,asr_validation,leak, leak,LEAK,LEAK,LEAK,LEAK
+7806,MC03_2_arrayMic_0250.wav,MC03_2_0250,MC03,healthy,asr_validation,The lack of heat compounded the tenant's grievances, [S],THE LACK OF HEAT COMPOUNDED THE TENANT'S GRIEVANCES,S,THE LACK OF HEAT COMPOUNDED THE TENANT'S GRIEVANCES,S
+7733,MC03_2_arrayMic_0253.wav,MC03_2_0253,MC03,healthy,asr_validation,leaks, Weeks,LEAKS,WEEKS,LEAKS,WEEKS
+7737,MC03_2_arrayMic_0268.wav,MC03_2_0268,MC03,healthy,asr_validation,row, row,ROW,ROW,ROW,ROW
+7976,MC03_2_arrayMic_0282.wav,MC03_2_0282,MC03,healthy,asr_validation,lip, lip,LIP,LIP,LIP,LIP
+7778,MC03_2_arrayMic_0286.wav,MC03_2_0286,MC03,healthy,asr_validation,is, his,IS,HIS,IS,HIS
+8028,MC03_2_headMic_0008.wav,MC03_2_0008,MC03,healthy,asr_validation,eat, eat,EAT,EAT,EAT,EAT
+7993,MC03_2_headMic_0009.wav,MC03_2_0009,MC03,healthy,asr_validation,shoot, Shoot,SHOOT,SHOOT,SHOOT,SHOOT
+8101,MC03_2_headMic_0014.wav,MC03_2_0014,MC03,healthy,asr_validation,Life is short and precious, Life is short and precious,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS,LIFE IS SHORT AND PRECIOUS
+8033,MC03_2_headMic_0033.wav,MC03_2_0033,MC03,healthy,asr_validation,The little girls cut lacy valentines, The little girls cut lacy Valentine's,THE LITTLE GIRLS CUT LACY VALENTINES,THE LITTLE GIRLS CUT LACY VALENTINE'S,THE LITTLE GIRLS CUT LACY VALENTINES,THE LITTLE GIRLS CUT LACY VALENTINE'S
+8173,MC03_2_headMic_0046.wav,MC03_2_0046,MC03,healthy,asr_validation,read, Read,READ,READ,READ,READ
+8166,MC03_2_headMic_0058.wav,MC03_2_0058,MC03,healthy,asr_validation,it, It,IT,IT,IT,IT
+8071,MC03_2_headMic_0067.wav,MC03_2_0067,MC03,healthy,asr_validation,coat, coat,COAT,COAT,COAT,COAT
+8016,MC03_2_headMic_0068.wav,MC03_2_0068,MC03,healthy,asr_validation,seven, Seventh,SEVEN,SEVENTH,SEVEN,SEVENTH
+8042,MC03_2_headMic_0078.wav,MC03_2_0078,MC03,healthy,asr_validation,reap, Reap,REAP,REAP,REAP,REAP
+8046,MC03_2_headMic_0084.wav,MC03_2_0084,MC03,healthy,asr_validation,nine, nine,NINE,NINE,NINE,NINE
+8009,MC03_2_headMic_0095.wav,MC03_2_0095,MC03,healthy,asr_validation,beast, Beast,BEAST,BEAST,BEAST,BEAST
+8139,MC03_2_headMic_0098.wav,MC03_2_0098,MC03,healthy,asr_validation,eight, eight,EIGHT,EIGHT,EIGHT,EIGHT
+8039,MC03_2_headMic_0103.wav,MC03_2_0103,MC03,healthy,asr_validation,four, four,FOUR,FOUR,FOUR,FOUR
+8159,MC03_2_headMic_0106.wav,MC03_2_0106,MC03,healthy,asr_validation,sender, sender,SENDER,SENDER,SENDER,SENDER
+8066,MC03_2_headMic_0109.wav,MC03_2_0109,MC03,healthy,asr_validation,to, Two,TO,TWO,TO,TWO
+8103,MC03_2_headMic_0113.wav,MC03_2_0113,MC03,healthy,asr_validation,The golfing fathers ruled in his favor, The golfing father's ruled in his favor,THE GOLFING FATHERS RULED IN HIS FAVOR,THE GOLFING FATHER'S RULED IN HIS FAVOR,THE GOLFING FATHERS RULED IN HIS FAVOR,THE GOLFING FATHER'S RULED IN HIS FAVOR
+8026,MC03_2_headMic_0133.wav,MC03_2_0133,MC03,healthy,asr_validation,woe, whoa,WOE,WHOA,WOE,WHOA
+8185,MC03_2_headMic_0155.wav,MC03_2_0155,MC03,healthy,asr_validation,member, Member,MEMBER,MEMBER,MEMBER,MEMBER
+8029,MC03_2_headMic_0178.wav,MC03_2_0178,MC03,healthy,asr_validation,harm, harm,HARM,HARM,HARM,HARM
+8080,MC03_2_headMic_0181.wav,MC03_2_0181,MC03,healthy,asr_validation,hat, hat,HAT,HAT,HAT,HAT
+8142,MC03_2_headMic_0191.wav,MC03_2_0191,MC03,healthy,asr_validation,pet, Pet,PET,PET,PET,PET
+8193,MC03_2_headMic_0193.wav,MC03_2_0193,MC03,healthy,asr_validation,This he added brought about petty jealousies and petty personal grievances," This he added, brought about plain pet",THIS HE ADDED BROUGHT ABOUT PETTY JEALOUSIES AND PETTY PERSONAL GRIEVANCES,THIS HE ADDED BROUGHT ABOUT PLAIN PET,THIS HE ADDED BROUGHT ABOUT PETTY JEALOUSIES AND PETTY PERSONAL GRIEVANCES,THIS HE ADDED BROUGHT ABOUT PLAIN PET
+8043,MC03_2_headMic_0199.wav,MC03_2_0199,MC03,healthy,asr_validation,ease, ease,EASE,EASE,EASE,EASE
+7997,MC03_2_headMic_0211.wav,MC03_2_0211,MC03,healthy,asr_validation,fill, fill,FILL,FILL,FILL,FILL
+8025,MC03_2_headMic_0215.wav,MC03_2_0215,MC03,healthy,asr_validation,pat, Pat,PAT,PAT,PAT,PAT
+8197,MC03_2_headMic_0226.wav,MC03_2_0226,MC03,healthy,asr_validation,Now I'm living exactly as I choose, Now I'm living exactly as I choose,NOW I'M LIVING EXACTLY AS I CHOOSE,NOW I'M LIVING EXACTLY AS I CHOOSE,NOW I'M LIVING EXACTLY AS I CHOOSE,NOW I'M LIVING EXACTLY AS I CHOOSE
+10361,MC04_1_headMic_0005.wav,MC04_1_0005,MC04,healthy,asr_validation,jacket, jacket,JACKET,JACKET,JACKET,JACKET
+10355,MC04_1_headMic_0007.wav,MC04_1_0007,MC04,healthy,asr_validation,trade, Trade,TRADE,TRADE,TRADE,TRADE
+10418,MC04_1_headMic_0015.wav,MC04_1_0015,MC04,healthy,asr_validation,rake, Rake,RAKE,RAKE,RAKE,RAKE
+10492,MC04_1_headMic_0020.wav,MC04_1_0020,MC04,healthy,asr_validation,rain, frame,RAIN,FRAME,RAIN,FRAME
+10893,MC04_1_headMic_0024.wav,MC04_1_0024,MC04,healthy,asr_validation,trait, Trade,TRAIT,TRADE,TRAIT,TRADE
+10479,MC04_1_headMic_0039.wav,MC04_1_0039,MC04,healthy,asr_validation,trace, trace,TRACE,TRACE,TRACE,TRACE
+10891,MC04_1_headMic_0047.wav,MC04_1_0047,MC04,healthy,asr_validation,bug, Bug,BUG,BUG,BUG,BUG
+10905,MC04_1_headMic_0053.wav,MC04_1_0053,MC04,healthy,asr_validation,knew, new,KNEW,NEW,KNEW,NEW
+10834,MC04_1_headMic_0081.wav,MC04_1_0081,MC04,healthy,asr_validation,double, Double,DOUBLE,DOUBLE,DOUBLE,DOUBLE
+10723,MC04_1_headMic_0096.wav,MC04_1_0096,MC04,healthy,asr_validation,one, one,ONE,ONE,ONE,ONE
+10488,MC04_1_headMic_0100.wav,MC04_1_0100,MC04,healthy,asr_validation,form, form,FORM,FORM,FORM,FORM
+10855,MC04_1_headMic_0101.wav,MC04_1_0101,MC04,healthy,asr_validation,farm, Farm,FARM,FARM,FARM,FARM
+10709,MC04_1_headMic_0114.wav,MC04_1_0114,MC04,healthy,asr_validation,sip, Sith,SIP,SITH,SIP,SITH
+10581,MC04_1_headMic_0122.wav,MC04_1_0122,MC04,healthy,asr_validation,meat, Meat,MEAT,MEAT,MEAT,MEAT
+10728,MC04_1_headMic_0127.wav,MC04_1_0127,MC04,healthy,asr_validation,Two other cases also were under advisement, Two other cases also were under advising,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER CASES ALSO WERE UNDER ADVISING,TWO OTHER CASES ALSO WERE UNDER ADVISEMENT,TWO OTHER CASES ALSO WERE UNDER ADVISING
+10365,MC04_1_headMic_0153.wav,MC04_1_0153,MC04,healthy,asr_validation,thigh, sigh,THIGH,SIGH,THIGH,SIGH
+10626,MC04_1_headMic_0164.wav,MC04_1_0164,MC04,healthy,asr_validation,pot, Pott,POT,POTT,POT,POTT
+10865,MC04_1_headMic_0190.wav,MC04_1_0190,MC04,healthy,asr_validation,know, No.,KNOW,NO,KNOW,NO
+10513,MC04_1_headMic_0196.wav,MC04_1_0196,MC04,healthy,asr_validation,I looked up and noticed two old men, I looked up and noticed two old men,I LOOKED UP AND NOTICED TWO OLD MEN,I LOOKED UP AND NOTICED TWO OLD MEN,I LOOKED UP AND NOTICED TWO OLD MEN,I LOOKED UP AND NOTICED TWO OLD MEN
+10591,MC04_1_headMic_0204.wav,MC04_1_0204,MC04,healthy,asr_validation,shear, sheer,SHEAR,SHEER,SHEAR,SHEER
+10410,MC04_1_headMic_0236.wav,MC04_1_0236,MC04,healthy,asr_validation,The train approached the depot slowly, The train approached the deep house slowly,THE TRAIN APPROACHED THE DEPOT SLOWLY,THE TRAIN APPROACHED THE DEEP HOUSE SLOWLY,THE TRAIN APPROACHED THE DEPOT SLOWLY,THE TRAIN APPROACHED THE DEEP HOUSE SLOWLY
+10867,MC04_1_headMic_0276.wav,MC04_1_0276,MC04,healthy,asr_validation,city, city,CITY,CITY,CITY,CITY
+10574,MC04_1_headMic_0285.wav,MC04_1_0285,MC04,healthy,asr_validation,foxtrot, Foxtrot,FOXTROT,FOXTROT,FOXTROT,FOXTROT
+10966,MC04_1_headMic_0291.wav,MC04_1_0291,MC04,healthy,asr_validation,Swing your arm as high as you can, Swing your arm as high as you can,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN,SWING YOUR ARM AS HIGH AS YOU CAN
+10704,MC04_1_headMic_0300.wav,MC04_1_0300,MC04,healthy,asr_validation,hitting, hitting,HITTING,HITTING,HITTING,HITTING
+10425,MC04_1_headMic_0317.wav,MC04_1_0317,MC04,healthy,asr_validation,It was a good win for us, It was a good win for us,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US,IT WAS A GOOD WIN FOR US
+10858,MC04_1_headMic_0318.wav,MC04_1_0318,MC04,healthy,asr_validation,Alimony harms a divorced man's wealth, All alone he harms a divorced man's wealth,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALL ALONE HE HARMS A DIVORCED MAN'S WEALTH,ALIMONY HARMS A DIVORCED MAN'S WEALTH,ALL ALONE HE HARMS A DIVORCED MAN'S WEALTH
+10777,MC04_1_headMic_0326.wav,MC04_1_0326,MC04,healthy,asr_validation,Aluminum silverware can often be flimsy, A living room somewhere can often be flimsy,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,A LIVING ROOM SOMEWHERE CAN OFTEN BE FLIMSY,ALUMINUM SILVERWARE CAN OFTEN BE FLIMSY,A LIVING ROOM SOMEWHERE CAN OFTEN BE FLIMSY
+10830,MC04_1_headMic_0327.wav,MC04_1_0327,MC04,healthy,asr_validation,This is a period of transition for me, This is a period of transition for me,THIS IS A PERIOD OF TRANSITION FOR ME,THIS IS A PERIOD OF TRANSITION FOR ME,THIS IS A PERIOD OF TRANSITION FOR ME,THIS IS A PERIOD OF TRANSITION FOR ME
+10790,MC04_1_headMic_0330.wav,MC04_1_0330,MC04,healthy,asr_validation,no, No.,NO,NO,NO,NO
+10496,MC04_1_headMic_0337.wav,MC04_1_0337,MC04,healthy,asr_validation,park, Park,PARK,PARK,PARK,PARK
+10651,MC04_1_headMic_0378.wav,MC04_1_0378,MC04,healthy,asr_validation,I expect we'll bounce back this week, I expect you'll bounce back this week,I EXPECT WE'LL BOUNCE BACK THIS WEEK,I EXPECT YOU'LL BOUNCE BACK THIS WEEK,I EXPECT WE'LL BOUNCE BACK THIS WEEK,I EXPECT YOU'LL BOUNCE BACK THIS WEEK
+10459,MC04_1_headMic_0385.wav,MC04_1_0385,MC04,healthy,asr_validation,hum, HUMM,HUM,HUMM,HUM,HUMM
+10881,MC04_1_headMic_0401.wav,MC04_1_0401,MC04,healthy,asr_validation,dread, Dread,DREAD,DREAD,DREAD,DREAD
+10485,MC04_1_headMic_0403.wav,MC04_1_0403,MC04,healthy,asr_validation,down, Down,DOWN,DOWN,DOWN,DOWN
+10424,MC04_1_headMic_0409.wav,MC04_1_0409,MC04,healthy,asr_validation,bed, bed,BED,BED,BED,BED
+10532,MC04_1_headMic_0417.wav,MC04_1_0417,MC04,healthy,asr_validation,He really crucified him he nailed it for a yard loss," He really crucified him, he nailed it for a yard loss",HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS,HE REALLY CRUCIFIED HIM HE NAILED IT FOR A YARD LOSS
+10796,MC04_1_headMic_0428.wav,MC04_1_0428,MC04,healthy,asr_validation,zip, zip,ZIP,ZIP,ZIP,ZIP
+10664,MC04_1_headMic_0432.wav,MC04_1_0432,MC04,healthy,asr_validation,tin, tin,TIN,TIN,TIN,TIN
+10584,MC04_1_headMic_0442.wav,MC04_1_0442,MC04,healthy,asr_validation,bitter, bitter,BITTER,BITTER,BITTER,BITTER
+10864,MC04_1_headMic_0449.wav,MC04_1_0449,MC04,healthy,asr_validation,whisky, whiskey,WHISKY,WHISKEY,WHISKY,WHISKEY
+10824,MC04_1_headMic_0459.wav,MC04_1_0459,MC04,healthy,asr_validation,flicker, Slicker,FLICKER,SLICKER,FLICKER,SLICKER
+10668,MC04_1_headMic_0464.wav,MC04_1_0464,MC04,healthy,asr_validation,sierra, Sierra,SIERRA,SIERRA,SIERRA,SIERRA
+10614,MC04_1_headMic_0470.wav,MC04_1_0470,MC04,healthy,asr_validation,This is a good place though small, This is a good place though small,THIS IS A GOOD PLACE THOUGH SMALL,THIS IS A GOOD PLACE THOUGH SMALL,THIS IS A GOOD PLACE THOUGH SMALL,THIS IS A GOOD PLACE THOUGH SMALL
+10706,MC04_1_headMic_0471.wav,MC04_1_0471,MC04,healthy,asr_validation,Most young rise early every morning, most young rise early every morning,MOST YOUNG RISE EARLY EVERY MORNING,MOST YOUNG RISE EARLY EVERY MORNING,MOST YOUNG RISE EARLY EVERY MORNING,MOST YOUNG RISE EARLY EVERY MORNING
+10354,MC04_1_headMic_0484.wav,MC04_1_0484,MC04,healthy,asr_validation,ticker, ticker,TICKER,TICKER,TICKER,TICKER
+10534,MC04_1_headMic_0490.wav,MC04_1_0490,MC04,healthy,asr_validation,in, Inn,IN,INN,IN,INN
+10802,MC04_1_headMic_0498.wav,MC04_1_0498,MC04,healthy,asr_validation,Only lawyers love millionaires, Only lawyers love millionaires,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES,ONLY LAWYERS LOVE MILLIONAIRES
+10416,MC04_1_headMic_0500.wav,MC04_1_0500,MC04,healthy,asr_validation,him, him,HIM,HIM,HIM,HIM
+10817,MC04_1_headMic_0585.wav,MC04_1_0585,MC04,healthy,asr_validation,Do they make any money, Do they make any money?,DO THEY MAKE ANY MONEY,DO THEY MAKE ANY MONEY,DO THEY MAKE ANY MONEY,DO THEY MAKE ANY MONEY
+10383,MC04_1_headMic_0604.wav,MC04_1_0604,MC04,healthy,asr_validation,forward, Forward,FORWARD,FORWARD,FORWARD,FORWARD
+10896,MC04_1_headMic_0606.wav,MC04_1_0606,MC04,healthy,asr_validation,shoot, shoot,SHOOT,SHOOT,SHOOT,SHOOT
+10915,MC04_1_headMic_0607.wav,MC04_1_0607,MC04,healthy,asr_validation,ride, Ride,RIDE,RIDE,RIDE,RIDE
+10884,MC04_1_headMic_0615.wav,MC04_1_0615,MC04,healthy,asr_validation,foe, foe,FOE,FOE,FOE,FOE
+10378,MC04_1_headMic_0621.wav,MC04_1_0621,MC04,healthy,asr_validation,Young people participate in athletic activities, Young people participate in athletic activities,YOUNG PEOPLE PARTICIPATE IN ATHLETIC ACTIVITIES,YOUNG PEOPLE PARTICIPATE IN ATHLETIC ACTIVITIES,YOUNG PEOPLE PARTICIPATE IN ATHLETIC ACTIVITIES,YOUNG PEOPLE PARTICIPATE IN ATHLETIC ACTIVITIES
+10630,MC04_1_headMic_0622.wav,MC04_1_0622,MC04,healthy,asr_validation,dug, Dog,DUG,DOG,DUG,DOG
+10724,MC04_1_headMic_0629.wav,MC04_1_0629,MC04,healthy,asr_validation,fed, FED,FED,FED,FED,FED
+10913,MC04_1_headMic_0633.wav,MC04_1_0633,MC04,healthy,asr_validation,old, Old,OLD,OLD,OLD,OLD
+10647,MC04_1_headMic_0634.wav,MC04_1_0634,MC04,healthy,asr_validation,cash, cash,CASH,CASH,CASH,CASH
+10507,MC04_1_headMic_0639.wav,MC04_1_0639,MC04,healthy,asr_validation,fort, Fort,FORT,FORT,FORT,FORT
+9400,MC04_2_arrayMic_0659.wav,MC04_2_0659,MC04,healthy,asr_validation,ache, ache,ACHE,ACHE,ACHE,ACHE
+9388,MC04_2_arrayMic_0662.wav,MC04_2_0662,MC04,healthy,asr_validation,eight, eight,EIGHT,EIGHT,EIGHT,EIGHT
+9556,MC04_2_arrayMic_0682.wav,MC04_2_0682,MC04,healthy,asr_validation,renter, renter,RENTER,RENTER,RENTER,RENTER
+9580,MC04_2_arrayMic_0700.wav,MC04_2_0700,MC04,healthy,asr_validation,Gold can be found anywhere, Gold can be found anywhere,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE,GOLD CAN BE FOUND ANYWHERE
+9511,MC04_2_arrayMic_0704.wav,MC04_2_0704,MC04,healthy,asr_validation,At twilight on the twelfth day we'll have Chablis, At Twilight on the 12th day we'll have Javeless,AT TWILIGHT ON THE TWELFTH DAY WE'LL HAVE CHABLIS,AT TWILIGHT ON THE 12TH DAY WE'LL HAVE JAVELESS,AT TWILIGHT ON THE TWELFTH DAY WE'LL HAVE CHABLIS,AT TWILIGHT ON THE 12TH DAY WE'LL HAVE JAVELESS
+9534,MC04_2_arrayMic_0715.wav,MC04_2_0715,MC04,healthy,asr_validation,sticks, sticks,STICKS,STICKS,STICKS,STICKS
+9636,MC04_2_arrayMic_0717.wav,MC04_2_0717,MC04,healthy,asr_validation,cash, cash,CASH,CASH,CASH,CASH
+9717,MC04_2_arrayMic_0744.wav,MC04_2_0744,MC04,healthy,asr_validation,Catastrophic economic cutbacks neglect the poor, catastrophic economic cutbacks neglect the poor,CATASTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR,CATASTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR,CATASTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR,CATASTROPHIC ECONOMIC CUTBACKS NEGLECT THE POOR
+9595,MC04_2_arrayMic_0746.wav,MC04_2_0746,MC04,healthy,asr_validation,seat, seat,SEAT,SEAT,SEAT,SEAT
+9691,MC04_2_arrayMic_0757.wav,MC04_2_0757,MC04,healthy,asr_validation,Worse luck was still to come, horse lock was still to come,WORSE LUCK WAS STILL TO COME,HORSE LOCK WAS STILL TO COME,WORSE LUCK WAS STILL TO COME,HORSE LOCK WAS STILL TO COME
+9646,MC04_2_arrayMic_0758.wav,MC04_2_0758,MC04,healthy,asr_validation,I haven't seen that friend for years, I haven't seen that trend for years,I HAVEN'T SEEN THAT FRIEND FOR YEARS,I HAVEN'T SEEN THAT TREND FOR YEARS,I HAVEN'T SEEN THAT FRIEND FOR YEARS,I HAVEN'T SEEN THAT TREND FOR YEARS
+9575,MC04_2_arrayMic_0767.wav,MC04_2_0767,MC04,healthy,asr_validation,temper, Timber,TEMPER,TIMBER,TEMPER,TIMBER
+9586,MC04_2_arrayMic_0769.wav,MC04_2_0769,MC04,healthy,asr_validation,knife, night,KNIFE,NIGHT,KNIFE,NIGHT
+9485,MC04_2_arrayMic_0787.wav,MC04_2_0787,MC04,healthy,asr_validation,leaks, leaks,LEAKS,LEAKS,LEAKS,LEAKS
+9377,MC04_2_arrayMic_0799.wav,MC04_2_0799,MC04,healthy,asr_validation,ache, ache,ACHE,ACHE,ACHE,ACHE
+9616,MC04_2_arrayMic_0809.wav,MC04_2_0809,MC04,healthy,asr_validation,row, row,ROW,ROW,ROW,ROW
+9537,MC04_2_arrayMic_0815.wav,MC04_2_0815,MC04,healthy,asr_validation,reap, Reap,REAP,REAP,REAP,REAP
+9438,MC04_2_arrayMic_0821.wav,MC04_2_0821,MC04,healthy,asr_validation,wax, wax,WAX,WAX,WAX,WAX
+9681,MC04_2_arrayMic_0834.wav,MC04_2_0834,MC04,healthy,asr_validation,peas, peas,PEAS,PEAS,PEAS,PEAS
+9591,MC04_2_arrayMic_0836.wav,MC04_2_0836,MC04,healthy,asr_validation,blend, blend,BLEND,BLEND,BLEND,BLEND
+9561,MC04_2_arrayMic_0839.wav,MC04_2_0839,MC04,healthy,asr_validation,He'll sell them by the box, He'll sell them by the box,HE'LL SELL THEM BY THE BOX,HE'LL SELL THEM BY THE BOX,HE'LL SELL THEM BY THE BOX,HE'LL SELL THEM BY THE BOX
+9635,MC04_2_arrayMic_0841.wav,MC04_2_0841,MC04,healthy,asr_validation,seat, seat,SEAT,SEAT,SEAT,SEAT
+9594,MC04_2_arrayMic_0844.wav,MC04_2_0844,MC04,healthy,asr_validation,Be prepared for odd behavior from friends, Be prepared for odd behavior from friends,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS,BE PREPARED FOR ODD BEHAVIOR FROM FRIENDS
+9521,MC04_2_arrayMic_0849.wav,MC04_2_0849,MC04,healthy,asr_validation,ticks, ticks,TICKS,TICKS,TICKS,TICKS
+9688,MC04_2_arrayMic_0861.wav,MC04_2_0861,MC04,healthy,asr_validation,The job also covers a number of other items, The job also covers a number of other items,THE JOB ALSO COVERS A NUMBER OF OTHER ITEMS,THE JOB ALSO COVERS A NUMBER OF OTHER ITEMS,THE JOB ALSO COVERS A NUMBER OF OTHER ITEMS,THE JOB ALSO COVERS A NUMBER OF OTHER ITEMS
+9582,MC04_2_arrayMic_0863.wav,MC04_2_0863,MC04,healthy,asr_validation,bunch, Bunch,BUNCH,BUNCH,BUNCH,BUNCH
+9720,MC04_2_arrayMic_0867.wav,MC04_2_0867,MC04,healthy,asr_validation,Chocolate and roses never fail as a romantic gift, Chocolate and roses never fail as romantic gift,CHOCOLATE AND ROSES NEVER FAIL AS A ROMANTIC GIFT,CHOCOLATE AND ROSES NEVER FAIL AS ROMANTIC GIFT,CHOCOLATE AND ROSES NEVER FAIL AS A ROMANTIC GIFT,CHOCOLATE AND ROSES NEVER FAIL AS ROMANTIC GIFT
+9621,MC04_2_arrayMic_0880.wav,MC04_2_0880,MC04,healthy,asr_validation,Try to work things out, Try to work things out,TRY TO WORK THINGS OUT,TRY TO WORK THINGS OUT,TRY TO WORK THINGS OUT,TRY TO WORK THINGS OUT
+9711,MC04_2_arrayMic_0896.wav,MC04_2_0896,MC04,healthy,asr_validation,is, his,IS,HIS,IS,HIS
+9500,MC04_2_arrayMic_0912.wav,MC04_2_0912,MC04,healthy,asr_validation,bed, bed,BED,BED,BED,BED
+9527,MC04_2_arrayMic_0932.wav,MC04_2_0932,MC04,healthy,asr_validation,corn, corn,CORN,CORN,CORN,CORN
+9563,MC04_2_arrayMic_0939.wav,MC04_2_0939,MC04,healthy,asr_validation,tip, tip,TIP,TIP,TIP,TIP
+9659,MC04_2_arrayMic_0975.wav,MC04_2_0975,MC04,healthy,asr_validation,low, low,LOW,LOW,LOW,LOW
+9514,MC04_2_arrayMic_0978.wav,MC04_2_0978,MC04,healthy,asr_validation,hold, hold,HOLD,HOLD,HOLD,HOLD
+9715,MC04_2_arrayMic_0988.wav,MC04_2_0988,MC04,healthy,asr_validation,heat, Heat,HEAT,HEAT,HEAT,HEAT
+9495,MC04_2_arrayMic_0990.wav,MC04_2_0990,MC04,healthy,asr_validation,cold, cold,COLD,COLD,COLD,COLD
+9698,MC04_2_arrayMic_1000.wav,MC04_2_1000,MC04,healthy,asr_validation,cake,cake,CAKE,CAKE,CAKE,CAKE
+9472,MC04_2_arrayMic_1019.wav,MC04_2_1019,MC04,healthy,asr_validation,Upgrade your status to reflect your wealth, Upgrade your status to reflect your wealth,UPGRADE YOUR STATUS TO REFLECT YOUR WEALTH,UPGRADE YOUR STATUS TO REFLECT YOUR WEALTH,UPGRADE YOUR STATUS TO REFLECT YOUR WEALTH,UPGRADE YOUR STATUS TO REFLECT YOUR WEALTH
+9406,MC04_2_arrayMic_1024.wav,MC04_2_1024,MC04,healthy,asr_validation,ship, ship,SHIP,SHIP,SHIP,SHIP

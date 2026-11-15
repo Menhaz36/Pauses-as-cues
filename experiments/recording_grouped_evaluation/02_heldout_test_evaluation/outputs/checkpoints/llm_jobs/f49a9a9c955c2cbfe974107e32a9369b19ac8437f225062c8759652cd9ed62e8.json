@@ -1,0 +1,15 @@
+{
+  "job_hash": "f49a9a9c955c2cbfe974107e32a9369b19ac8437f225062c8759652cd9ed62e8",
+  "recording": "M05_2_0043",
+  "arm": "visible",
+  "region": 0,
+  "start": 3,
+  "end": 9,
+  "input_region": "OTHER WAY TO JINGLE [0.5s_pause] A PRINT",
+  "content": "OTHER WAY TO SINGLE [0.5s_pause] A PRINT",
+  "provider_id": "chatcmpl-ee1ccc89-0ed5-4307-8972-9ac50eb84539",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_fe269835c7",
+  "accepted": "OTHER WAY TO SINGLE [0.5s_pause] A PRINT",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,1104 @@
+[
+  {
+    "audio_name": "MC03_1_headMic_0451.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "HE",
+          "start": 0.526,
+          "end": 1.076,
+          "duration": 0.55,
+          "pause_after": 0.0,
+          "confidence": -0.0
+        },
+        {
+          "word": "TOOK",
+          "start": 1.076,
+          "end": 1.318,
+          "duration": 0.241,
+          "pause_after": 0.0,
+          "confidence": -1.144
+        },
+        {
+          "word": "ME",
+          "start": 1.318,
+          "end": 1.479,
+          "duration": 0.161,
+          "pause_after": 0.0,
+          "confidence": -1.027
+        },
+        {
+          "word": "OUT",
+          "start": 1.479,
+          "end": 1.68,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.947
+        },
+        {
+          "word": "ONE",
+          "start": 1.68,
+          "end": 1.911,
+          "duration": 0.231,
+          "pause_after": 0.0,
+          "confidence": -0.706
+        },
+        {
+          "word": "DAY",
+          "start": 1.911,
+          "end": 2.122,
+          "duration": 0.211,
+          "pause_after": null,
+          "confidence": -0.476
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "HE",
+          "start": 0.526,
+          "end": 1.076,
+          "duration": 0.55,
+          "pause_after": 0.0,
+          "confidence": -0.0
+        },
+        {
+          "word": "TOOK",
+          "start": 1.076,
+          "end": 1.318,
+          "duration": 0.241,
+          "pause_after": 0.0,
+          "confidence": -1.144
+        },
+        {
+          "word": "ME",
+          "start": 1.318,
+          "end": 1.479,
+          "duration": 0.161,
+          "pause_after": 0.0,
+          "confidence": -1.027
+        },
+        {
+          "word": "OUT",
+          "start": 1.479,
+          "end": 1.68,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.947
+        },
+        {
+          "word": "ONE",
+          "start": 1.68,
+          "end": 1.911,
+          "duration": 0.231,
+          "pause_after": 0.0,
+          "confidence": -0.706
+        },
+        {
+          "word": "DAY",
+          "start": 1.911,
+          "end": 2.122,
+          "duration": 0.211,
+          "pause_after": null,
+          "confidence": -0.476
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0464.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0465.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0466.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0475.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0476.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "LOOKS",
+          "start": 0.667,
+          "end": 1.358,
+          "duration": 0.691,
+          "pause_after": 0.0,
+          "confidence": -0.318
+        },
+        {
+          "word": "LIKE",
+          "start": 1.358,
+          "end": 1.539,
+          "duration": 0.181,
+          "pause_after": 0.0,
+          "confidence": -2.435
+        },
+        {
+          "word": "THE",
+          "start": 1.539,
+          "end": 1.62,
+          "duration": 0.08,
+          "pause_after": 0.0,
+          "confidence": -2.598
+        },
+        {
+          "word": "UNRIVALOR",
+          "start": 1.62,
+          "end": 2.293,
+          "duration": 0.674,
+          "pause_after": 0.0,
+          "confidence": -1.484
+        },
+        {
+          "word": "WE",
+          "start": 2.293,
+          "end": 2.404,
+          "duration": 0.111,
+          "pause_after": 0.0,
+          "confidence": -1.698
+        },
+        {
+          "word": "HAVE",
+          "start": 2.404,
+          "end": 2.525,
+          "duration": 0.121,
+          "pause_after": 0.0,
+          "confidence": -6.952
+        },
+        {
+          "word": "EVERYONE",
+          "start": 2.525,
+          "end": 2.988,
+          "duration": 0.463,
+          "pause_after": null,
+          "confidence": -0.425
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "MOST",
+          "start": 0.667,
+          "end": 1.338,
+          "duration": 0.671,
+          "pause_after": 0.0,
+          "confidence": -0.258
+        },
+        {
+          "word": "YOUNG",
+          "start": 1.338,
+          "end": 1.72,
+          "duration": 0.382,
+          "pause_after": 0.0,
+          "confidence": -1.186
+        },
+        {
+          "word": "RISE",
+          "start": 1.72,
+          "end": 2.062,
+          "duration": 0.342,
+          "pause_after": 0.0,
+          "confidence": -0.723
+        },
+        {
+          "word": "EARLY",
+          "start": 2.062,
+          "end": 2.414,
+          "duration": 0.352,
+          "pause_after": 0.0,
+          "confidence": -0.269
+        },
+        {
+          "word": "EVERY",
+          "start": 2.414,
+          "end": 2.686,
+          "duration": 0.272,
+          "pause_after": 0.0,
+          "confidence": -0.47
+        },
+        {
+          "word": "MORNING",
+          "start": 2.686,
+          "end": 3.028,
+          "duration": 0.342,
+          "pause_after": null,
+          "confidence": -0.224
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0481.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0485.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "IT'S",
+          "start": 0.887,
+          "end": 1.497,
+          "duration": 0.611,
+          "pause_after": 0.0,
+          "confidence": -0.012
+        },
+        {
+          "word": "FUN",
+          "start": 1.497,
+          "end": 1.718,
+          "duration": 0.221,
+          "pause_after": 0.0,
+          "confidence": -0.597
+        },
+        {
+          "word": "TO",
+          "start": 1.718,
+          "end": 1.919,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.896
+        },
+        {
+          "word": "ROAST",
+          "start": 1.919,
+          "end": 2.2,
+          "duration": 0.281,
+          "pause_after": 0.0,
+          "confidence": -0.626
+        },
+        {
+          "word": "MARSHMALLOWS",
+          "start": 2.2,
+          "end": 2.894,
+          "duration": 0.693,
+          "pause_after": 0.0,
+          "confidence": -0.241
+        },
+        {
+          "word": "ON",
+          "start": 2.894,
+          "end": 3.075,
+          "duration": 0.181,
+          "pause_after": 0.0,
+          "confidence": -0.599
+        },
+        {
+          "word": "A",
+          "start": 3.075,
+          "end": 3.145,
+          "duration": 0.07,
+          "pause_after": 0.0,
+          "confidence": -6.117
+        },
+        {
+          "word": "GAS",
+          "start": 3.145,
+          "end": 3.446,
+          "duration": 0.301,
+          "pause_after": 0.0,
+          "confidence": -0.566
+        },
+        {
+          "word": "BURNER",
+          "start": 3.446,
+          "end": 3.828,
+          "duration": 0.382,
+          "pause_after": null,
+          "confidence": -0.289
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "IT'S",
+          "start": 0.887,
+          "end": 1.497,
+          "duration": 0.611,
+          "pause_after": 0.0,
+          "confidence": -0.012
+        },
+        {
+          "word": "FUN",
+          "start": 1.497,
+          "end": 1.718,
+          "duration": 0.221,
+          "pause_after": 0.0,
+          "confidence": -0.597
+        },
+        {
+          "word": "TO",
+          "start": 1.718,
+          "end": 1.919,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.896
+        },
+        {
+          "word": "ROAST",
+          "start": 1.919,
+          "end": 2.2,
+          "duration": 0.281,
+          "pause_after": 0.0,
+          "confidence": -0.626
+        },
+        {
+          "word": "MARSHMALLOWS",
+          "start": 2.2,
+          "end": 2.894,
+          "duration": 0.693,
+          "pause_after": 0.0,
+          "confidence": -0.241
+        },
+        {
+          "word": "ON",
+          "start": 2.894,
+          "end": 3.075,
+          "duration": 0.181,
+          "pause_after": 0.0,
+          "confidence": -0.599
+        },
+        {
+          "word": "A",
+          "start": 3.075,
+          "end": 3.145,
+          "duration": 0.07,
+          "pause_after": 0.0,
+          "confidence": -6.117
+        },
+        {
+          "word": "GAS",
+          "start": 3.145,
+          "end": 3.446,
+          "duration": 0.301,
+          "pause_after": 0.0,
+          "confidence": -0.566
+        },
+        {
+          "word": "BURNER",
+          "start": 3.446,
+          "end": 3.828,
+          "duration": 0.382,
+          "pause_after": null,
+          "confidence": -0.289
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0489.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0490.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0497.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0498.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "ONLY",
+          "start": 0.663,
+          "end": 1.374,
+          "duration": 0.711,
+          "pause_after": 0.0,
+          "confidence": -0.005
+        },
+        {
+          "word": "LAWYERS",
+          "start": 1.374,
+          "end": 1.815,
+          "duration": 0.441,
+          "pause_after": 0.0,
+          "confidence": -2.009
+        },
+        {
+          "word": "LOVE",
+          "start": 1.815,
+          "end": 2.116,
+          "duration": 0.301,
+          "pause_after": 0.0,
+          "confidence": -3.187
+        },
+        {
+          "word": "MILLIONAIRES",
+          "start": 2.116,
+          "end": 2.778,
+          "duration": 0.662,
+          "pause_after": null,
+          "confidence": -0.419
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "ONLY",
+          "start": 0.663,
+          "end": 1.374,
+          "duration": 0.711,
+          "pause_after": 0.0,
+          "confidence": -0.005
+        },
+        {
+          "word": "LAWYERS",
+          "start": 1.374,
+          "end": 1.815,
+          "duration": 0.441,
+          "pause_after": 0.0,
+          "confidence": -2.009
+        },
+        {
+          "word": "LOVE",
+          "start": 1.815,
+          "end": 2.116,
+          "duration": 0.301,
+          "pause_after": 0.0,
+          "confidence": -3.187
+        },
+        {
+          "word": "MILLIONAIRES",
+          "start": 2.116,
+          "end": 2.778,
+          "duration": 0.662,
+          "pause_after": null,
+          "confidence": -0.419
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0499.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "HELP",
+          "start": 0.683,
+          "end": 1.334,
+          "duration": 0.65,
+          "pause_after": 0.0,
+          "confidence": -0.129
+        },
+        {
+          "word": "GREG",
+          "start": 1.334,
+          "end": 1.624,
+          "duration": 0.291,
+          "pause_after": 0.0,
+          "confidence": -0.275
+        },
+        {
+          "word": "TO",
+          "start": 1.624,
+          "end": 1.835,
+          "duration": 0.211,
+          "pause_after": 0.0,
+          "confidence": -0.699
+        },
+        {
+          "word": "PICK",
+          "start": 1.835,
+          "end": 2.076,
+          "duration": 0.241,
+          "pause_after": 0.0,
+          "confidence": -0.89
+        },
+        {
+          "word": "A",
+          "start": 2.076,
+          "end": 2.196,
+          "duration": 0.12,
+          "pause_after": 0.0,
+          "confidence": -1.232
+        },
+        {
+          "word": "PACK",
+          "start": 2.196,
+          "end": 2.417,
+          "duration": 0.221,
+          "pause_after": 0.0,
+          "confidence": -0.847
+        },
+        {
+          "word": "OF",
+          "start": 2.417,
+          "end": 2.597,
+          "duration": 0.18,
+          "pause_after": 0.0,
+          "confidence": -2.605
+        },
+        {
+          "word": "POTATOES",
+          "start": 2.597,
+          "end": 3.189,
+          "duration": 0.592,
+          "pause_after": null,
+          "confidence": -0.775
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "HELP",
+          "start": 0.683,
+          "end": 1.334,
+          "duration": 0.65,
+          "pause_after": 0.0,
+          "confidence": -0.129
+        },
+        {
+          "word": "GREG",
+          "start": 1.334,
+          "end": 1.624,
+          "duration": 0.291,
+          "pause_after": 0.0,
+          "confidence": -0.275
+        },
+        {
+          "word": "TO",
+          "start": 1.624,
+          "end": 1.835,
+          "duration": 0.211,
+          "pause_after": 0.0,
+          "confidence": -0.699
+        },
+        {
+          "word": "PICK",
+          "start": 1.835,
+          "end": 2.076,
+          "duration": 0.241,
+          "pause_after": 0.0,
+          "confidence": -0.89
+        },
+        {
+          "word": "A",
+          "start": 2.076,
+          "end": 2.196,
+          "duration": 0.12,
+          "pause_after": 0.0,
+          "confidence": -1.232
+        },
+        {
+          "word": "PECK",
+          "start": 2.196,
+          "end": 2.417,
+          "duration": 0.221,
+          "pause_after": 0.0,
+          "confidence": -0.556
+        },
+        {
+          "word": "OF",
+          "start": 2.417,
+          "end": 2.597,
+          "duration": 0.18,
+          "pause_after": 0.0,
+          "confidence": -2.605
+        },
+        {
+          "word": "POTATOES",
+          "start": 2.597,
+          "end": 3.189,
+          "duration": 0.592,
+          "pause_after": null,
+          "confidence": -0.775
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0510.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "COCONUT",
+          "start": 0.431,
+          "end": 1.292,
+          "duration": 0.861,
+          "pause_after": 0.0,
+          "confidence": -0.706
+        },
+        {
+          "word": "CREAM",
+          "start": 1.292,
+          "end": 1.602,
+          "duration": 0.31,
+          "pause_after": 0.0,
+          "confidence": -0.491
+        },
+        {
+          "word": "PIE",
+          "start": 1.602,
+          "end": 2.033,
+          "duration": 0.431,
+          "pause_after": 0.0,
+          "confidence": -0.644
+        },
+        {
+          "word": "NEEDS",
+          "start": 2.033,
+          "end": 2.313,
+          "duration": 0.28,
+          "pause_after": 0.0,
+          "confidence": -3.787
+        },
+        {
+          "word": "A",
+          "start": 2.313,
+          "end": 2.353,
+          "duration": 0.04,
+          "pause_after": 0.0,
+          "confidence": -5.121
+        },
+        {
+          "word": "NICE",
+          "start": 2.353,
+          "end": 2.634,
+          "duration": 0.28,
+          "pause_after": 0.0,
+          "confidence": -0.954
+        },
+        {
+          "word": "DESSERT",
+          "start": 2.634,
+          "end": 3.055,
+          "duration": 0.421,
+          "pause_after": null,
+          "confidence": -0.493
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "COCONUT",
+          "start": 0.431,
+          "end": 1.292,
+          "duration": 0.861,
+          "pause_after": 0.0,
+          "confidence": -0.706
+        },
+        {
+          "word": "CREAM",
+          "start": 1.292,
+          "end": 1.602,
+          "duration": 0.31,
+          "pause_after": 0.0,
+          "confidence": -0.491
+        },
+        {
+          "word": "PIE",
+          "start": 1.602,
+          "end": 1.963,
+          "duration": 0.361,
+          "pause_after": 0.0,
+          "confidence": -0.254
+        },
+        {
+          "word": "MAKES",
+          "start": 1.963,
+          "end": 2.283,
+          "duration": 0.32,
+          "pause_after": 0.0,
+          "confidence": -0.726
+        },
+        {
+          "word": "A",
+          "start": 2.283,
+          "end": 2.353,
+          "duration": 0.07,
+          "pause_after": 0.0,
+          "confidence": -7.74
+        },
+        {
+          "word": "NICE",
+          "start": 2.353,
+          "end": 2.634,
+          "duration": 0.28,
+          "pause_after": 0.0,
+          "confidence": -0.954
+        },
+        {
+          "word": "DESSERT",
+          "start": 2.634,
+          "end": 3.055,
+          "duration": 0.421,
+          "pause_after": null,
+          "confidence": -0.493
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0511.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0517.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0520.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0524.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0534.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0544.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0546.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0555.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "A",
+          "start": 0.527,
+          "end": 1.037,
+          "duration": 0.51,
+          "pause_after": 0.0,
+          "confidence": -0.036
+        },
+        {
+          "word": "QUICK",
+          "start": 1.037,
+          "end": 1.359,
+          "duration": 0.322,
+          "pause_after": 0.0,
+          "confidence": -0.586
+        },
+        {
+          "word": "PATCH",
+          "start": 1.359,
+          "end": 1.681,
+          "duration": 0.322,
+          "pause_after": 0.0,
+          "confidence": -1.12
+        },
+        {
+          "word": "DOWN",
+          "start": 1.681,
+          "end": 1.953,
+          "duration": 0.272,
+          "pause_after": 0.0,
+          "confidence": -0.186
+        },
+        {
+          "word": "IS",
+          "start": 1.953,
+          "end": 2.164,
+          "duration": 0.211,
+          "pause_after": 0.0,
+          "confidence": -0.848
+        },
+        {
+          "word": "ON",
+          "start": 2.164,
+          "end": 2.346,
+          "duration": 0.181,
+          "pause_after": 0.0,
+          "confidence": -0.674
+        },
+        {
+          "word": "THE",
+          "start": 2.346,
+          "end": 2.527,
+          "duration": 0.181,
+          "pause_after": null,
+          "confidence": -0.879
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "A",
+          "start": 0.527,
+          "end": 1.037,
+          "duration": 0.51,
+          "pause_after": 0.0,
+          "confidence": -0.036
+        },
+        {
+          "word": "QUICK",
+          "start": 1.037,
+          "end": 1.359,
+          "duration": 0.322,
+          "pause_after": 0.0,
+          "confidence": -0.586
+        },
+        {
+          "word": "TOUCHDOWN",
+          "start": 1.359,
+          "end": 1.953,
+          "duration": 0.594,
+          "pause_after": 0.0,
+          "confidence": -0.364
+        },
+        {
+          "word": "RESULTED",
+          "start": 1.953,
+          "end": 2.547,
+          "duration": 0.594,
+          "pause_after": null,
+          "confidence": -0.967
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0556.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0566.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0574.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0575.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0578.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_1_headMic_0596.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_2_arrayMic_0232.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_2_arrayMic_0238.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_2_arrayMic_0247.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "MC03_2_arrayMic_0266.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  }
+]

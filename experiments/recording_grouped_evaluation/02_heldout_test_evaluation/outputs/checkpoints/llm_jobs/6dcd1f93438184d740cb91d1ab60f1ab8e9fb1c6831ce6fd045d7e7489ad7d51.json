@@ -1,0 +1,15 @@
+{
+  "job_hash": "6dcd1f93438184d740cb91d1ab60f1ab8e9fb1c6831ce6fd045d7e7489ad7d51",
+  "recording": "F04_2_0057",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "THEY CARRIED ME OFF ON THE STUTCHER",
+  "content": "THEY CARRIED ME OFF ON THE STRETCHER",
+  "provider_id": "chatcmpl-62a55e1c-b383-4e4f-b91a-9b537e7dd542",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "THEY CARRIED ME OFF ON THE STRETCHER",
+  "guard_reason": "accepted"
+}

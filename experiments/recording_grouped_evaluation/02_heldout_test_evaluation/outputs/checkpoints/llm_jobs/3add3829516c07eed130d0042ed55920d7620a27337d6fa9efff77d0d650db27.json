@@ -1,0 +1,15 @@
+{
+  "job_hash": "3add3829516c07eed130d0042ed55920d7620a27337d6fa9efff77d0d650db27",
+  "recording": "M04_2_0285",
+  "arm": "random",
+  "region": 0,
+  "start": 7,
+  "end": 14,
+  "input_region": "WE WERE FILMED BY [2.0s_pause] A NANNY TWEET",
+  "content": "WE WERE FILMED BY [2.0s_pause] A NANNY",
+  "provider_id": "chatcmpl-7446f881-a9a6-4cd7-9f7d-80b8ab211d95",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c800245357",
+  "accepted": "WE WERE FILMED BY [2.0s_pause] A NANNY",
+  "guard_reason": "accepted"
+}

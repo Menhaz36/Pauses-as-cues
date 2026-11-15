@@ -1,0 +1,15 @@
+{
+  "job_hash": "224e856084dc9efdc35dc95fcd2ffc6c5b407b2d189319b801913c8b1d8f9d20",
+  "recording": "M05_2_0219",
+  "arm": "hidden",
+  "region": 0,
+  "start": 2,
+  "end": 9,
+  "input_region": "DAY SOME NEW EPISODES IS EQUALLY QUOTED",
+  "content": "DAY SOME NEW EPISODES IS EQUALLY QUOTED",
+  "provider_id": "chatcmpl-849d153c-0b7c-42ff-bd46-d8322aaac698",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "DAY SOME NEW EPISODES IS EQUALLY QUOTED",
+  "guard_reason": "accepted"
+}

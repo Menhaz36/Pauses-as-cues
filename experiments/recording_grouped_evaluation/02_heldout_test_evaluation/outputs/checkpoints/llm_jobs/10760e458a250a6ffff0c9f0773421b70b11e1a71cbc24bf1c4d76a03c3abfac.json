@@ -1,0 +1,15 @@
+{
+  "job_hash": "10760e458a250a6ffff0c9f0773421b70b11e1a71cbc24bf1c4d76a03c3abfac",
+  "recording": "M04_1_0094",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 17,
+  "input_region": "WHAT WAS SHE PISSED HIS VOICE HIS KID GOT A BIG CAT IN A FEW OTHER STREET",
+  "content": "WHAT WAS SHE PISSED HIS VOICE HIS KID GOT A BIG CAT IN A FEW OTHER STREETS",
+  "provider_id": "chatcmpl-e324aa3e-b7bf-426b-bd41-9d300644b8c7",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_f640395b96",
+  "accepted": "WHAT WAS SHE PISSED HIS VOICE HIS KID GOT A BIG CAT IN A FEW OTHER STREETS",
+  "guard_reason": "accepted"
+}

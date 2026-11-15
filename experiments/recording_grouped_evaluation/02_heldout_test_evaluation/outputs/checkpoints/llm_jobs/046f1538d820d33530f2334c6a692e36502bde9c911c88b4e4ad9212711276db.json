@@ -1,0 +1,15 @@
+{
+  "job_hash": "046f1538d820d33530f2334c6a692e36502bde9c911c88b4e4ad9212711276db",
+  "recording": "M05_2_0197",
+  "arm": "hidden",
+  "region": 0,
+  "start": 1,
+  "end": 7,
+  "input_region": "IS A TREE HOUSE UP ABOVE",
+  "content": "IS A TREE HOUSE UP ABOVE",
+  "provider_id": "chatcmpl-f9915bae-5366-419a-b780-325bdf622534",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c868cf1eaa",
+  "accepted": "IS A TREE HOUSE UP ABOVE",
+  "guard_reason": "accepted"
+}

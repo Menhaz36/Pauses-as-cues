@@ -1,0 +1,15 @@
+{
+  "job_hash": "8e43f37690f253712ae260dbd10369bf46d615502f1c76e7fdf2aaf81e454c43",
+  "recording": "M04_1_0108",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 4,
+  "input_region": "RED RED AND AIR",
+  "content": "RED AND AIR",
+  "provider_id": "chatcmpl-9fb614f8-163e-4f63-877b-66235afd4916",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c800245357",
+  "accepted": "RED AND AIR",
+  "guard_reason": "accepted"
+}

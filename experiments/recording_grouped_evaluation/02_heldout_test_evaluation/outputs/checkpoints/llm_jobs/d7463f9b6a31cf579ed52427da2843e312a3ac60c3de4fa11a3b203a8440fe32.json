@@ -1,0 +1,15 @@
+{
+  "job_hash": "d7463f9b6a31cf579ed52427da2843e312a3ac60c3de4fa11a3b203a8440fe32",
+  "recording": "M02_2_0190",
+  "arm": "random",
+  "region": 0,
+  "start": 4,
+  "end": 9,
+  "input_region": "YOUR CHANCES FOR A [0.9s_pause] LOOP",
+  "content": "YOUR CHANCES FOR A [0.9s_pause] LOAN",
+  "provider_id": "chatcmpl-23e4c3b7-beb0-4e0c-895b-034809186a3d",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "YOUR CHANCES FOR A [0.9s_pause] LOAN",
+  "guard_reason": "accepted"
+}

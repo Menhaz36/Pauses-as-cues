@@ -1,0 +1,15 @@
+{
+  "job_hash": "7ae52fe76558304415347d1a2722beba96a1a9a1fc95fa815c047b46594bf3ac",
+  "recording": "FC03_1_0043",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 3,
+  "input_region": "TWO SORRY TWO",
+  "content": "TWO SORRY TWO",
+  "provider_id": "chatcmpl-f7581d3c-5179-406a-bf5c-162540823733",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8655ddce88",
+  "accepted": "TWO SORRY TWO",
+  "guard_reason": "accepted"
+}

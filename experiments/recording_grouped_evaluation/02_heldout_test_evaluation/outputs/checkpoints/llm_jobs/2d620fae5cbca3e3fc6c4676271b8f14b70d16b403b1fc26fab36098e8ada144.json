@@ -1,0 +1,15 @@
+{
+  "job_hash": "2d620fae5cbca3e3fc6c4676271b8f14b70d16b403b1fc26fab36098e8ada144",
+  "recording": "F03_2_0007",
+  "arm": "hidden",
+  "region": 0,
+  "start": 3,
+  "end": 11,
+  "input_region": "DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO",
+  "content": "DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO",
+  "provider_id": "chatcmpl-cdbbc093-99ff-44d5-8b18-045fe0b6cb00",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_49bfac06f1",
+  "accepted": "DESTROY CONFIDENCE IN BANKS YOU DO SOMETHING TO",
+  "guard_reason": "accepted"
+}

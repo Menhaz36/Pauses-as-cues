@@ -1,0 +1,15 @@
+{
+  "job_hash": "7ac587d289f1640003c64b6d7e70718c083dfbd7aea7c2e0a0e823985142c341",
+  "recording": "M05_2_0043",
+  "arm": "hidden",
+  "region": 0,
+  "start": 3,
+  "end": 9,
+  "input_region": "OTHER WAY TO JINGLE A PRINT",
+  "content": "OTHER WAY TO JINGLE A PRINT",
+  "provider_id": "chatcmpl-6626c52b-1230-41ae-951d-6e33b7b93928",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_fe269835c7",
+  "accepted": "OTHER WAY TO JINGLE A PRINT",
+  "guard_reason": "accepted"
+}

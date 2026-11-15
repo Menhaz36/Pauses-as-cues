@@ -1,0 +1,803 @@
+[
+  {
+    "audio_name": "M03_2_headMic_0090.wav",
+    "recording": "M03_2_0090",
+    "speaker": "M03",
+    "reference": "down",
+    "hypothesis": " Down",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0107.wav",
+    "recording": "M03_2_0107",
+    "speaker": "M03",
+    "reference": "The quick brown fox jumps over the lazy dog",
+    "hypothesis": " The quick brown Fox stems over the lazy dog",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THE",
+        "start": 0.781,
+        "end": 1.331,
+        "duration": 0.55,
+        "pause_after": 0.0,
+        "confidence": -0.014
+      },
+      {
+        "word": "QUICK",
+        "start": 1.331,
+        "end": 1.572,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -0.904
+      },
+      {
+        "word": "BROWN",
+        "start": 1.572,
+        "end": 1.982,
+        "duration": 0.41,
+        "pause_after": 0.0,
+        "confidence": -0.319
+      },
+      {
+        "word": "FOX",
+        "start": 1.982,
+        "end": 2.353,
+        "duration": 0.37,
+        "pause_after": 0.0,
+        "confidence": -1.636
+      },
+      {
+        "word": "STEMS",
+        "start": 2.353,
+        "end": 2.753,
+        "duration": 0.4,
+        "pause_after": 0.0,
+        "confidence": -2.234
+      },
+      {
+        "word": "OVER",
+        "start": 2.753,
+        "end": 3.053,
+        "duration": 0.3,
+        "pause_after": 0.0,
+        "confidence": -2.124
+      },
+      {
+        "word": "THE",
+        "start": 3.053,
+        "end": 3.193,
+        "duration": 0.14,
+        "pause_after": 0.0,
+        "confidence": -2.147
+      },
+      {
+        "word": "LAZY",
+        "start": 3.193,
+        "end": 3.534,
+        "duration": 0.34,
+        "pause_after": 0.0,
+        "confidence": -0.955
+      },
+      {
+        "word": "DOG",
+        "start": 3.534,
+        "end": 3.874,
+        "duration": 0.34,
+        "pause_after": null,
+        "confidence": -0.447
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0115.wav",
+    "recording": "M03_2_0115",
+    "speaker": "M03",
+    "reference": "A long flowing beard clings to his chin",
+    "hypothesis": " A long flowing beard plings to his chin",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "A",
+        "start": 0.865,
+        "end": 1.375,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.002
+      },
+      {
+        "word": "LONG",
+        "start": 1.375,
+        "end": 1.736,
+        "duration": 0.361,
+        "pause_after": 0.0,
+        "confidence": -0.326
+      },
+      {
+        "word": "FLOWING",
+        "start": 1.736,
+        "end": 2.358,
+        "duration": 0.622,
+        "pause_after": 0.0,
+        "confidence": -0.714
+      },
+      {
+        "word": "BEARD",
+        "start": 2.358,
+        "end": 2.649,
+        "duration": 0.291,
+        "pause_after": 0.0,
+        "confidence": -0.929
+      },
+      {
+        "word": "PLINGS",
+        "start": 2.649,
+        "end": 3.081,
+        "duration": 0.432,
+        "pause_after": 0.0,
+        "confidence": -1.8
+      },
+      {
+        "word": "TO",
+        "start": 3.081,
+        "end": 3.272,
+        "duration": 0.191,
+        "pause_after": 0.0,
+        "confidence": -1.934
+      },
+      {
+        "word": "HIS",
+        "start": 3.272,
+        "end": 3.422,
+        "duration": 0.151,
+        "pause_after": 0.0,
+        "confidence": -2.283
+      },
+      {
+        "word": "CHIN",
+        "start": 3.422,
+        "end": 3.783,
+        "duration": 0.361,
+        "pause_after": null,
+        "confidence": -1.044
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0132.wav",
+    "recording": "M03_2_0132",
+    "speaker": "M03",
+    "reference": "cycle",
+    "hypothesis": " Cycle",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0135.wav",
+    "recording": "M03_2_0135",
+    "speaker": "M03",
+    "reference": "Jane may earn more money by working hard",
+    "hypothesis": " Jane may earn more money by working hard",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "JANE",
+        "start": 0.663,
+        "end": 1.393,
+        "duration": 0.731,
+        "pause_after": 0.0,
+        "confidence": -0.021
+      },
+      {
+        "word": "MAY",
+        "start": 1.393,
+        "end": 1.554,
+        "duration": 0.16,
+        "pause_after": 0.0,
+        "confidence": -1.602
+      },
+      {
+        "word": "EARN",
+        "start": 1.554,
+        "end": 1.975,
+        "duration": 0.421,
+        "pause_after": 0.0,
+        "confidence": -1.655
+      },
+      {
+        "word": "MORE",
+        "start": 1.975,
+        "end": 2.195,
+        "duration": 0.221,
+        "pause_after": 0.0,
+        "confidence": -3.067
+      },
+      {
+        "word": "MONEY",
+        "start": 2.195,
+        "end": 2.466,
+        "duration": 0.271,
+        "pause_after": 0.0,
+        "confidence": -1.544
+      },
+      {
+        "word": "BY",
+        "start": 2.466,
+        "end": 2.666,
+        "duration": 0.2,
+        "pause_after": 0.0,
+        "confidence": -2.269
+      },
+      {
+        "word": "WORKING",
+        "start": 2.666,
+        "end": 3.067,
+        "duration": 0.401,
+        "pause_after": 0.0,
+        "confidence": -2.018
+      },
+      {
+        "word": "HARD",
+        "start": 3.067,
+        "end": 3.458,
+        "duration": 0.391,
+        "pause_after": null,
+        "confidence": -1.324
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0153.wav",
+    "recording": "M03_2_0153",
+    "speaker": "M03",
+    "reference": "rocks",
+    "hypothesis": " rocks",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0162.wav",
+    "recording": "M03_2_0162",
+    "speaker": "M03",
+    "reference": "Bright sunshine shimmers on the ocean",
+    "hypothesis": " Bright sunshine shimmers on the ocean",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "BRIGHT",
+        "start": 0.483,
+        "end": 1.213,
+        "duration": 0.731,
+        "pause_after": 0.0,
+        "confidence": -0.014
+      },
+      {
+        "word": "SUNSHINE",
+        "start": 1.213,
+        "end": 1.815,
+        "duration": 0.602,
+        "pause_after": 0.0,
+        "confidence": -1.091
+      },
+      {
+        "word": "SHIMMERS",
+        "start": 1.815,
+        "end": 2.276,
+        "duration": 0.461,
+        "pause_after": 0.0,
+        "confidence": -1.135
+      },
+      {
+        "word": "ON",
+        "start": 2.276,
+        "end": 2.527,
+        "duration": 0.251,
+        "pause_after": 0.0,
+        "confidence": -2.944
+      },
+      {
+        "word": "THE",
+        "start": 2.527,
+        "end": 2.697,
+        "duration": 0.17,
+        "pause_after": 0.0,
+        "confidence": -2.051
+      },
+      {
+        "word": "OCEAN",
+        "start": 2.697,
+        "end": 3.068,
+        "duration": 0.371,
+        "pause_after": null,
+        "confidence": -1.208
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0171.wav",
+    "recording": "M03_2_0171",
+    "speaker": "M03",
+    "reference": "mut",
+    "hypothesis": " MUT",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0195.wav",
+    "recording": "M03_2_0195",
+    "speaker": "M03",
+    "reference": "lip",
+    "hypothesis": " lip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0199.wav",
+    "recording": "M03_2_0199",
+    "speaker": "M03",
+    "reference": "Mother sews yellow gingham aprons",
+    "hypothesis": " Mother's Souls yellow gingham aprons",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "MOTHER'S",
+        "start": 0.885,
+        "end": 1.636,
+        "duration": 0.751,
+        "pause_after": 0.0,
+        "confidence": -0.238
+      },
+      {
+        "word": "SOULS",
+        "start": 1.636,
+        "end": 1.968,
+        "duration": 0.331,
+        "pause_after": 0.0,
+        "confidence": -0.326
+      },
+      {
+        "word": "YELLOW",
+        "start": 1.968,
+        "end": 2.259,
+        "duration": 0.291,
+        "pause_after": 0.0,
+        "confidence": -1.925
+      },
+      {
+        "word": "GINGHAM",
+        "start": 2.259,
+        "end": 2.66,
+        "duration": 0.402,
+        "pause_after": 0.0,
+        "confidence": -0.229
+      },
+      {
+        "word": "APRONS",
+        "start": 2.66,
+        "end": 3.283,
+        "duration": 0.622,
+        "pause_after": null,
+        "confidence": -0.652
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0205.wav",
+    "recording": "M03_2_0205",
+    "speaker": "M03",
+    "reference": "pat",
+    "hypothesis": " Pat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0207.wav",
+    "recording": "M03_2_0207",
+    "speaker": "M03",
+    "reference": "single",
+    "hypothesis": " single",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0208.wav",
+    "recording": "M03_2_0208",
+    "speaker": "M03",
+    "reference": "tie",
+    "hypothesis": " tie",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0217.wav",
+    "recording": "M03_2_0217",
+    "speaker": "M03",
+    "reference": "shoot",
+    "hypothesis": " Shoot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0230.wav",
+    "recording": "M03_2_0230",
+    "speaker": "M03",
+    "reference": "explore",
+    "hypothesis": " Explore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0240.wav",
+    "recording": "M03_2_0240",
+    "speaker": "M03",
+    "reference": "pot",
+    "hypothesis": " pot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0248.wav",
+    "recording": "M03_2_0248",
+    "speaker": "M03",
+    "reference": "sigh",
+    "hypothesis": " sigh",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0256.wav",
+    "recording": "M03_2_0256",
+    "speaker": "M03",
+    "reference": "This is a period of transition for me",
+    "hypothesis": " This is a period of transition forming",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THIS",
+        "start": 1.442,
+        "end": 2.072,
+        "duration": 0.63,
+        "pause_after": 0.0,
+        "confidence": -0.003
+      },
+      {
+        "word": "IS",
+        "start": 2.072,
+        "end": 2.262,
+        "duration": 0.19,
+        "pause_after": 0.0,
+        "confidence": -0.935
+      },
+      {
+        "word": "A",
+        "start": 2.262,
+        "end": 2.353,
+        "duration": 0.09,
+        "pause_after": 0.0,
+        "confidence": -8.046
+      },
+      {
+        "word": "PERIOD",
+        "start": 2.353,
+        "end": 2.753,
+        "duration": 0.4,
+        "pause_after": 0.0,
+        "confidence": -1.041
+      },
+      {
+        "word": "OF",
+        "start": 2.753,
+        "end": 2.873,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -2.036
+      },
+      {
+        "word": "TRANSITION",
+        "start": 2.873,
+        "end": 3.544,
+        "duration": 0.671,
+        "pause_after": 0.0,
+        "confidence": -1.318
+      },
+      {
+        "word": "FORMING",
+        "start": 3.544,
+        "end": 3.974,
+        "duration": 0.43,
+        "pause_after": null,
+        "confidence": -3.187
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0277.wav",
+    "recording": "M03_2_0277",
+    "speaker": "M03",
+    "reference": "This is not a program of socialized medicine",
+    "hypothesis": " This is not a program of socialized medicine",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THIS",
+        "start": 1.528,
+        "end": 2.139,
+        "duration": 0.61,
+        "pause_after": 0.0,
+        "confidence": -0.02
+      },
+      {
+        "word": "IS",
+        "start": 2.139,
+        "end": 2.299,
+        "duration": 0.161,
+        "pause_after": 0.0,
+        "confidence": -0.774
+      },
+      {
+        "word": "NOT",
+        "start": 2.299,
+        "end": 2.51,
+        "duration": 0.211,
+        "pause_after": 0.0,
+        "confidence": -0.753
+      },
+      {
+        "word": "A",
+        "start": 2.51,
+        "end": 2.58,
+        "duration": 0.07,
+        "pause_after": 0.0,
+        "confidence": -5.82
+      },
+      {
+        "word": "PROGRAM",
+        "start": 2.58,
+        "end": 2.972,
+        "duration": 0.392,
+        "pause_after": 0.0,
+        "confidence": -0.84
+      },
+      {
+        "word": "OF",
+        "start": 2.972,
+        "end": 3.173,
+        "duration": 0.201,
+        "pause_after": 0.0,
+        "confidence": -2.224
+      },
+      {
+        "word": "SOCIALIZED",
+        "start": 3.173,
+        "end": 3.825,
+        "duration": 0.653,
+        "pause_after": 0.0,
+        "confidence": -1.034
+      },
+      {
+        "word": "MEDICINE",
+        "start": 3.825,
+        "end": 4.387,
+        "duration": 0.562,
+        "pause_after": null,
+        "confidence": -1.237
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0284.wav",
+    "recording": "M03_2_0284",
+    "speaker": "M03",
+    "reference": "hum",
+    "hypothesis": " HUM",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0295.wav",
+    "recording": "M03_2_0295",
+    "speaker": "M03",
+    "reference": "no",
+    "hypothesis": " No.",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0298.wav",
+    "recording": "M03_2_0298",
+    "speaker": "M03",
+    "reference": "oscar",
+    "hypothesis": " Oscar",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0307.wav",
+    "recording": "M03_2_0307",
+    "speaker": "M03",
+    "reference": "november",
+    "hypothesis": " November",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0319.wav",
+    "recording": "M03_2_0319",
+    "speaker": "M03",
+    "reference": "leak",
+    "hypothesis": " Leak",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0324.wav",
+    "recording": "M03_2_0324",
+    "speaker": "M03",
+    "reference": "kitten",
+    "hypothesis": " kitten",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0367.wav",
+    "recording": "M03_2_0367",
+    "speaker": "M03",
+    "reference": "papa",
+    "hypothesis": " Puppar",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0369.wav",
+    "recording": "M03_2_0369",
+    "speaker": "M03",
+    "reference": "nine",
+    "hypothesis": " Nine",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0374.wav",
+    "recording": "M03_2_0374",
+    "speaker": "M03",
+    "reference": "Carl lives in a lively home",
+    "hypothesis": " Carl lives in lively home",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "CARL",
+        "start": 0.783,
+        "end": 1.574,
+        "duration": 0.791,
+        "pause_after": 0.0,
+        "confidence": -0.091
+      },
+      {
+        "word": "LIVES",
+        "start": 1.574,
+        "end": 2.015,
+        "duration": 0.441,
+        "pause_after": 0.0,
+        "confidence": -0.61
+      },
+      {
+        "word": "IN",
+        "start": 2.015,
+        "end": 2.206,
+        "duration": 0.19,
+        "pause_after": 0.0,
+        "confidence": -4.376
+      },
+      {
+        "word": "LIVELY",
+        "start": 2.206,
+        "end": 2.757,
+        "duration": 0.551,
+        "pause_after": 0.0,
+        "confidence": -1.313
+      },
+      {
+        "word": "HOME",
+        "start": 2.757,
+        "end": 3.118,
+        "duration": 0.361,
+        "pause_after": null,
+        "confidence": -1.278
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0377.wav",
+    "recording": "M03_2_0377",
+    "speaker": "M03",
+    "reference": "There is a treehouse up above",
+    "hypothesis": " There is a tree house up above",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THERE",
+        "start": 0.842,
+        "end": 1.492,
+        "duration": 0.65,
+        "pause_after": 0.0,
+        "confidence": -0.022
+      },
+      {
+        "word": "IS",
+        "start": 1.492,
+        "end": 1.652,
+        "duration": 0.16,
+        "pause_after": 0.0,
+        "confidence": -1.358
+      },
+      {
+        "word": "A",
+        "start": 1.652,
+        "end": 1.753,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -7.759
+      },
+      {
+        "word": "TREE",
+        "start": 1.753,
+        "end": 1.993,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -1.486
+      },
+      {
+        "word": "HOUSE",
+        "start": 1.993,
+        "end": 2.253,
+        "duration": 0.26,
+        "pause_after": 0.0,
+        "confidence": -0.252
+      },
+      {
+        "word": "UP",
+        "start": 2.253,
+        "end": 2.474,
+        "duration": 0.22,
+        "pause_after": 0.0,
+        "confidence": -1.957
+      },
+      {
+        "word": "ABOVE",
+        "start": 2.474,
+        "end": 2.874,
+        "duration": 0.401,
+        "pause_after": null,
+        "confidence": -0.254
+      }
+    ]
+  },
+  {
+    "audio_name": "M03_2_headMic_0401.wav",
+    "recording": "M03_2_0401",
+    "speaker": "M03",
+    "reference": "slicker",
+    "hypothesis": " Slicker",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0403.wav",
+    "recording": "M03_2_0403",
+    "speaker": "M03",
+    "reference": "sand",
+    "hypothesis": " Sand",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0409.wav",
+    "recording": "M03_2_0409",
+    "speaker": "M03",
+    "reference": "uniform",
+    "hypothesis": " Uniform",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

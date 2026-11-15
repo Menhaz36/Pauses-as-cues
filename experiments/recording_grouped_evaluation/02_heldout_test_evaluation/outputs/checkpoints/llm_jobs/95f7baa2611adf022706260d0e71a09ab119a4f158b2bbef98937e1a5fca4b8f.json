@@ -1,0 +1,15 @@
+{
+  "job_hash": "95f7baa2611adf022706260d0e71a09ab119a4f158b2bbef98937e1a5fca4b8f",
+  "recording": "M02_1_0055",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "SHE HAD YOUR DARK SUIT IN",
+  "content": "SHE HAD YOUR DARK SUIT IN",
+  "provider_id": "chatcmpl-3dbdb874-b1c7-486a-9077-c331fa91b7a3",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c868cf1eaa",
+  "accepted": "SHE HAD YOUR DARK SUIT IN",
+  "guard_reason": "accepted"
+}

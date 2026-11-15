@@ -1,0 +1,15 @@
+{
+  "job_hash": "7bb63675436f98acf4f00ddb62195d0e03a53c2d8fe43c2dc8715de70f90185f",
+  "recording": "M04_2_0194",
+  "arm": "visible",
+  "region": 1,
+  "start": 10,
+  "end": 16,
+  "input_region": "TO DIE A COMPROMISE [1.0s_pause] HE DIED",
+  "content": "TO DIE A COMPROMISE [1.0s_pause] HE DIED",
+  "provider_id": "chatcmpl-64b10e36-406f-4752-9b0c-ca38e7ac5855",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "TO DIE A COMPROMISE [1.0s_pause] HE DIED",
+  "guard_reason": "accepted"
+}

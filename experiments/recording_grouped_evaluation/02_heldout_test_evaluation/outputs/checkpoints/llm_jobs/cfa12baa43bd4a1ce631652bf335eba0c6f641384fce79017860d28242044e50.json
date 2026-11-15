@@ -1,0 +1,15 @@
+{
+  "job_hash": "cfa12baa43bd4a1ce631652bf335eba0c6f641384fce79017860d28242044e50",
+  "recording": "M02_1_0118",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "BUT THE OPPOSITE BANANA OIL",
+  "content": "BUT THE OPPOSITE BANANA OIL",
+  "provider_id": "chatcmpl-726f0e95-4882-4b6e-9c44-aa08d202d881",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_49bfac06f1",
+  "accepted": "BUT THE OPPOSITE BANANA OIL",
+  "guard_reason": "accepted"
+}

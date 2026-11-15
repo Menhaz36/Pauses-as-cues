@@ -1,0 +1,883 @@
+[
+  {
+    "audio_name": "M02_1_headMic_0211.wav",
+    "recording": "M02_1_0211",
+    "speaker": "M02",
+    "reference": "forward",
+    "hypothesis": " Forward",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0216.wav",
+    "recording": "M02_1_0216",
+    "speaker": "M02",
+    "reference": "slip",
+    "hypothesis": " Slope",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0225.wav",
+    "recording": "M02_1_0225",
+    "speaker": "M02",
+    "reference": "bat",
+    "hypothesis": " Spatbock",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0227.wav",
+    "recording": "M02_1_0227",
+    "speaker": "M02",
+    "reference": "much",
+    "hypothesis": " much",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0239.wav",
+    "recording": "M02_1_0239",
+    "speaker": "M02",
+    "reference": "deer",
+    "hypothesis": " Dear",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0076.wav",
+    "recording": "M02_2_0076",
+    "speaker": "M02",
+    "reference": "group",
+    "hypothesis": " Who's who? Who? Who? Who?",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WHO'S",
+        "start": 0.648,
+        "end": 1.279,
+        "duration": 0.631,
+        "pause_after": 0.0,
+        "confidence": -0.689
+      },
+      {
+        "word": "WHO",
+        "start": 1.279,
+        "end": 1.823,
+        "duration": 0.544,
+        "pause_after": 0.0,
+        "confidence": -0.461
+      },
+      {
+        "word": "WHO",
+        "start": 1.823,
+        "end": 1.904,
+        "duration": 0.081,
+        "pause_after": 0.0,
+        "confidence": -4.417
+      },
+      {
+        "word": "WHO",
+        "start": 1.904,
+        "end": 2.065,
+        "duration": 0.161,
+        "pause_after": 0.0,
+        "confidence": -2.536
+      },
+      {
+        "word": "WHO",
+        "start": 2.065,
+        "end": 2.166,
+        "duration": 0.101,
+        "pause_after": null,
+        "confidence": -3.403
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0086.wav",
+    "recording": "M02_2_0086",
+    "speaker": "M02",
+    "reference": "My sister made the flowered curtains",
+    "hypothesis": " My sister made the flowers come",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "MY",
+        "start": 0.231,
+        "end": 0.712,
+        "duration": 0.481,
+        "pause_after": 0.0,
+        "confidence": -0.035
+      },
+      {
+        "word": "SISTER",
+        "start": 0.712,
+        "end": 1.916,
+        "duration": 1.204,
+        "pause_after": 0.0,
+        "confidence": -0.331
+      },
+      {
+        "word": "MADE",
+        "start": 1.916,
+        "end": 2.417,
+        "duration": 0.502,
+        "pause_after": 0.0,
+        "confidence": -0.35
+      },
+      {
+        "word": "THE",
+        "start": 2.417,
+        "end": 2.618,
+        "duration": 0.201,
+        "pause_after": 0.252,
+        "confidence": -0.922
+      },
+      {
+        "word": "FLOWERS",
+        "start": 2.87,
+        "end": 4.143,
+        "duration": 1.272,
+        "pause_after": 0.533,
+        "confidence": -0.185
+      },
+      {
+        "word": "COME",
+        "start": 4.676,
+        "end": 5.747,
+        "duration": 1.072,
+        "pause_after": null,
+        "confidence": -0.159
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0091.wav",
+    "recording": "M02_2_0091",
+    "speaker": "M02",
+    "reference": "sleep",
+    "hypothesis": " Slate",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0096.wav",
+    "recording": "M02_2_0096",
+    "speaker": "M02",
+    "reference": "A roll of wire lay near the wall",
+    "hypothesis": " Overall, the lawyer claims he has a war",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "OVERALL",
+        "start": 2.007,
+        "end": 3.118,
+        "duration": 1.112,
+        "pause_after": 0.0,
+        "confidence": -0.462
+      },
+      {
+        "word": "THE",
+        "start": 3.118,
+        "end": 3.239,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -1.589
+      },
+      {
+        "word": "LAWYER",
+        "start": 3.239,
+        "end": 4.422,
+        "duration": 1.183,
+        "pause_after": 0.0,
+        "confidence": -0.379
+      },
+      {
+        "word": "CLAIMS",
+        "start": 4.422,
+        "end": 5.484,
+        "duration": 1.063,
+        "pause_after": 0.0,
+        "confidence": -0.519
+      },
+      {
+        "word": "HE",
+        "start": 5.484,
+        "end": 5.825,
+        "duration": 0.341,
+        "pause_after": 0.0,
+        "confidence": -0.498
+      },
+      {
+        "word": "HAS",
+        "start": 5.825,
+        "end": 6.146,
+        "duration": 0.321,
+        "pause_after": 0.0,
+        "confidence": -0.798
+      },
+      {
+        "word": "A",
+        "start": 6.146,
+        "end": 6.367,
+        "duration": 0.221,
+        "pause_after": 0.0,
+        "confidence": -0.577
+      },
+      {
+        "word": "WAR",
+        "start": 6.367,
+        "end": 6.788,
+        "duration": 0.421,
+        "pause_after": null,
+        "confidence": -0.317
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0098.wav",
+    "recording": "M02_2_0098",
+    "speaker": "M02",
+    "reference": "Aluminum silverware can often be flimsy",
+    "hypothesis": " A little when it's the work that can offer me sensibly",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "A",
+        "start": 1.022,
+        "end": 1.532,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.003
+      },
+      {
+        "word": "LITTLE",
+        "start": 1.532,
+        "end": 2.113,
+        "duration": 0.581,
+        "pause_after": 0.0,
+        "confidence": -1.126
+      },
+      {
+        "word": "WHEN",
+        "start": 2.113,
+        "end": 2.354,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -1.002
+      },
+      {
+        "word": "IT'S",
+        "start": 2.354,
+        "end": 2.834,
+        "duration": 0.481,
+        "pause_after": 0.0,
+        "confidence": -0.907
+      },
+      {
+        "word": "THE",
+        "start": 2.834,
+        "end": 3.415,
+        "duration": 0.581,
+        "pause_after": 0.0,
+        "confidence": -0.211
+      },
+      {
+        "word": "WORK",
+        "start": 3.415,
+        "end": 3.916,
+        "duration": 0.501,
+        "pause_after": 0.0,
+        "confidence": -0.445
+      },
+      {
+        "word": "THAT",
+        "start": 3.916,
+        "end": 4.257,
+        "duration": 0.341,
+        "pause_after": 0.251,
+        "confidence": -0.851
+      },
+      {
+        "word": "CAN",
+        "start": 4.508,
+        "end": 5.218,
+        "duration": 0.71,
+        "pause_after": 0.0,
+        "confidence": -0.065
+      },
+      {
+        "word": "OFFER",
+        "start": 5.218,
+        "end": 6.08,
+        "duration": 0.861,
+        "pause_after": 0.0,
+        "confidence": -0.662
+      },
+      {
+        "word": "ME",
+        "start": 6.08,
+        "end": 6.18,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -1.384
+      },
+      {
+        "word": "SENSIBLY",
+        "start": 6.18,
+        "end": 6.58,
+        "duration": 0.401,
+        "pause_after": null,
+        "confidence": -2.086
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0100.wav",
+    "recording": "M02_2_0100",
+    "speaker": "M02",
+    "reference": "mike",
+    "hypothesis": " Mark",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0101.wav",
+    "recording": "M02_2_0101",
+    "speaker": "M02",
+    "reference": "seeds",
+    "hypothesis": " I'll see it",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "I'LL",
+        "start": 0.904,
+        "end": 1.554,
+        "duration": 0.65,
+        "pause_after": 0.0,
+        "confidence": -0.351
+      },
+      {
+        "word": "SEE",
+        "start": 1.554,
+        "end": 2.216,
+        "duration": 0.662,
+        "pause_after": 0.0,
+        "confidence": -0.078
+      },
+      {
+        "word": "IT",
+        "start": 2.216,
+        "end": 2.537,
+        "duration": 0.321,
+        "pause_after": null,
+        "confidence": -0.215
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0123.wav",
+    "recording": "M02_2_0123",
+    "speaker": "M02",
+    "reference": "hem",
+    "hypothesis": " hem",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0129.wav",
+    "recording": "M02_2_0129",
+    "speaker": "M02",
+    "reference": "reek",
+    "hypothesis": " Rink",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0150.wav",
+    "recording": "M02_2_0150",
+    "speaker": "M02",
+    "reference": "kitten",
+    "hypothesis": " kit",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0161.wav",
+    "recording": "M02_2_0161",
+    "speaker": "M02",
+    "reference": "The museum hires musicians every evening",
+    "hypothesis": " The newly-imposed hearts like the Chicks every will can",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THE",
+        "start": 3.082,
+        "end": 3.732,
+        "duration": 0.65,
+        "pause_after": 0.0,
+        "confidence": -0.17
+      },
+      {
+        "word": "NEWLYIMPOSED",
+        "start": 3.732,
+        "end": 5.032,
+        "duration": 1.301,
+        "pause_after": 0.0,
+        "confidence": -1.5
+      },
+      {
+        "word": "HEARTS",
+        "start": 5.032,
+        "end": 6.173,
+        "duration": 1.14,
+        "pause_after": 0.43,
+        "confidence": -0.472
+      },
+      {
+        "word": "LIKE",
+        "start": 6.603,
+        "end": 7.653,
+        "duration": 1.05,
+        "pause_after": 0.0,
+        "confidence": -0.472
+      },
+      {
+        "word": "THE",
+        "start": 7.653,
+        "end": 7.773,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -1.458
+      },
+      {
+        "word": "CHICKS",
+        "start": 7.773,
+        "end": 8.554,
+        "duration": 0.78,
+        "pause_after": 0.17,
+        "confidence": -0.581
+      },
+      {
+        "word": "EVERY",
+        "start": 8.724,
+        "end": 9.654,
+        "duration": 0.93,
+        "pause_after": 0.0,
+        "confidence": -0.251
+      },
+      {
+        "word": "WILL",
+        "start": 9.654,
+        "end": 10.014,
+        "duration": 0.36,
+        "pause_after": 0.0,
+        "confidence": -0.654
+      },
+      {
+        "word": "CAN",
+        "start": 10.014,
+        "end": 10.535,
+        "duration": 0.52,
+        "pause_after": null,
+        "confidence": -0.271
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0177.wav",
+    "recording": "M02_2_0177",
+    "speaker": "M02",
+    "reference": "hotel",
+    "hypothesis": " Hovecat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0191.wav",
+    "recording": "M02_2_0191",
+    "speaker": "M02",
+    "reference": "Night after night they received annoying phone calls",
+    "hypothesis": " Night arts tonight they've received an item from the court",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "NIGHT",
+        "start": 0.663,
+        "end": 1.573,
+        "duration": 0.911,
+        "pause_after": 0.0,
+        "confidence": -0.299
+      },
+      {
+        "word": "ARTS",
+        "start": 1.573,
+        "end": 1.954,
+        "duration": 0.381,
+        "pause_after": 0.0,
+        "confidence": -0.792
+      },
+      {
+        "word": "TONIGHT",
+        "start": 1.954,
+        "end": 3.037,
+        "duration": 1.082,
+        "pause_after": 0.0,
+        "confidence": -0.45
+      },
+      {
+        "word": "THEY'VE",
+        "start": 3.037,
+        "end": 3.808,
+        "duration": 0.772,
+        "pause_after": 0.121,
+        "confidence": -1.227
+      },
+      {
+        "word": "RECEIVED",
+        "start": 3.93,
+        "end": 5.382,
+        "duration": 1.452,
+        "pause_after": 0.312,
+        "confidence": -0.676
+      },
+      {
+        "word": "AN",
+        "start": 5.694,
+        "end": 6.314,
+        "duration": 0.62,
+        "pause_after": 0.0,
+        "confidence": -0.081
+      },
+      {
+        "word": "ITEM",
+        "start": 6.314,
+        "end": 6.925,
+        "duration": 0.611,
+        "pause_after": 0.0,
+        "confidence": -0.522
+      },
+      {
+        "word": "FROM",
+        "start": 6.925,
+        "end": 7.587,
+        "duration": 0.661,
+        "pause_after": 0.0,
+        "confidence": -0.311
+      },
+      {
+        "word": "THE",
+        "start": 7.587,
+        "end": 7.687,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -3.816
+      },
+      {
+        "word": "COURT",
+        "start": 7.687,
+        "end": 8.228,
+        "duration": 0.541,
+        "pause_after": null,
+        "confidence": -0.383
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0192.wav",
+    "recording": "M02_2_0192",
+    "speaker": "M02",
+    "reference": "top",
+    "hypothesis": " teller",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0201.wav",
+    "recording": "M02_2_0201",
+    "speaker": "M02",
+    "reference": "pit",
+    "hypothesis": " Stacked",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0203.wav",
+    "recording": "M02_2_0203",
+    "speaker": "M02",
+    "reference": "fat",
+    "hypothesis": " Funtlet",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0208.wav",
+    "recording": "M02_2_0208",
+    "speaker": "M02",
+    "reference": "Nothing has been done yet to take advantage of the enabling legislation",
+    "hypothesis": " I think I've forgotten how to take every message of enabling the little slave to",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "I",
+        "start": 1.681,
+        "end": 2.191,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.216
+      },
+      {
+        "word": "THINK",
+        "start": 2.191,
+        "end": 2.671,
+        "duration": 0.48,
+        "pause_after": 0.0,
+        "confidence": -0.236
+      },
+      {
+        "word": "I'VE",
+        "start": 2.671,
+        "end": 3.071,
+        "duration": 0.4,
+        "pause_after": 0.0,
+        "confidence": -1.221
+      },
+      {
+        "word": "FORGOTTEN",
+        "start": 3.071,
+        "end": 4.152,
+        "duration": 1.08,
+        "pause_after": 0.0,
+        "confidence": -0.731
+      },
+      {
+        "word": "HOW",
+        "start": 4.152,
+        "end": 4.392,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -0.368
+      },
+      {
+        "word": "TO",
+        "start": 4.392,
+        "end": 4.952,
+        "duration": 0.56,
+        "pause_after": 0.0,
+        "confidence": -0.288
+      },
+      {
+        "word": "TAKE",
+        "start": 4.952,
+        "end": 5.452,
+        "duration": 0.5,
+        "pause_after": 0.0,
+        "confidence": -0.353
+      },
+      {
+        "word": "EVERY",
+        "start": 5.452,
+        "end": 6.192,
+        "duration": 0.74,
+        "pause_after": 0.0,
+        "confidence": -0.562
+      },
+      {
+        "word": "MESSAGE",
+        "start": 6.192,
+        "end": 7.073,
+        "duration": 0.88,
+        "pause_after": 0.0,
+        "confidence": -0.956
+      },
+      {
+        "word": "OF",
+        "start": 7.073,
+        "end": 7.253,
+        "duration": 0.18,
+        "pause_after": 0.17,
+        "confidence": -1.966
+      },
+      {
+        "word": "ENABLING",
+        "start": 7.423,
+        "end": 9.073,
+        "duration": 1.65,
+        "pause_after": 0.0,
+        "confidence": -0.652
+      },
+      {
+        "word": "THE",
+        "start": 9.073,
+        "end": 9.183,
+        "duration": 0.11,
+        "pause_after": 1.081,
+        "confidence": -3.872
+      },
+      {
+        "word": "LITTLE",
+        "start": 10.264,
+        "end": 11.254,
+        "duration": 0.99,
+        "pause_after": 0.0,
+        "confidence": -0.509
+      },
+      {
+        "word": "SLAVE",
+        "start": 11.254,
+        "end": 12.435,
+        "duration": 1.18,
+        "pause_after": 0.0,
+        "confidence": -0.359
+      },
+      {
+        "word": "TO",
+        "start": 12.435,
+        "end": 12.815,
+        "duration": 0.38,
+        "pause_after": null,
+        "confidence": -0.351
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0212.wav",
+    "recording": "M02_2_0212",
+    "speaker": "M02",
+    "reference": "The job provides many benefits",
+    "hypothesis": " Good job for both missing benefits",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "GOOD",
+        "start": 1.763,
+        "end": 2.474,
+        "duration": 0.71,
+        "pause_after": 0.0,
+        "confidence": -0.072
+      },
+      {
+        "word": "JOB",
+        "start": 2.474,
+        "end": 3.095,
+        "duration": 0.621,
+        "pause_after": 0.0,
+        "confidence": -0.276
+      },
+      {
+        "word": "FOR",
+        "start": 3.095,
+        "end": 3.475,
+        "duration": 0.381,
+        "pause_after": 0.0,
+        "confidence": -0.351
+      },
+      {
+        "word": "BOTH",
+        "start": 3.475,
+        "end": 3.976,
+        "duration": 0.501,
+        "pause_after": 0.0,
+        "confidence": -0.266
+      },
+      {
+        "word": "MISSING",
+        "start": 3.976,
+        "end": 4.857,
+        "duration": 0.881,
+        "pause_after": 0.0,
+        "confidence": -0.501
+      },
+      {
+        "word": "BENEFITS",
+        "start": 4.857,
+        "end": 5.919,
+        "duration": 1.062,
+        "pause_after": null,
+        "confidence": -0.459
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_2_headMic_0215.wav",
+    "recording": "M02_2_0215",
+    "speaker": "M02",
+    "reference": "witch",
+    "hypothesis": " Sweat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_2_headMic_0218.wav",
+    "recording": "M02_2_0218",
+    "speaker": "M02",
+    "reference": "mush",
+    "hypothesis": " Marsh",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0007.wav",
+    "recording": "M03_2_0007",
+    "speaker": "M03",
+    "reference": "race",
+    "hypothesis": " race",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0009.wav",
+    "recording": "M03_2_0009",
+    "speaker": "M03",
+    "reference": "ship",
+    "hypothesis": " ship",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0050.wav",
+    "recording": "M03_2_0050",
+    "speaker": "M03",
+    "reference": "air",
+    "hypothesis": " air",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0051.wav",
+    "recording": "M03_2_0051",
+    "speaker": "M03",
+    "reference": "stubble",
+    "hypothesis": " stubble",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0060.wav",
+    "recording": "M03_2_0060",
+    "speaker": "M03",
+    "reference": "dagger",
+    "hypothesis": " Dagger",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0066.wav",
+    "recording": "M03_2_0066",
+    "speaker": "M03",
+    "reference": "beat",
+    "hypothesis": "beat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M03_2_headMic_0085.wav",
+    "recording": "M03_2_0085",
+    "speaker": "M03",
+    "reference": "meat",
+    "hypothesis": "meat",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

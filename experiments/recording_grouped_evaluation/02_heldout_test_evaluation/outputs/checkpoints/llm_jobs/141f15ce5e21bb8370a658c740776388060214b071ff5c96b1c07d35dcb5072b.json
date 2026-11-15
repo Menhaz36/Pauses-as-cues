@@ -1,0 +1,15 @@
+{
+  "job_hash": "141f15ce5e21bb8370a658c740776388060214b071ff5c96b1c07d35dcb5072b",
+  "recording": "M05_2_0219",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "DAY AFTER DAY [0.8s_pause] SOME NEW EPISODES IS",
+  "content": "DAY AFTER DAY [0.8s_pause] SOME NEW EPISODES IS",
+  "provider_id": "chatcmpl-3048f59d-95bd-48d3-8c3d-36724c00c5a7",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_69334c0be3",
+  "accepted": "DAY AFTER DAY [0.8s_pause] SOME NEW EPISODES IS",
+  "guard_reason": "accepted"
+}

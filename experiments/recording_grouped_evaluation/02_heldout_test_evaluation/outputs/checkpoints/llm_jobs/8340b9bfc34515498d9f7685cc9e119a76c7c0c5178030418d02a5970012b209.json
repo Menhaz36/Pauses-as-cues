@@ -1,0 +1,15 @@
+{
+  "job_hash": "8340b9bfc34515498d9f7685cc9e119a76c7c0c5178030418d02a5970012b209",
+  "recording": "F03_1_0095",
+  "arm": "random",
+  "region": 0,
+  "start": 7,
+  "end": 15,
+  "input_region": "A BIT CRACKED AND [0.4s_pause] THAT COVERS EMMA TUFFELL",
+  "content": "A BIT CRACKED AND [0.4s_pause] THAT COVERS EMMA TUFFELL",
+  "provider_id": "chatcmpl-a90a70f6-91c8-45a4-ae5c-dd46fc0b6d9f",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_87b3c396db",
+  "accepted": "A BIT CRACKED AND [0.4s_pause] THAT COVERS EMMA TUFFELL",
+  "guard_reason": "accepted"
+}

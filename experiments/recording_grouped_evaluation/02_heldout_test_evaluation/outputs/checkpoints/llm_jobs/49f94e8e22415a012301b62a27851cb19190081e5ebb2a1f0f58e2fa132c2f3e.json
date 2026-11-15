@@ -1,0 +1,15 @@
+{
+  "job_hash": "49f94e8e22415a012301b62a27851cb19190081e5ebb2a1f0f58e2fa132c2f3e",
+  "recording": "M05_2_0085",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "THAT THING APPROACHED [1.3s_pause] THE [0.8s_pause] DEEPOCILLARY",
+  "content": "THAT THING APPROACHED [1.3s_pause] THE [0.8s_pause] DEEP OCCIPITAL",
+  "provider_id": "chatcmpl-617b765a-a1ec-4bd4-84cc-88e2cd586a6d",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_b1dd3e7a63",
+  "accepted": "THAT THING APPROACHED [1.3s_pause] THE [0.8s_pause] DEEP OCCIPITAL",
+  "guard_reason": "accepted"
+}

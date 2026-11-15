@@ -1,0 +1,15 @@
+{
+  "job_hash": "d7d5fa7b373725e09abd2b819beb216a68f56d742c05beea92438c4e2843d0fa",
+  "recording": "M05_2_0385",
+  "arm": "hidden",
+  "region": 0,
+  "start": 1,
+  "end": 6,
+  "input_region": "THE LAWYERS LOVE MILLION MIRRORS",
+  "content": "THE LAWYERS LOVE MILLION MIRRORS",
+  "provider_id": "chatcmpl-4fa718de-86fc-4c53-b7f4-4ece7733cf14",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "THE LAWYERS LOVE MILLION MIRRORS",
+  "guard_reason": "accepted"
+}

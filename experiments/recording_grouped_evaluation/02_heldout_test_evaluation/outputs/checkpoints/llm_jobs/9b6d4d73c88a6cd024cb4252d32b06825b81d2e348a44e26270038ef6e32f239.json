@@ -1,0 +1,15 @@
+{
+  "job_hash": "9b6d4d73c88a6cd024cb4252d32b06825b81d2e348a44e26270038ef6e32f239",
+  "recording": "M03_2_0033",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 2,
+  "input_region": "BAT BAT",
+  "content": "BAT",
+  "provider_id": "chatcmpl-faa7512c-49c1-4fe1-aec0-7ce90f16c5c0",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "BAT BAT",
+  "guard_reason": "excessive_rewrite"
+}

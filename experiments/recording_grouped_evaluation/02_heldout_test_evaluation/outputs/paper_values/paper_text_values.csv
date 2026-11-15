@@ -1,0 +1,24 @@
+value,number,source
+Grouped split seed,42,split_audit.json:seed
+Partitions (train/val/calib/test),5447/912/901/1815,split_audit.json:counts
+Test dysarthric / control,624 / 1191,split_audit.json
+Primary channels head / array,7853 / 1222,split_audit.json:primary_channels
+Excluded by duration,2,split_audit.json:reasons
+Test takes repeating a training prompt,1742 of 1815,split_audit.json
+Recording overlap between partitions,0,split_audit.json:recording_overlaps
+Selected step / validation WER (%),800 / 29.27,training_summary.json
+Threshold tau (s) / source,0.3 / historical fallback: insufficient calibration support,threshold_lock.json
+Calibration takes / boundaries / aligned,309 / 513 / 78,threshold_lock.json
+Dysarthric boundaries / markers / marked takes,1023 / 82 / 50,"localization.csv [dysarthria, hyp_native]"
+Near-error markers; reliability vs chance (%),70; 85.37 vs 84.95,"localization.csv [dysarthria, hyp_native]"
+Lift (pts) [95% CI]; permutation p,"0.41 [-5.48, 6.09]; 0.529","localization.csv [dysarthria, hyp_native]"
+Errors covered; coverage vs random (%),144 of 775; 18.58 vs 19.26,"localization.csv [dysarthria, hyp_native]"
+"Shared boundaries, hyp_matched: markers / near / lift [CI]; p","817: 59 / 47 / 1.41 [-6.56, 9.16]; 0.425","localization.csv [dysarthria, hyp_matched]"
+"Shared boundaries, ref_matched: markers / near / lift [CI]; p","817: 55 / 44 / 2.57 [-5.03, 10.73]; 0.341","localization.csv [dysarthria, ref_matched]"
+Reference minus hypothesis lift (pts) [CI],"1.15 [-0.88, 3.87]","timing_paired_differences.csv [dysarthria, lift]"
+Marked in both / hyp only / ref only,41 / 18 / 14,timing_marker_agreement.csv [dysarthria]
+"Multiword dysarthric takes, marked=True: n / any error (%) / excluded",47 / 95.74 / 1,utterance_association.csv
+"Multiword dysarthric takes, marked=False: n / any error (%) / excluded",100 / 73.0 / 1,utterance_association.csv
+WER of marked dysarthric takes (%),69.27,"llm_arm_summary.csv [dysarthria, marked, untouched]"
+"Takes edited / calls, visible markers (dysarthric)",22 / 51,"llm_arm_summary.csv [dysarthria, whole, visible]"
+Regional calls visible / hidden / random,52 / 52 / 28,"llm_arm_summary.csv [all, whole]"

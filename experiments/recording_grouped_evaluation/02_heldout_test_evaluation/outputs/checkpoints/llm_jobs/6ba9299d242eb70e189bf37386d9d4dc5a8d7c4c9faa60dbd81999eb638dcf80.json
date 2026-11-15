@@ -1,0 +1,15 @@
+{
+  "job_hash": "6ba9299d242eb70e189bf37386d9d4dc5a8d7c4c9faa60dbd81999eb638dcf80",
+  "recording": "M01_3_0240",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "THE JOB PROVIDES MANY BENEFITS",
+  "content": "THE JOB PROVIDES MANY BENEFITS",
+  "provider_id": "chatcmpl-a11d765e-1e1e-4317-b9ee-cebd71a29686",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_49bfac06f1",
+  "accepted": "THE JOB PROVIDES MANY BENEFITS",
+  "guard_reason": "accepted"
+}

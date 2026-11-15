@@ -1,0 +1,15 @@
+{
+  "job_hash": "d375c59cacbd54769cb10fcac9ccce6d6c34c9b19d7feb9e491f5143da93a18c",
+  "recording": "M02_2_0128",
+  "arm": "hidden",
+  "region": 0,
+  "start": 3,
+  "end": 11,
+  "input_region": "SINCE THE LEFT GEM WE WILL BE ABLE",
+  "content": "SINCE THE LEFT GEM WE WILL BE ABLE",
+  "provider_id": "chatcmpl-f4f6ea6b-950f-4183-ab8d-e17865379cfd",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_dee443f41b",
+  "accepted": "SINCE THE LEFT GEM WE WILL BE ABLE",
+  "guard_reason": "accepted"
+}

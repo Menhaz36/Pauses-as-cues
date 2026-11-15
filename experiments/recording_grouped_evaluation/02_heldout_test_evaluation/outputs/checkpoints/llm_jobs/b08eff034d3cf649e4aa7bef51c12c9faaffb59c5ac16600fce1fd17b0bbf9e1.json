@@ -1,0 +1,15 @@
+{
+  "job_hash": "b08eff034d3cf649e4aa7bef51c12c9faaffb59c5ac16600fce1fd17b0bbf9e1",
+  "recording": "M04_2_0285",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "SO I DOESN'T [2.0s_pause] FILM I TOUCH WHEN",
+  "content": "SO I DON'T [2.0s_pause] FILM I TOUCH WHEN",
+  "provider_id": "chatcmpl-6f1b5b90-7d8a-476b-98c9-e7ca7307179f",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4200b3f836",
+  "accepted": "SO I DON'T [2.0s_pause] FILM I TOUCH WHEN",
+  "guard_reason": "accepted"
+}

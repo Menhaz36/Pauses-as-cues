@@ -1,0 +1,18 @@
+{
+  "loaded_from": "Task 2 package",
+  "repo": "Menhaz/whisper-tiny-torgo-grouped-iciss",
+  "revision": "958b6c10786e6cf8e6f1dae03ad1db5d407c3339",
+  "files": {
+    "added_tokens.json": "9715fd2243b6f06a5858b5e32950d2853f73dd5bc201aafcf76f5082a2d8acd1",
+    "config.json": "ee722618fb64513c6ca47b5e22869152a381f36e2b269ea6e156ff8ac3b52114",
+    "generation_config.json": "49c097df683067fa92a4f4bd4783810a4fc0cceef3fba043139133a754666e15",
+    "merges.txt": "2df2990a395e35e8dfbc7511e08c12d56018d8d04691e0133e5d63b21e154dc6",
+    "model.safetensors": "707d1ed8577ea85f3447e3a1b4ee1f9fdddfaee7ea6330dbfb0e358e0814a2d7",
+    "normalizer.json": "bf1c507dc8724ca9cf9903640dacfb69dae2f00edee4f21ceba106a7392f26dd",
+    "preprocessor_config.json": "994838f1fa6462c8b9b3c90edada831f11f3dd8b4664634e18f4694d005c9dbf",
+    "special_tokens_map.json": "e67ae3a0aaa99abcd9f187138e12db1f65c16a14761c50ef10eef2c174a7a691",
+    "tokenizer.json": "f287cbbf9dc4ec909afcad08e9067ba90cfb5672c31e385f82f60b27b74e776a",
+    "tokenizer_config.json": "21a4fc0483c14b87f4e0bbc177a9a357479bfa7c95aaf21ad53d71e9c5afafb9",
+    "vocab.json": "8f680bba319e01a653d2e8a5dbc17a9157179e0576e6ce74ce0c06356c6e24f9"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "3f5cab8c6e28a157204591cbb3637b9127628bb597eb44e47c38040b763088c7",
+  "recording": "F04_2_0036",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "NOTHING IS OFFENSIVE AS INNOCENCE",
+  "content": "NOTHING IS OFFENSIVE AS INNOCENCE",
+  "provider_id": "chatcmpl-686128e0-7632-4c61-92ab-2aa59addb740",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c800245357",
+  "accepted": "NOTHING IS OFFENSIVE AS INNOCENCE",
+  "guard_reason": "accepted"
+}

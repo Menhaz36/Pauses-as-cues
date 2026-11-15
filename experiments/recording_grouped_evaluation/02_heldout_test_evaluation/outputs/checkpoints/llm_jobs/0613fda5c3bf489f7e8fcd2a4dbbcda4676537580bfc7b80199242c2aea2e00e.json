@@ -1,0 +1,15 @@
+{
+  "job_hash": "0613fda5c3bf489f7e8fcd2a4dbbcda4676537580bfc7b80199242c2aea2e00e",
+  "recording": "M05_2_0197",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "THERE IS [0.9s_pause] A TREE HOUSE UP",
+  "content": "THERE IS [0.9s_pause] A TREE HOUSE UP",
+  "provider_id": "chatcmpl-be012e97-5b36-4c0a-8e41-3cea36758ff2",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e1a78f200e",
+  "accepted": "THERE IS [0.9s_pause] A TREE HOUSE UP",
+  "guard_reason": "accepted"
+}

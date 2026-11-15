@@ -1,0 +1,15 @@
+{
+  "job_hash": "974be5998f5dc3fe723325e368cec51cfb665e9f8d052b34886b189902094087",
+  "recording": "M05_1_0074",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 15,
+  "input_region": "WHEN HE SPEAKS HIS VOICE HIS VOICE IS A RED CRACKED AND CRUISE A TRIFLE",
+  "content": "WHEN HE SPEAKS HIS VOICE IS A RED CRACKED AND CRUISE A TRIFLE",
+  "provider_id": "chatcmpl-7ad1f408-08ac-4b1b-bc49-cf415cfbf9ef",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_fe269835c7",
+  "accepted": "WHEN HE SPEAKS HIS VOICE IS A RED CRACKED AND CRUISE A TRIFLE",
+  "guard_reason": "accepted"
+}

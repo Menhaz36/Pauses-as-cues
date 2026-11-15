@@ -1,0 +1,15 @@
+{
+  "job_hash": "84b5e08d1db1712e6f81133780d8d4f806a3287d29a2cef9ef224ef4c779dffc",
+  "recording": "M04_2_0060",
+  "arm": "random",
+  "region": 0,
+  "start": 2,
+  "end": 12,
+  "input_region": "TAKES A TURN WHILE [0.5s_pause] IN THE [0.7s_pause] OLD AIR HE'S SITTING",
+  "content": "TAKES A TURN WHILE [0.5s_pause] IN THE [0.7s_pause] OLD CHAIR HE'S SITTING",
+  "provider_id": "chatcmpl-65449618-4635-48b9-929d-5e3c5a44169c",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_f73454f048",
+  "accepted": "TAKES A TURN WHILE [0.5s_pause] IN THE [0.7s_pause] OLD CHAIR HE'S SITTING",
+  "guard_reason": "accepted"
+}

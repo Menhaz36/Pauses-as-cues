@@ -1,0 +1,696 @@
+[
+  {
+    "audio_name": "F01_1_headMic_0014.wav",
+    "recording": "F01_1_0014",
+    "speaker": "F01",
+    "reference": "he slowly takes a short walk in the open air each day",
+    "hypothesis": " He slowly kicks a sweat warm in the open air he gets",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 0.11,
+        "end": 0.331,
+        "duration": 0.221,
+        "pause_after": 0.0,
+        "confidence": -0.004
+      },
+      {
+        "word": "SLOWLY",
+        "start": 0.331,
+        "end": 1.064,
+        "duration": 0.733,
+        "pause_after": 0.0,
+        "confidence": -0.389
+      },
+      {
+        "word": "KICKS",
+        "start": 1.064,
+        "end": 1.796,
+        "duration": 0.733,
+        "pause_after": 0.072,
+        "confidence": -0.92
+      },
+      {
+        "word": "A",
+        "start": 1.868,
+        "end": 2.378,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.004
+      },
+      {
+        "word": "SWEAT",
+        "start": 2.378,
+        "end": 2.8,
+        "duration": 0.421,
+        "pause_after": 0.0,
+        "confidence": -1.006
+      },
+      {
+        "word": "WARM",
+        "start": 2.8,
+        "end": 3.141,
+        "duration": 0.341,
+        "pause_after": 0.012,
+        "confidence": -0.47
+      },
+      {
+        "word": "IN",
+        "start": 3.152,
+        "end": 3.683,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.189
+      },
+      {
+        "word": "THE",
+        "start": 3.683,
+        "end": 3.883,
+        "duration": 0.201,
+        "pause_after": 0.0,
+        "confidence": -0.711
+      },
+      {
+        "word": "OPEN",
+        "start": 3.883,
+        "end": 4.305,
+        "duration": 0.421,
+        "pause_after": 0.0,
+        "confidence": -0.268
+      },
+      {
+        "word": "AIR",
+        "start": 4.305,
+        "end": 4.786,
+        "duration": 0.482,
+        "pause_after": 0.0,
+        "confidence": -0.371
+      },
+      {
+        "word": "HE",
+        "start": 4.786,
+        "end": 5.087,
+        "duration": 0.301,
+        "pause_after": 0.0,
+        "confidence": -0.377
+      },
+      {
+        "word": "GETS",
+        "start": 5.087,
+        "end": 5.77,
+        "duration": 0.682,
+        "pause_after": null,
+        "confidence": -0.206
+      }
+    ]
+  },
+  {
+    "audio_name": "F01_1_headMic_0049.wav",
+    "recording": "F01_1_0049",
+    "speaker": "F01",
+    "reference": "two",
+    "hypothesis": " Qtue",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0053.wav",
+    "recording": "F01_1_0053",
+    "speaker": "F01",
+    "reference": "swarm",
+    "hypothesis": " warm",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0065.wav",
+    "recording": "F01_1_0065",
+    "speaker": "F01",
+    "reference": "fee",
+    "hypothesis": " fee",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0072.wav",
+    "recording": "F01_1_0072",
+    "speaker": "F01",
+    "reference": "sheet",
+    "hypothesis": " seat",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0079.wav",
+    "recording": "F01_1_0079",
+    "speaker": "F01",
+    "reference": "air",
+    "hypothesis": " A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A-A",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0083.wav",
+    "recording": "F01_1_0083",
+    "speaker": "F01",
+    "reference": "goat",
+    "hypothesis": " Go",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0092.wav",
+    "recording": "F01_1_0092",
+    "speaker": "F01",
+    "reference": "read ",
+    "hypothesis": " Reade",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0101.wav",
+    "recording": "F01_1_0101",
+    "speaker": "F01",
+    "reference": "bug",
+    "hypothesis": " mug",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0110.wav",
+    "recording": "F01_1_0110",
+    "speaker": "F01",
+    "reference": "warm",
+    "hypothesis": " warm",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0114.wav",
+    "recording": "F01_1_0114",
+    "speaker": "F01",
+    "reference": "Well he is nearly ninety three years old",
+    "hypothesis": " Well, he is nearly 93 years old",
+    "status": "unmappable_ctc_text",
+    "times": []
+  },
+  {
+    "audio_name": "F01_1_headMic_0118.wav",
+    "recording": "F01_1_0118",
+    "speaker": "F01",
+    "reference": "knew",
+    "hypothesis": " new",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0014.wav",
+    "recording": "F03_1_0014",
+    "speaker": "F03",
+    "reference": "sip",
+    "hypothesis": " Sip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0039.wav",
+    "recording": "F03_1_0039",
+    "speaker": "F03",
+    "reference": "chair",
+    "hypothesis": " chair",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0041.wav",
+    "recording": "F03_1_0041",
+    "speaker": "F03",
+    "reference": "two",
+    "hypothesis": " Two",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0055.wav",
+    "recording": "F03_1_0055",
+    "speaker": "F03",
+    "reference": "Grandfather likes to be modern in his language",
+    "hypothesis": " Grail followed likes to be moderate and it's language",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "GRAIL",
+        "start": 0.191,
+        "end": 0.653,
+        "duration": 0.462,
+        "pause_after": 0.0,
+        "confidence": -0.54
+      },
+      {
+        "word": "FOLLOWED",
+        "start": 0.653,
+        "end": 1.135,
+        "duration": 0.482,
+        "pause_after": 0.0,
+        "confidence": -4.371
+      },
+      {
+        "word": "LIKES",
+        "start": 1.135,
+        "end": 1.407,
+        "duration": 0.271,
+        "pause_after": 0.0,
+        "confidence": -0.784
+      },
+      {
+        "word": "TO",
+        "start": 1.407,
+        "end": 1.577,
+        "duration": 0.171,
+        "pause_after": 0.0,
+        "confidence": -1.966
+      },
+      {
+        "word": "BE",
+        "start": 1.577,
+        "end": 1.738,
+        "duration": 0.161,
+        "pause_after": 0.0,
+        "confidence": -1.161
+      },
+      {
+        "word": "MODERATE",
+        "start": 1.738,
+        "end": 2.281,
+        "duration": 0.543,
+        "pause_after": 0.0,
+        "confidence": -0.108
+      },
+      {
+        "word": "AND",
+        "start": 2.281,
+        "end": 2.461,
+        "duration": 0.181,
+        "pause_after": 0.0,
+        "confidence": -1.352
+      },
+      {
+        "word": "IT'S",
+        "start": 2.461,
+        "end": 2.723,
+        "duration": 0.261,
+        "pause_after": 0.0,
+        "confidence": -1.764
+      },
+      {
+        "word": "LANGUAGE",
+        "start": 2.723,
+        "end": 3.315,
+        "duration": 0.593,
+        "pause_after": null,
+        "confidence": -0.355
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_1_headMic_0061.wav",
+    "recording": "F03_1_0061",
+    "speaker": "F03",
+    "reference": "dagger",
+    "hypothesis": " Stagger",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0074.wav",
+    "recording": "F03_1_0074",
+    "speaker": "F03",
+    "reference": "dark",
+    "hypothesis": " Duff",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0075.wav",
+    "recording": "F03_1_0075",
+    "speaker": "F03",
+    "reference": "he dresses himself in an ancient black frock coat",
+    "hypothesis": " He dresses himself in an ancient black flock coat",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 0.14,
+        "end": 0.391,
+        "duration": 0.251,
+        "pause_after": 0.0,
+        "confidence": -0.003
+      },
+      {
+        "word": "DRESSES",
+        "start": 0.391,
+        "end": 0.873,
+        "duration": 0.482,
+        "pause_after": 0.0,
+        "confidence": -0.736
+      },
+      {
+        "word": "HIMSELF",
+        "start": 0.873,
+        "end": 1.415,
+        "duration": 0.542,
+        "pause_after": 0.112,
+        "confidence": -1.202
+      },
+      {
+        "word": "IN",
+        "start": 1.527,
+        "end": 2.057,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.002
+      },
+      {
+        "word": "AN",
+        "start": 2.057,
+        "end": 2.178,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -2.438
+      },
+      {
+        "word": "ANCIENT",
+        "start": 2.178,
+        "end": 2.8,
+        "duration": 0.622,
+        "pause_after": 0.072,
+        "confidence": -0.465
+      },
+      {
+        "word": "BLACK",
+        "start": 2.872,
+        "end": 3.623,
+        "duration": 0.751,
+        "pause_after": 0.0,
+        "confidence": -0.323
+      },
+      {
+        "word": "FLOCK",
+        "start": 3.623,
+        "end": 4.305,
+        "duration": 0.682,
+        "pause_after": 0.0,
+        "confidence": -0.444
+      },
+      {
+        "word": "COAT",
+        "start": 4.305,
+        "end": 4.927,
+        "duration": 0.622,
+        "pause_after": null,
+        "confidence": -0.135
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_1_headMic_0092.wav",
+    "recording": "F03_1_0092",
+    "speaker": "F03",
+    "reference": "swore",
+    "hypothesis": " swore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0099.wav",
+    "recording": "F03_1_0099",
+    "speaker": "F03",
+    "reference": "slip",
+    "hypothesis": " Slip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0115.wav",
+    "recording": "F03_1_0115",
+    "speaker": "F03",
+    "reference": "yet he still thinks as swiftly as ever",
+    "hypothesis": " Yet he still thinks us swiftly as ever",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "YET",
+        "start": 0.12,
+        "end": 0.462,
+        "duration": 0.341,
+        "pause_after": 0.0,
+        "confidence": -0.002
+      },
+      {
+        "word": "HE",
+        "start": 0.462,
+        "end": 0.702,
+        "duration": 0.241,
+        "pause_after": 0.0,
+        "confidence": -1.535
+      },
+      {
+        "word": "STILL",
+        "start": 0.702,
+        "end": 1.074,
+        "duration": 0.371,
+        "pause_after": 0.0,
+        "confidence": -0.482
+      },
+      {
+        "word": "THINKS",
+        "start": 1.074,
+        "end": 1.485,
+        "duration": 0.411,
+        "pause_after": 0.0,
+        "confidence": -0.57
+      },
+      {
+        "word": "US",
+        "start": 1.485,
+        "end": 1.957,
+        "duration": 0.472,
+        "pause_after": 0.0,
+        "confidence": -0.931
+      },
+      {
+        "word": "SWIFTLY",
+        "start": 1.957,
+        "end": 2.629,
+        "duration": 0.672,
+        "pause_after": 0.0,
+        "confidence": -0.471
+      },
+      {
+        "word": "AS",
+        "start": 2.629,
+        "end": 2.819,
+        "duration": 0.191,
+        "pause_after": 0.0,
+        "confidence": -2.386
+      },
+      {
+        "word": "EVER",
+        "start": 2.819,
+        "end": 3.201,
+        "duration": 0.381,
+        "pause_after": null,
+        "confidence": -0.611
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_1_headMic_0121.wav",
+    "recording": "F03_1_0121",
+    "speaker": "F03",
+    "reference": "but he always answers Banana oil",
+    "hypothesis": " but he always answers Benara oil",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "BUT",
+        "start": 0.12,
+        "end": 0.412,
+        "duration": 0.291,
+        "pause_after": 0.0,
+        "confidence": -0.004
+      },
+      {
+        "word": "HE",
+        "start": 0.412,
+        "end": 0.532,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -1.072
+      },
+      {
+        "word": "ALWAYS",
+        "start": 0.532,
+        "end": 1.004,
+        "duration": 0.472,
+        "pause_after": 0.0,
+        "confidence": -0.805
+      },
+      {
+        "word": "ANSWERS",
+        "start": 1.004,
+        "end": 1.536,
+        "duration": 0.532,
+        "pause_after": 0.0,
+        "confidence": -1.079
+      },
+      {
+        "word": "BENARA",
+        "start": 1.536,
+        "end": 2.52,
+        "duration": 0.984,
+        "pause_after": 0.0,
+        "confidence": -0.87
+      },
+      {
+        "word": "OIL",
+        "start": 2.52,
+        "end": 2.811,
+        "duration": 0.291,
+        "pause_after": null,
+        "confidence": -1.117
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_1_headMic_0125.wav",
+    "recording": "F03_1_0125",
+    "speaker": "F03",
+    "reference": "fee",
+    "hypothesis": " fee",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0128.wav",
+    "recording": "F03_1_0128",
+    "speaker": "F03",
+    "reference": "select",
+    "hypothesis": "slut",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0146.wav",
+    "recording": "F03_1_0146",
+    "speaker": "F03",
+    "reference": "sigh",
+    "hypothesis": " saw",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0154.wav",
+    "recording": "F03_1_0154",
+    "speaker": "F03",
+    "reference": "shoot",
+    "hypothesis": "ship",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0170.wav",
+    "recording": "F03_1_0170",
+    "speaker": "F03",
+    "reference": "All the big baseball players get traded",
+    "hypothesis": " All the baseball players get traded",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "ALL",
+        "start": 0.545,
+        "end": 1.175,
+        "duration": 0.631,
+        "pause_after": 0.0,
+        "confidence": -1.821
+      },
+      {
+        "word": "THE",
+        "start": 1.175,
+        "end": 1.256,
+        "duration": 0.08,
+        "pause_after": 0.0,
+        "confidence": -5.742
+      },
+      {
+        "word": "BASEBALL",
+        "start": 1.256,
+        "end": 1.899,
+        "duration": 0.643,
+        "pause_after": 0.0,
+        "confidence": -0.377
+      },
+      {
+        "word": "PLAYERS",
+        "start": 1.899,
+        "end": 2.32,
+        "duration": 0.422,
+        "pause_after": 0.0,
+        "confidence": -0.537
+      },
+      {
+        "word": "GET",
+        "start": 2.32,
+        "end": 2.561,
+        "duration": 0.241,
+        "pause_after": 0.0,
+        "confidence": -2.302
+      },
+      {
+        "word": "TRADED",
+        "start": 2.561,
+        "end": 2.983,
+        "duration": 0.422,
+        "pause_after": null,
+        "confidence": -0.323
+      }
+    ]
+  },
+  {
+    "audio_name": "F03_1_headMic_0187.wav",
+    "recording": "F03_1_0187",
+    "speaker": "F03",
+    "reference": "hear",
+    "hypothesis": " here",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_1_headMic_0189.wav",
+    "recording": "F03_1_0189",
+    "speaker": "F03",
+    "reference": "galore",
+    "hypothesis": " Glower",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0001.wav",
+    "recording": "F03_2_0001",
+    "speaker": "F03",
+    "reference": "fear",
+    "hypothesis": " fear",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F03_2_headMic_0015.wav",
+    "recording": "F03_2_0015",
+    "speaker": "F03",
+    "reference": "deer",
+    "hypothesis": " Deer",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "job_hash": "19b2316439804448051182153054d15f487dbbdfa90a592cdf43ce1014fea715",
+  "recording": "M04_2_0283",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "IT WILL WORK WITHOUT [0.3s_pause] THIN WINGS FOR A",
+  "content": "IT WILL WORK WITHOUT [0.3s_pause] THIN WINGS FOR A",
+  "provider_id": "chatcmpl-a7952f84-9a85-4caf-87ca-9998f23ad16f",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c800245357",
+  "accepted": "IT WILL WORK WITHOUT [0.3s_pause] THIN WINGS FOR A",
+  "guard_reason": "accepted"
+}

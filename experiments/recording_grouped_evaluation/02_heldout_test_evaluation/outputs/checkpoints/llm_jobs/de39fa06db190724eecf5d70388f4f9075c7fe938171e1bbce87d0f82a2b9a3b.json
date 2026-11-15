@@ -1,0 +1,15 @@
+{
+  "job_hash": "de39fa06db190724eecf5d70388f4f9075c7fe938171e1bbce87d0f82a2b9a3b",
+  "recording": "F03_2_0043",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "I TRIED TO TELL PEOPLE IN THE COMMUNITY",
+  "content": "I TRIED TO TELL PEOPLE IN THE COMMUNITY",
+  "provider_id": "chatcmpl-5285ef15-fae9-489b-b2aa-120c480a8b21",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_803c0ba83d",
+  "accepted": "I TRIED TO TELL PEOPLE IN THE COMMUNITY",
+  "guard_reason": "accepted"
+}

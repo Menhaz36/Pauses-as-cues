@@ -1,0 +1,15 @@
+{
+  "job_hash": "b7fe98ea082ea9e069b5393b2940de07a1fbab70dd747a5da8f5e8a2b7b3336b",
+  "recording": "M05_2_0243",
+  "arm": "random",
+  "region": 0,
+  "start": 3,
+  "end": 10,
+  "input_region": "THEY RECEIVED A KNOWING [0.6s_pause] PHONE CALL WITH",
+  "content": "THEY RECEIVED A INCOMING [0.6s_pause] PHONE CALL WITH",
+  "provider_id": "chatcmpl-1c14e232-baf5-48dd-9fa6-750c29163978",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_64b2f1c926",
+  "accepted": "THEY RECEIVED A INCOMING [0.6s_pause] PHONE CALL WITH",
+  "guard_reason": "accepted"
+}

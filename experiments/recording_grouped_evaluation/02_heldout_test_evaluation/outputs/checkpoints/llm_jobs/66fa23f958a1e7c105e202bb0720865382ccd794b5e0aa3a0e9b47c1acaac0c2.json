@@ -1,0 +1,15 @@
+{
+  "job_hash": "66fa23f958a1e7c105e202bb0720865382ccd794b5e0aa3a0e9b47c1acaac0c2",
+  "recording": "M05_1_0104",
+  "arm": "visible",
+  "region": 0,
+  "start": 1,
+  "end": 10,
+  "input_region": "HAS YOUR DARK SWEET [1.0s_pause] IN GREASY WASH [0.5s_pause] WATER OILING",
+  "content": "HAS YOUR DARK SWEET [1.0s_pause] IN GREASY WASH [0.5s_pause] WATER OILING",
+  "provider_id": "chatcmpl-de81000f-6c32-4d6f-9819-01722917e402",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_60e4b492db",
+  "accepted": "HAS YOUR DARK SWEET [1.0s_pause] IN GREASY WASH [0.5s_pause] WATER OILING",
+  "guard_reason": "accepted"
+}

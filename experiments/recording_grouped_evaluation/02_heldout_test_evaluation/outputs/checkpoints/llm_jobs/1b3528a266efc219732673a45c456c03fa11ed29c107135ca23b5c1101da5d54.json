@@ -1,0 +1,15 @@
+{
+  "job_hash": "1b3528a266efc219732673a45c456c03fa11ed29c107135ca23b5c1101da5d54",
+  "recording": "M04_2_0246",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "NOTHING AS [0.3s_pause] AN [0.7s_pause] ELEPHANT IN THE LENS",
+  "content": "NOTHING AS [0.3s_pause] AN [0.7s_pause] ELEPHANT IN THE LENS",
+  "provider_id": "chatcmpl-d43e78d2-2c02-41f8-bfc8-54cbff973c61",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "NOTHING AS [0.3s_pause] AN [0.7s_pause] ELEPHANT IN THE LENS",
+  "guard_reason": "accepted"
+}

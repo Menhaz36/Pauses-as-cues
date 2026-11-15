@@ -1,0 +1,15 @@
+{
+  "job_hash": "a110e1b61b2f36de6d5ecc2e8be8452bb4d8231a778a2bea8992b248f6b84720",
+  "recording": "M01_3_0268",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "HE'S ONE [0.6s_pause] OF THE GOOD WIND",
+  "content": "HE'S ONE [0.6s_pause] OF THE GOOD WIND",
+  "provider_id": "chatcmpl-499755c8-7429-432a-b896-0c38c6a173e7",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c800245357",
+  "accepted": "HE'S ONE [0.6s_pause] OF THE GOOD WIND",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,494 @@
+[
+  {
+    "audio_name": "M05_2_headMic_0117.wav",
+    "recording": "M05_2_0117",
+    "speaker": "M05",
+    "reference": "tear ",
+    "hypothesis": " Tear",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0138.wav",
+    "recording": "M05_2_0138",
+    "speaker": "M05",
+    "reference": "You'd be better off taking a cold shower",
+    "hypothesis": " You may be better off taking a good shower",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "YOU",
+        "start": 1.041,
+        "end": 1.752,
+        "duration": 0.71,
+        "pause_after": 0.0,
+        "confidence": -0.023
+      },
+      {
+        "word": "MAY",
+        "start": 1.752,
+        "end": 2.012,
+        "duration": 0.26,
+        "pause_after": 0.311,
+        "confidence": -1.028
+      },
+      {
+        "word": "BE",
+        "start": 2.323,
+        "end": 3.013,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.004
+      },
+      {
+        "word": "BETTER",
+        "start": 3.013,
+        "end": 4.194,
+        "duration": 1.181,
+        "pause_after": 0.031,
+        "confidence": -0.39
+      },
+      {
+        "word": "OFF",
+        "start": 4.224,
+        "end": 4.875,
+        "duration": 0.65,
+        "pause_after": 1.652,
+        "confidence": -0.169
+      },
+      {
+        "word": "TAKING",
+        "start": 6.527,
+        "end": 7.697,
+        "duration": 1.171,
+        "pause_after": 0.0,
+        "confidence": -0.204
+      },
+      {
+        "word": "A",
+        "start": 7.697,
+        "end": 7.948,
+        "duration": 0.25,
+        "pause_after": 0.0,
+        "confidence": -2.852
+      },
+      {
+        "word": "GOOD",
+        "start": 7.948,
+        "end": 8.738,
+        "duration": 0.791,
+        "pause_after": 0.031,
+        "confidence": -0.468
+      },
+      {
+        "word": "SHOWER",
+        "start": 8.769,
+        "end": 9.939,
+        "duration": 1.171,
+        "pause_after": null,
+        "confidence": -0.152
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0139.wav",
+    "recording": "M05_2_0139",
+    "speaker": "M05",
+    "reference": "mut",
+    "hypothesis": " mutt",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0149.wav",
+    "recording": "M05_2_0149",
+    "speaker": "M05",
+    "reference": "six",
+    "hypothesis": " Six",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0161.wav",
+    "recording": "M05_2_0161",
+    "speaker": "M05",
+    "reference": "golf",
+    "hypothesis": " Goaf",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0177.wav",
+    "recording": "M05_2_0177",
+    "speaker": "M05",
+    "reference": "no",
+    "hypothesis": " No, no,",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "NO",
+        "start": 1.346,
+        "end": 1.916,
+        "duration": 0.57,
+        "pause_after": 0.0,
+        "confidence": -0.361
+      },
+      {
+        "word": "NO",
+        "start": 1.916,
+        "end": 2.096,
+        "duration": 0.181,
+        "pause_after": null,
+        "confidence": -1.055
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0184.wav",
+    "recording": "M05_2_0184",
+    "speaker": "M05",
+    "reference": "him",
+    "hypothesis": " him",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0187.wav",
+    "recording": "M05_2_0187",
+    "speaker": "M05",
+    "reference": "lima",
+    "hypothesis": " Leaver",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0224.wav",
+    "recording": "M05_2_0224",
+    "speaker": "M05",
+    "reference": "chop",
+    "hypothesis": " Chillp",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0227.wav",
+    "recording": "M05_2_0227",
+    "speaker": "M05",
+    "reference": "park",
+    "hypothesis": " Ports",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0239.wav",
+    "recording": "M05_2_0239",
+    "speaker": "M05",
+    "reference": "The dolphins swam around our boat",
+    "hypothesis": " The resultant claim are around our boat",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THE",
+        "start": 1.463,
+        "end": 2.053,
+        "duration": 0.59,
+        "pause_after": 0.311,
+        "confidence": -0.277
+      },
+      {
+        "word": "RESULTANT",
+        "start": 2.364,
+        "end": 4.416,
+        "duration": 2.052,
+        "pause_after": 0.251,
+        "confidence": -0.648
+      },
+      {
+        "word": "CLAIM",
+        "start": 4.667,
+        "end": 5.858,
+        "duration": 1.191,
+        "pause_after": 0.0,
+        "confidence": -0.182
+      },
+      {
+        "word": "ARE",
+        "start": 5.858,
+        "end": 6.058,
+        "duration": 0.2,
+        "pause_after": 0.611,
+        "confidence": -3.174
+      },
+      {
+        "word": "AROUND",
+        "start": 6.669,
+        "end": 7.5,
+        "duration": 0.83,
+        "pause_after": 0.0,
+        "confidence": -0.224
+      },
+      {
+        "word": "OUR",
+        "start": 7.5,
+        "end": 7.62,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -3.278
+      },
+      {
+        "word": "BOAT",
+        "start": 7.62,
+        "end": 7.96,
+        "duration": 0.34,
+        "pause_after": null,
+        "confidence": -1.444
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0240.wav",
+    "recording": "M05_2_0240",
+    "speaker": "M05",
+    "reference": "hotel",
+    "hypothesis": " hotel",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0256.wav",
+    "recording": "M05_2_0256",
+    "speaker": "M05",
+    "reference": "She wore warm fleecy woolen overalls",
+    "hypothesis": " A seawaw warm feeling he will run over ours",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "A",
+        "start": 1.842,
+        "end": 2.352,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.072
+      },
+      {
+        "word": "SEAWAW",
+        "start": 2.352,
+        "end": 4.034,
+        "duration": 1.682,
+        "pause_after": 0.0,
+        "confidence": -0.295
+      },
+      {
+        "word": "WARM",
+        "start": 4.034,
+        "end": 4.865,
+        "duration": 0.831,
+        "pause_after": 0.161,
+        "confidence": -0.28
+      },
+      {
+        "word": "FEELING",
+        "start": 5.025,
+        "end": 6.156,
+        "duration": 1.131,
+        "pause_after": 0.0,
+        "confidence": -0.441
+      },
+      {
+        "word": "HE",
+        "start": 6.156,
+        "end": 6.556,
+        "duration": 0.4,
+        "pause_after": 0.451,
+        "confidence": -0.337
+      },
+      {
+        "word": "WILL",
+        "start": 7.007,
+        "end": 7.797,
+        "duration": 0.79,
+        "pause_after": 0.0,
+        "confidence": -0.418
+      },
+      {
+        "word": "RUN",
+        "start": 7.797,
+        "end": 8.058,
+        "duration": 0.26,
+        "pause_after": 0.191,
+        "confidence": -0.991
+      },
+      {
+        "word": "OVER",
+        "start": 8.248,
+        "end": 9.039,
+        "duration": 0.79,
+        "pause_after": 0.0,
+        "confidence": -0.027
+      },
+      {
+        "word": "OURS",
+        "start": 9.039,
+        "end": 9.769,
+        "duration": 0.731,
+        "pause_after": null,
+        "confidence": -0.1
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0268.wav",
+    "recording": "M05_2_0268",
+    "speaker": "M05",
+    "reference": "pit",
+    "hypothesis": " Pit",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0278.wav",
+    "recording": "M05_2_0278",
+    "speaker": "M05",
+    "reference": "xray",
+    "hypothesis": " at ray",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "AT",
+        "start": 1.703,
+        "end": 2.373,
+        "duration": 0.67,
+        "pause_after": 0.0,
+        "confidence": -0.158
+      },
+      {
+        "word": "RAY",
+        "start": 2.373,
+        "end": 2.774,
+        "duration": 0.401,
+        "pause_after": null,
+        "confidence": -0.835
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0283.wav",
+    "recording": "M05_2_0283",
+    "speaker": "M05",
+    "reference": "ship",
+    "hypothesis": "hip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0315.wav",
+    "recording": "M05_2_0315",
+    "speaker": "M05",
+    "reference": "tread",
+    "hypothesis": " Tread",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0318.wav",
+    "recording": "M05_2_0318",
+    "speaker": "M05",
+    "reference": "tango",
+    "hypothesis": " Tangle",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0362.wav",
+    "recording": "M05_2_0362",
+    "speaker": "M05",
+    "reference": "sell",
+    "hypothesis": " Settle",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0380.wav",
+    "recording": "M05_2_0380",
+    "speaker": "M05",
+    "reference": "dead",
+    "hypothesis": " Dead day",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "DEAD",
+        "start": 0.502,
+        "end": 1.303,
+        "duration": 0.801,
+        "pause_after": 0.0,
+        "confidence": -0.0
+      },
+      {
+        "word": "DAY",
+        "start": 1.303,
+        "end": 1.393,
+        "duration": 0.09,
+        "pause_after": null,
+        "confidence": -5.373
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0382.wav",
+    "recording": "M05_2_0382",
+    "speaker": "M05",
+    "reference": "Although always alone we survive",
+    "hypothesis": " although always alone we see wife",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "ALTHOUGH",
+        "start": 3.885,
+        "end": 4.876,
+        "duration": 0.991,
+        "pause_after": 0.0,
+        "confidence": -0.762
+      },
+      {
+        "word": "ALWAYS",
+        "start": 4.876,
+        "end": 5.016,
+        "duration": 0.14,
+        "pause_after": 0.0,
+        "confidence": -8.572
+      },
+      {
+        "word": "ALONE",
+        "start": 5.016,
+        "end": 5.136,
+        "duration": 0.12,
+        "pause_after": 0.511,
+        "confidence": -7.217
+      },
+      {
+        "word": "WE",
+        "start": 5.648,
+        "end": 6.338,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.031
+      },
+      {
+        "word": "SEE",
+        "start": 6.338,
+        "end": 6.799,
+        "duration": 0.461,
+        "pause_after": 0.0,
+        "confidence": -0.386
+      },
+      {
+        "word": "WIFE",
+        "start": 6.799,
+        "end": 7.319,
+        "duration": 0.521,
+        "pause_after": null,
+        "confidence": -0.334
+      }
+    ]
+  }
+]

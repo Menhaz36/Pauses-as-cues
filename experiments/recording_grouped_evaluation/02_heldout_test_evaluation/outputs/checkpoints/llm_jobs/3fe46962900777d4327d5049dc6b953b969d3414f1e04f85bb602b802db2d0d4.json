@@ -1,0 +1,15 @@
+{
+  "job_hash": "3fe46962900777d4327d5049dc6b953b969d3414f1e04f85bb602b802db2d0d4",
+  "recording": "M01_3_0165",
+  "arm": "hidden",
+  "region": 0,
+  "start": 7,
+  "end": 14,
+  "input_region": "KISS SLUMP AND ELFCULTIOUS HER BEAR'S DORMITORY",
+  "content": "KISS SLUMP AND DELICIOUS HER BEAR'S DORMITORY",
+  "provider_id": "chatcmpl-3e0b02bd-dea5-4474-9473-a93b78b84cba",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_dee443f41b",
+  "accepted": "KISS SLUMP AND DELICIOUS HER BEAR'S DORMITORY",
+  "guard_reason": "accepted"
+}

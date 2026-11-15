@@ -1,0 +1,15 @@
+{
+  "job_hash": "f5bf1c6d3b9c9075ac26d8a7a0a2e76e8ba2ed3b46783345431a151a227d2f58",
+  "recording": "M02_2_0128",
+  "arm": "random",
+  "region": 0,
+  "start": 7,
+  "end": 15,
+  "input_region": "WE WILL BE ABLE [0.4s_pause] TO BOUNCE FROM THE",
+  "content": "WE WILL BE ABLE [0.4s_pause] TO BOUNCE FROM THE",
+  "provider_id": "chatcmpl-3655a8be-d9c4-40ec-a7af-7ebcada6b4e6",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_69334c0be3",
+  "accepted": "WE WILL BE ABLE [0.4s_pause] TO BOUNCE FROM THE",
+  "guard_reason": "accepted"
+}

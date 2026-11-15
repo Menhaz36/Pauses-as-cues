@@ -1,0 +1,18 @@
+{
+  "tau": 0.3,
+  "source": "historical fallback: insufficient calibration support",
+  "selected_step": 800,
+  "mode": "full",
+  "calibration_n": 309,
+  "boundaries": 513,
+  "status_counts": {
+    "aligned": 78,
+    "no_internal_boundary": 227,
+    "unmappable_ctc_text": 3,
+    "ctc_failure": 1
+  },
+  "protocol": "57c51b7fd2d94847c0b85137184e45b507e5d004358e98b2b313d4c95033f4d2",
+  "aligner_revision": "22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+  "dataset_revision": "c4e0b560a515465e61bb555455e34fc620031fe8",
+  "run_at": "2026-11-12T05:37:37.055532+00:00"
+}

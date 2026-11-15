@@ -1,0 +1,15 @@
+{
+  "job_hash": "ef3444095631d70ca2ac514e9d22baaa5779ff3f81f0e8b37d0fecaeabb92cd1",
+  "recording": "M01_3_0191",
+  "arm": "random",
+  "region": 0,
+  "start": 3,
+  "end": 11,
+  "input_region": "DONE YET TO TAKE [0.7s_pause] ADVANTAGES OF THE EMIBRE'S",
+  "content": "DONE YET TO TAKE [0.7s_pause] ADVANTAGES OF THE EMPIRE'S",
+  "provider_id": "chatcmpl-68d2176e-0c86-4bd0-8b6b-2fdbd3da2dca",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_93703442d9",
+  "accepted": "DONE YET TO TAKE [0.7s_pause] ADVANTAGES OF THE EMPIRE'S",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,44 @@
+{
+  "split and adaptation": [
+    "split_manifest.csv",
+    "split_audit.json",
+    "training_summary.json",
+    "validation_history.csv"
+  ],
+  "threshold selection": [
+    "threshold_lock.json",
+    "tables/threshold_curve.csv",
+    "tables/calibration_boundaries.csv"
+  ],
+  "held-out ASR": [
+    "tables/exact_asr_predictions.csv",
+    "tables/asr_accuracy.csv"
+  ],
+  "independent timing and common opportunity set": [
+    "timed_recordings.json",
+    "checkpoints/dual_ctc_*.json",
+    "tables/boundary_map.csv",
+    "tables/timing_marker_agreement.csv",
+    "tables/timing_paired_differences.csv"
+  ],
+  "coverage and speaker support": [
+    "tables/timing_flow.csv",
+    "tables/localization.csv",
+    "tables/localization_by_speaker.csv"
+  ],
+  "historical evidence": [
+    "tables/submitted_correction_direction.csv",
+    "tables/submitted_marker_populations.csv",
+    "tables/submitted_region_flow.csv"
+  ],
+  "equal editing budget and exact outcomes": [
+    "correction_plan.json",
+    "tables/correction_budgets.csv",
+    "llm_prompts.json",
+    "llm_region_responses.json",
+    "tables/exact_correction_predictions.csv",
+    "tables/correction_error_counts.csv",
+    "tables/llm_arm_summary.csv",
+    "tables/paired_correction_contrasts.csv"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "b1515832400bb931eddfc8e4d24269f54e26cee1526a27bf4d82bd1f549037bf",
+  "recording": "F04_1_0147",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "MOTHER'S SOZY YELLOW [0.9s_pause] KINGHAM APERN",
+  "content": "MOTHER'S SOZY YELLOW [0.9s_pause] KINGHAM APRON",
+  "provider_id": "chatcmpl-dd718e6c-2345-4f2b-9908-226c0bd1e910",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "MOTHER'S SOZY YELLOW [0.9s_pause] KINGHAM APRON",
+  "guard_reason": "accepted"
+}

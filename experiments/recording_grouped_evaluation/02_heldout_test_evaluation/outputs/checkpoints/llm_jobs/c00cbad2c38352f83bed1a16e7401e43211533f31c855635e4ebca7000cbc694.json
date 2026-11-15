@@ -1,0 +1,15 @@
+{
+  "job_hash": "c00cbad2c38352f83bed1a16e7401e43211533f31c855635e4ebca7000cbc694",
+  "recording": "M04_2_0172",
+  "arm": "visible",
+  "region": 0,
+  "start": 4,
+  "end": 11,
+  "input_region": "OF THE FLOWER AND [2.1s_pause] THIN THIN [0.3s_pause] THIN",
+  "content": "OF THE FLOWER AND [2.1s_pause] THIN [0.3s_pause] THIN",
+  "provider_id": "chatcmpl-c2498852-1e9a-4aad-8a1b-8c8104d64cdf",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_f640395b96",
+  "accepted": "OF THE FLOWER AND [2.1s_pause] THIN [0.3s_pause] THIN",
+  "guard_reason": "accepted"
+}

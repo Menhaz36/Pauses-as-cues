@@ -1,0 +1,15 @@
+{
+  "job_hash": "5a552fc7bdb3d223cae54bd8faca9a7e46ffece10ebd06e37371e42e2974e461",
+  "recording": "M04_2_0194",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "IF YOU [0.4s_pause] IN TITITRI COMEDY IN",
+  "content": "IF YOU [0.4s_pause] IN TITANIC COMEDY IN",
+  "provider_id": "chatcmpl-8d7c064e-2c01-4502-b440-358960d5658d",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e5b4e54fbb",
+  "accepted": "IF YOU [0.4s_pause] IN TITANIC COMEDY IN",
+  "guard_reason": "accepted"
+}

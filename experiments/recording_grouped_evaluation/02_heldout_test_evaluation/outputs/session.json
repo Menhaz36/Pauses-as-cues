@@ -1,0 +1,7 @@
+{
+  "started": "2026-11-12T05:37:00.565065+00:00",
+  "platform": "Linux-6.18.55+-x86_64-with-glibc2.39",
+  "python": "3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]",
+  "kaggle": true,
+  "evaluation_partition": "final_test"
+}

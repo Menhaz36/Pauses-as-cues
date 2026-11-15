@@ -1,0 +1,15 @@
+{
+  "job_hash": "d676f47debb02cd50eb9cd9a1d85c20c8db57c0002a576ec5ebce4558539feee",
+  "recording": "M05_2_0274",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 12,
+  "input_region": "THE PROSPECT [0.9s_pause] OF CUTTING BACK SPENDING IS [0.5s_pause] AN [0.6s_pause] UNPLEASANT HORN FOR ANY",
+  "content": "THE PROSPECT [0.9s_pause] OF CUTTING BACK SPENDING IS [0.5s_pause] AN [0.6s_pause] UNPLEASANT HORN FOR ANY",
+  "provider_id": "chatcmpl-9d28c55f-2303-4ee9-b011-f9945e9aabbd",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_b1dd3e7a63",
+  "accepted": "THE PROSPECT [0.9s_pause] OF CUTTING BACK SPENDING IS [0.5s_pause] AN [0.6s_pause] UNPLEASANT HORN FOR ANY",
+  "guard_reason": "accepted"
+}

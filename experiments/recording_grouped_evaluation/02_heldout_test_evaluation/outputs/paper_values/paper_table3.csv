@@ -1,0 +1,7 @@
+Comparison,Takes,Ref. words,Errors,Impr./Wors./Tied,WER gain (pts),95% CI,Sign p,source
+Untouched → visible,624,1545,775 → 767,8/2/614,0.52,"[0.06, 1.04]",0.109,"paired_correction_contrasts.csv [dysarthria, whole, untouched→visible]"
+Untouched → hidden,624,1545,775 → 767,9/3/612,0.52,"[0.00, 1.09]",0.146,"paired_correction_contrasts.csv [dysarthria, whole, untouched→hidden]"
+Untouched → visible (marked takes),50,384,266 → 258,8/2/40,2.08,"[0.26, 4.11]",0.109,"paired_correction_contrasts.csv [dysarthria, marked, untouched→visible]"
+Hidden → visible (same windows),50,384,258 → 258,3/4/43,0.0,"[-1.56, 1.63]",1.0,"paired_correction_contrasts.csv [dysarthria, marked, hidden→visible]"
+Random → measured locations,27,250,198 → 198,4/4/19,0.0,"[-2.09, 2.07]",1.0,"paired_correction_contrasts.csv [dysarthria, matched, random→visible]"
+Hidden → visible (matched takes),27,250,195 → 198,0/3/24,-1.2,"[-2.52, 0.00]",0.25,"paired_correction_contrasts.csv [dysarthria, matched, hidden→visible]"

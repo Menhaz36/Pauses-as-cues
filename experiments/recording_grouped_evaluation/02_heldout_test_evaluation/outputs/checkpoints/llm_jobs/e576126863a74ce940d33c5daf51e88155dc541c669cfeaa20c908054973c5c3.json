@@ -1,0 +1,15 @@
+{
+  "job_hash": "e576126863a74ce940d33c5daf51e88155dc541c669cfeaa20c908054973c5c3",
+  "recording": "M02_2_0190",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "AH I'LL PICK OUT YOUR",
+  "content": "I'LL PICK OUT YOUR",
+  "provider_id": "chatcmpl-96daa8a1-5177-4929-b5fe-32b910ef5a59",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e1a78f200e",
+  "accepted": "I'LL PICK OUT YOUR",
+  "guard_reason": "accepted"
+}

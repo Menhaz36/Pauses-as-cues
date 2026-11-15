@@ -1,0 +1,15 @@
+{
+  "job_hash": "70deaa6442e31d170c75ceaf0ded0b85855685da0823212e9b4e56e3e11847ff",
+  "recording": "M04_2_0283",
+  "arm": "hidden",
+  "region": 0,
+  "start": 1,
+  "end": 9,
+  "input_region": "WILL WORK WITHOUT THIN WINGS FOR A WHILE",
+  "content": "WILL WORK WITHOUT THIN WINGS FOR A WHILE",
+  "provider_id": "chatcmpl-432f3a02-f05a-41ab-a75e-743fd54cac18",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_86dc843b12",
+  "accepted": "WILL WORK WITHOUT THIN WINGS FOR A WHILE",
+  "guard_reason": "accepted"
+}

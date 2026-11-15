@@ -1,0 +1,15 @@
+{
+  "job_hash": "af69a8491f3494f8bdf2063da2fe9bfb0cb50c6f9d2bc43900a2133289985682",
+  "recording": "M01_3_0165",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "HE'S [0.6s_pause] OUT OF [0.3s_pause] PROVIDES FOR FUN TO",
+  "content": "HE'S [0.6s_pause] OUT OF [0.3s_pause] PROVIDES FOR FUN TO",
+  "provider_id": "chatcmpl-feaffe0a-239a-4d09-a83a-98d5527201ae",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_19b184c447",
+  "accepted": "HE'S [0.6s_pause] OUT OF [0.3s_pause] PROVIDES FOR FUN TO",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "0a38e7289da6cdc27ef64c99f9ff0a576c9a7e5acd5be1a91158a2a1e0eef603",
+  "recording": "M04_1_0012",
+  "arm": "hidden",
+  "region": 0,
+  "start": 1,
+  "end": 15,
+  "input_region": "HE IS PLAYING SUITABLY AS HE WENT TO THE UPPER OF OUR ULTIMATE ORGANS",
+  "content": "HE IS PLAYING SUITABLY AS HE WENT TO THE UPPER OF OUR ULTIMATE ORGANS",
+  "provider_id": "chatcmpl-245b6469-1173-42fe-9239-4e43a6973920",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_87b3c396db",
+  "accepted": "HE IS PLAYING SUITABLY AS HE WENT TO THE UPPER OF OUR ULTIMATE ORGANS",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "996222c783d0898ea0a6775d370f4bcb6c5d2d2d12d69238b82c6cec1addc45e",
+  "recording": "M01_3_0191",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "NOTHING HAS BEEN DONE [0.7s_pause] YET TO TAKE ADVANTAGES",
+  "content": "NOTHING HAS BEEN DONE [0.7s_pause] YET TO TAKE ADVANTAGE",
+  "provider_id": "chatcmpl-85644ad9-d0d2-4188-b21c-2ea082e8d6e8",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "NOTHING HAS BEEN DONE [0.7s_pause] YET TO TAKE ADVANTAGE",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "fdc167b2e9cf69ddaa1cabd9524ff60abdb2e38e84d95e6b9c2c0abd9459b570",
+  "recording": "M01_3_0113",
+  "arm": "visible",
+  "region": 0,
+  "start": 2,
+  "end": 9,
+  "input_region": "AS OPEN TO FIRST [0.8s_pause] HE'S AN ALIEN",
+  "content": "AS OPEN TO FIRST [0.8s_pause] HE'S AN ALIEN",
+  "provider_id": "chatcmpl-3b9c5f92-c2fc-4de2-a4b4-226f23d49ebc",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_dee443f41b",
+  "accepted": "AS OPEN TO FIRST [0.8s_pause] HE'S AN ALIEN",
+  "guard_reason": "accepted"
+}

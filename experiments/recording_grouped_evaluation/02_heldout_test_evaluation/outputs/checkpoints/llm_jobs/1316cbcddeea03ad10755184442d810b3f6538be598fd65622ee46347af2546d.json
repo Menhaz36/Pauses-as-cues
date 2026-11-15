@@ -1,0 +1,15 @@
+{
+  "job_hash": "1316cbcddeea03ad10755184442d810b3f6538be598fd65622ee46347af2546d",
+  "recording": "M02_1_0226",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "MOTHERS SELLERS GET [0.4s_pause] LOWKINGING IMPENTS",
+  "content": "MOTHERS SELLERS GET [0.4s_pause] LOWING IMPEDES",
+  "provider_id": "chatcmpl-3d183d96-8339-447d-be39-7f7299bbaea1",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_854fa9be4c",
+  "accepted": "MOTHERS SELLERS GET [0.4s_pause] LOWING IMPEDES",
+  "guard_reason": "accepted"
+}

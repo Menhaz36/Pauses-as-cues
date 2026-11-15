@@ -1,0 +1,15 @@
+{
+  "job_hash": "e1f930f9f38a3a2b917ae78c21b7ab4c14a28db39338cc0cbcf6e517b00fb582",
+  "recording": "M04_2_0029",
+  "arm": "hidden",
+  "region": 0,
+  "start": 2,
+  "end": 17,
+  "input_region": "PEED HIS HEAD HIS HEAD WAS A BIT GLUGGLE AND QUIT QUIT WITH A STRETCH",
+  "content": "PEED HIS HEAD HIS HEAD WAS A BIT GIGGLE AND QUIT WITH A STRETCH",
+  "provider_id": "chatcmpl-784184a6-e8ba-4211-8d0b-18b1479efbe0",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_49bfac06f1",
+  "accepted": "PEED HIS HEAD HIS HEAD WAS A BIT GIGGLE AND QUIT WITH A STRETCH",
+  "guard_reason": "accepted"
+}

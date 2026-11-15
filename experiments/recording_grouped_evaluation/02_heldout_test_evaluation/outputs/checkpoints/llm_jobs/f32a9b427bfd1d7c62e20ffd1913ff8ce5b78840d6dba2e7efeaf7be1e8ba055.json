@@ -1,0 +1,15 @@
+{
+  "job_hash": "f32a9b427bfd1d7c62e20ffd1913ff8ce5b78840d6dba2e7efeaf7be1e8ba055",
+  "recording": "M04_1_0094",
+  "arm": "random",
+  "region": 0,
+  "start": 1,
+  "end": 18,
+  "input_region": "WAS SHE PISSED HIS [1.1s_pause] VOICE HIS KID [2.0s_pause] GOT A BIG CAT [0.8s_pause] IN A [0.9s_pause] FEW OTHER [2.6s_pause] STREET DRIVER",
+  "content": "WAS SHE PISSED HIS [1.1s_pause] VOICE HIS KID [2.0s_pause] GOT A BIG CAT [0.8s_pause] IN A [0.9s_pause] FEW OTHER [2.6s_pause] STREET DRIVER",
+  "provider_id": "chatcmpl-04949fe9-e076-41d0-b4f6-dfb9d3b4b917",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e5b4e54fbb",
+  "accepted": "WAS SHE PISSED HIS [1.1s_pause] VOICE HIS KID [2.0s_pause] GOT A BIG CAT [0.8s_pause] IN A [0.9s_pause] FEW OTHER [2.6s_pause] STREET DRIVER",
+  "guard_reason": "accepted"
+}

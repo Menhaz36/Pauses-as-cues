@@ -1,0 +1,15 @@
+{
+  "job_hash": "03413a07c78289279507acf6653ed685c5397166f000f36b2f7c8252ac202003",
+  "recording": "M04_2_0236",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 6,
+  "input_region": "THEN DOWN A [1.3s_pause] GREAT IN WHITE",
+  "content": "THEN DOWN A [1.3s_pause] GREAT IN WHITE",
+  "provider_id": "chatcmpl-4f76dd94-5ba3-4725-9fbf-ec1f702e0410",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_e1a78f200e",
+  "accepted": "THEN DOWN A [1.3s_pause] GREAT IN WHITE",
+  "guard_reason": "accepted"
+}

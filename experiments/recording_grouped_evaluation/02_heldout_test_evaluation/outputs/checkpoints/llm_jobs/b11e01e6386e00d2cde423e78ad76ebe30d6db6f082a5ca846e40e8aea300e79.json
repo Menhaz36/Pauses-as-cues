@@ -1,0 +1,15 @@
+{
+  "job_hash": "b11e01e6386e00d2cde423e78ad76ebe30d6db6f082a5ca846e40e8aea300e79",
+  "recording": "M05_2_0049",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "THE ISLANDS [0.3s_pause] ARE SPICEDLY POPINATING",
+  "content": "THE ISLANDS [0.3s_pause] ARE SPICEDLY POPULATING",
+  "provider_id": "chatcmpl-013881ab-446e-432b-b91f-1f5926a81044",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_ca5edfaab2",
+  "accepted": "THE ISLANDS [0.3s_pause] ARE SPICEDLY POPULATING",
+  "guard_reason": "accepted"
+}

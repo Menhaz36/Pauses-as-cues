@@ -1,0 +1,15 @@
+{
+  "job_hash": "e114d6fde2a9efa69a435caad82a4d159672fc1f7c28e51320f36af6185130cc",
+  "recording": "M05_2_0274",
+  "arm": "hidden",
+  "region": 0,
+  "start": 2,
+  "end": 14,
+  "input_region": "OF CUTTING BACK SPENDING IS AN UNPLEASANT HORN FOR ANY JOKE TO",
+  "content": "IF CUTTING BACK SPENDING IS AN UNPLEASANT HORN FOR ANY JOKE TO",
+  "provider_id": "chatcmpl-7a1d67bb-aaa8-4af0-ab82-a3cf299a2e83",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4727af4560",
+  "accepted": "IF CUTTING BACK SPENDING IS AN UNPLEASANT HORN FOR ANY JOKE TO",
+  "guard_reason": "accepted"
+}

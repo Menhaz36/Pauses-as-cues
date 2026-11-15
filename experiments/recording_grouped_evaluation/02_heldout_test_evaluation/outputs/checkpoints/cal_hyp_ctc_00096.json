@@ -1,0 +1,640 @@
+[
+  {
+    "audio_name": "F04_2_headMic_0077.wav",
+    "recording": "F04_2_0077",
+    "speaker": "F04",
+    "reference": "sign",
+    "hypothesis": " Sign",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0090.wav",
+    "recording": "F04_2_0090",
+    "speaker": "F04",
+    "reference": "zero",
+    "hypothesis": " Zero",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0100.wav",
+    "recording": "F04_2_0100",
+    "speaker": "F04",
+    "reference": "six",
+    "hypothesis": " Sixh",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0115.wav",
+    "recording": "F04_2_0115",
+    "speaker": "F04",
+    "reference": "It also provides for funds to clear slums and help colleges build dormitories",
+    "hypothesis": " It also provides for farms to clear slums and help colleges build dormitories",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "IT",
+        "start": 1.921,
+        "end": 2.451,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.0
+      },
+      {
+        "word": "ALSO",
+        "start": 2.451,
+        "end": 2.841,
+        "duration": 0.39,
+        "pause_after": 0.0,
+        "confidence": -1.336
+      },
+      {
+        "word": "PROVIDES",
+        "start": 2.841,
+        "end": 3.342,
+        "duration": 0.5,
+        "pause_after": 0.0,
+        "confidence": -0.862
+      },
+      {
+        "word": "FOR",
+        "start": 3.342,
+        "end": 3.522,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -1.85
+      },
+      {
+        "word": "FARMS",
+        "start": 3.522,
+        "end": 3.962,
+        "duration": 0.44,
+        "pause_after": 0.0,
+        "confidence": -2.455
+      },
+      {
+        "word": "TO",
+        "start": 3.962,
+        "end": 4.172,
+        "duration": 0.21,
+        "pause_after": 0.0,
+        "confidence": -3.059
+      },
+      {
+        "word": "CLEAR",
+        "start": 4.172,
+        "end": 4.512,
+        "duration": 0.34,
+        "pause_after": 0.0,
+        "confidence": -0.572
+      },
+      {
+        "word": "SLUMS",
+        "start": 4.512,
+        "end": 5.203,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.409
+      },
+      {
+        "word": "AND",
+        "start": 5.203,
+        "end": 5.693,
+        "duration": 0.49,
+        "pause_after": 0.0,
+        "confidence": -1.07
+      },
+      {
+        "word": "HELP",
+        "start": 5.693,
+        "end": 5.973,
+        "duration": 0.28,
+        "pause_after": 0.0,
+        "confidence": -1.039
+      },
+      {
+        "word": "COLLEGES",
+        "start": 5.973,
+        "end": 7.554,
+        "duration": 1.581,
+        "pause_after": 0.0,
+        "confidence": -0.271
+      },
+      {
+        "word": "BUILD",
+        "start": 7.554,
+        "end": 7.974,
+        "duration": 0.42,
+        "pause_after": 0.0,
+        "confidence": -1.786
+      },
+      {
+        "word": "DORMITORIES",
+        "start": 7.974,
+        "end": 8.995,
+        "duration": 1.021,
+        "pause_after": null,
+        "confidence": -0.728
+      }
+    ]
+  },
+  {
+    "audio_name": "F04_2_headMic_0134.wav",
+    "recording": "F04_2_0134",
+    "speaker": "F04",
+    "reference": "witty",
+    "hypothesis": " witty",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0137.wav",
+    "recording": "F04_2_0137",
+    "speaker": "F04",
+    "reference": "written",
+    "hypothesis": "written",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0147.wav",
+    "recording": "F04_2_0147",
+    "speaker": "F04",
+    "reference": "It eventually became a rather proud claim",
+    "hypothesis": " It eventually became a rather proud claim",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "IT",
+        "start": 1.908,
+        "end": 2.438,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.0
+      },
+      {
+        "word": "EVENTUALLY",
+        "start": 2.438,
+        "end": 3.08,
+        "duration": 0.642,
+        "pause_after": 0.0,
+        "confidence": -0.657
+      },
+      {
+        "word": "BECAME",
+        "start": 3.08,
+        "end": 3.522,
+        "duration": 0.441,
+        "pause_after": 0.0,
+        "confidence": -1.039
+      },
+      {
+        "word": "A",
+        "start": 3.522,
+        "end": 3.652,
+        "duration": 0.13,
+        "pause_after": 0.0,
+        "confidence": -7.642
+      },
+      {
+        "word": "RATHER",
+        "start": 3.652,
+        "end": 4.164,
+        "duration": 0.512,
+        "pause_after": 0.0,
+        "confidence": -0.862
+      },
+      {
+        "word": "PROUD",
+        "start": 4.164,
+        "end": 4.736,
+        "duration": 0.572,
+        "pause_after": 0.0,
+        "confidence": -1.282
+      },
+      {
+        "word": "CLAIM",
+        "start": 4.736,
+        "end": 5.247,
+        "duration": 0.512,
+        "pause_after": null,
+        "confidence": -0.916
+      }
+    ]
+  },
+  {
+    "audio_name": "F04_2_headMic_0172.wav",
+    "recording": "F04_2_0172",
+    "speaker": "F04",
+    "reference": "Before Thursday's exam review every formula",
+    "hypothesis": " BEFORE Thursday's exam review every formula",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "BEFORE",
+        "start": 1.402,
+        "end": 2.332,
+        "duration": 0.93,
+        "pause_after": 0.0,
+        "confidence": -0.029
+      },
+      {
+        "word": "THURSDAY'S",
+        "start": 2.332,
+        "end": 3.003,
+        "duration": 0.671,
+        "pause_after": 0.0,
+        "confidence": -1.116
+      },
+      {
+        "word": "EXAM",
+        "start": 3.003,
+        "end": 3.453,
+        "duration": 0.45,
+        "pause_after": 0.0,
+        "confidence": -1.101
+      },
+      {
+        "word": "REVIEW",
+        "start": 3.453,
+        "end": 4.073,
+        "duration": 0.621,
+        "pause_after": 0.0,
+        "confidence": -0.521
+      },
+      {
+        "word": "EVERY",
+        "start": 4.073,
+        "end": 4.554,
+        "duration": 0.48,
+        "pause_after": 0.0,
+        "confidence": -0.983
+      },
+      {
+        "word": "FORMULA",
+        "start": 4.554,
+        "end": 5.234,
+        "duration": 0.681,
+        "pause_after": null,
+        "confidence": -0.464
+      }
+    ]
+  },
+  {
+    "audio_name": "F04_2_headMic_0209.wav",
+    "recording": "F04_2_0209",
+    "speaker": "F04",
+    "reference": "dread",
+    "hypothesis": " Dread",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0210.wav",
+    "recording": "F04_2_0210",
+    "speaker": "F04",
+    "reference": "shell",
+    "hypothesis": " shell",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0212.wav",
+    "recording": "F04_2_0212",
+    "speaker": "F04",
+    "reference": "knot",
+    "hypothesis": " knot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0220.wav",
+    "recording": "F04_2_0220",
+    "speaker": "F04",
+    "reference": "The pair of shoes was new",
+    "hypothesis": " The pair of shoes was new",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THE",
+        "start": 1.785,
+        "end": 2.375,
+        "duration": 0.59,
+        "pause_after": 0.0,
+        "confidence": -0.007
+      },
+      {
+        "word": "PAIR",
+        "start": 2.375,
+        "end": 2.636,
+        "duration": 0.261,
+        "pause_after": 0.0,
+        "confidence": -0.857
+      },
+      {
+        "word": "OF",
+        "start": 2.636,
+        "end": 2.796,
+        "duration": 0.16,
+        "pause_after": 0.0,
+        "confidence": -1.584
+      },
+      {
+        "word": "SHOES",
+        "start": 2.796,
+        "end": 3.267,
+        "duration": 0.471,
+        "pause_after": 0.0,
+        "confidence": -1.047
+      },
+      {
+        "word": "WAS",
+        "start": 3.267,
+        "end": 3.658,
+        "duration": 0.391,
+        "pause_after": 0.0,
+        "confidence": -2.297
+      },
+      {
+        "word": "NEW",
+        "start": 3.658,
+        "end": 3.989,
+        "duration": 0.331,
+        "pause_after": null,
+        "confidence": -1.742
+      }
+    ]
+  },
+  {
+    "audio_name": "F04_2_headMic_0233.wav",
+    "recording": "F04_2_0233",
+    "speaker": "F04",
+    "reference": "lock",
+    "hypothesis": " Lock",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "F04_2_headMic_0240.wav",
+    "recording": "F04_2_0240",
+    "speaker": "F04",
+    "reference": "right",
+    "hypothesis": " Right",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0018.wav",
+    "recording": "M01_1_0018",
+    "speaker": "M01",
+    "reference": "Well he is nearly ninetythree years old",
+    "hypothesis": " While he is nearly 90 years old",
+    "status": "unmappable_ctc_text",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0032.wav",
+    "recording": "M01_1_0032",
+    "speaker": "M01",
+    "reference": "share",
+    "hypothesis": " sheer",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0034.wav",
+    "recording": "M01_1_0034",
+    "speaker": "M01",
+    "reference": "chair",
+    "hypothesis": " chair",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0037.wav",
+    "recording": "M01_1_0037",
+    "speaker": "M01",
+    "reference": "hair",
+    "hypothesis": " there",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0071.wav",
+    "recording": "M01_1_0071",
+    "speaker": "M01",
+    "reference": "rage",
+    "hypothesis": " Rade",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0078.wav",
+    "recording": "M01_1_0078",
+    "speaker": "M01",
+    "reference": "storm",
+    "hypothesis": " Stone",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0085.wav",
+    "recording": "M01_1_0085",
+    "speaker": "M01",
+    "reference": "ship",
+    "hypothesis": " Sip",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0086.wav",
+    "recording": "M01_1_0086",
+    "speaker": "M01",
+    "reference": "down",
+    "hypothesis": " go",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_1_headMic_0089.wav",
+    "recording": "M01_1_0089",
+    "speaker": "M01",
+    "reference": "spark",
+    "hypothesis": " Seabrook",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0015.wav",
+    "recording": "M01_3_0015",
+    "speaker": "M01",
+    "reference": "swore",
+    "hypothesis": " swore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0025.wav",
+    "recording": "M01_3_0025",
+    "speaker": "M01",
+    "reference": "wish",
+    "hypothesis": " Wise",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0029.wav",
+    "recording": "M01_3_0029",
+    "speaker": "M01",
+    "reference": "I was conscious all the time",
+    "hypothesis": " I was candid all the time",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "I",
+        "start": 0.231,
+        "end": 0.491,
+        "duration": 0.261,
+        "pause_after": 0.0,
+        "confidence": -0.503
+      },
+      {
+        "word": "WAS",
+        "start": 0.491,
+        "end": 0.992,
+        "duration": 0.501,
+        "pause_after": 0.0,
+        "confidence": -0.515
+      },
+      {
+        "word": "CANDID",
+        "start": 0.992,
+        "end": 1.954,
+        "duration": 0.962,
+        "pause_after": 0.933,
+        "confidence": -0.356
+      },
+      {
+        "word": "ALL",
+        "start": 2.887,
+        "end": 3.518,
+        "duration": 0.63,
+        "pause_after": 0.0,
+        "confidence": -0.12
+      },
+      {
+        "word": "THE",
+        "start": 3.518,
+        "end": 3.999,
+        "duration": 0.481,
+        "pause_after": 0.0,
+        "confidence": -0.594
+      },
+      {
+        "word": "TIME",
+        "start": 3.999,
+        "end": 4.54,
+        "duration": 0.541,
+        "pause_after": null,
+        "confidence": -0.69
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0044.wav",
+    "recording": "M01_3_0044",
+    "speaker": "M01",
+    "reference": "back",
+    "hypothesis": " Bike",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0050.wav",
+    "recording": "M01_3_0050",
+    "speaker": "M01",
+    "reference": "suit",
+    "hypothesis": " suit",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0060.wav",
+    "recording": "M01_3_0060",
+    "speaker": "M01",
+    "reference": "error",
+    "hypothesis": " there",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0078.wav",
+    "recording": "M01_3_0078",
+    "speaker": "M01",
+    "reference": "She is thinner than I am",
+    "hypothesis": " Leaves seem to be nice",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "LEAVES",
+        "start": 0.181,
+        "end": 1.459,
+        "duration": 1.278,
+        "pause_after": 0.0,
+        "confidence": -0.736
+      },
+      {
+        "word": "SEEM",
+        "start": 1.459,
+        "end": 1.77,
+        "duration": 0.312,
+        "pause_after": 0.0,
+        "confidence": -1.674
+      },
+      {
+        "word": "TO",
+        "start": 1.77,
+        "end": 1.962,
+        "duration": 0.191,
+        "pause_after": 0.0,
+        "confidence": -1.631
+      },
+      {
+        "word": "BE",
+        "start": 1.962,
+        "end": 2.283,
+        "duration": 0.322,
+        "pause_after": 0.0,
+        "confidence": -0.159
+      },
+      {
+        "word": "NICE",
+        "start": 2.283,
+        "end": 2.947,
+        "duration": 0.664,
+        "pause_after": null,
+        "confidence": -0.612
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0082.wav",
+    "recording": "M01_3_0082",
+    "speaker": "M01",
+    "reference": "snoop",
+    "hypothesis": " Snoop",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0089.wav",
+    "recording": "M01_3_0089",
+    "speaker": "M01",
+    "reference": "floor",
+    "hypothesis": " floor",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

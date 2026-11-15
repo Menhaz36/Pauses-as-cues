@@ -1,0 +1,15 @@
+{
+  "job_hash": "57625a0042c55324b64985fc9efc3a950e968ca2af146a45f0be9447e40b4dee",
+  "recording": "M02_2_0128",
+  "arm": "visible",
+  "region": 0,
+  "start": 3,
+  "end": 11,
+  "input_region": "SINCE THE LEFT GEM [0.4s_pause] WE WILL BE ABLE",
+  "content": "SINCE THE LEFT LEG [0.4s_pause] WE WILL BE ABLE",
+  "provider_id": "chatcmpl-f0c886a4-5dac-4d41-93b4-ab8f7483abfc",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "SINCE THE LEFT LEG [0.4s_pause] WE WILL BE ABLE",
+  "guard_reason": "accepted"
+}

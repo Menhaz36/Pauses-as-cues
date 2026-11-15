@@ -1,0 +1,15 @@
+{
+  "job_hash": "f9cf749001b0b576c2b8f61fe85e231588f5a9f43e2fef2c7fab1b7401959a9a",
+  "recording": "M04_2_0052",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 3,
+  "input_region": "UDREME SUBELM BUN",
+  "content": "EXTREME SUBELM BUN",
+  "provider_id": "chatcmpl-c88c1164-8c6c-42e5-9cf3-b99ff24e5b67",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8ea50c0161",
+  "accepted": "EXTREME SUBELM BUN",
+  "guard_reason": "accepted"
+}

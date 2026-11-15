@@ -1,0 +1,15 @@
+{
+  "job_hash": "29ef5139dd34825d8aa144275c757df4e2f17bbd1e403e696acbdbba0e5aa131",
+  "recording": "M05_2_0026",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "MY SISTER MADE [0.4s_pause] THAT FLOWER WITH CURTAINS",
+  "content": "MY SISTER MADE [0.4s_pause] THAT FLOWER WITH CURTAINS",
+  "provider_id": "chatcmpl-db3f36d6-60cd-402f-9399-8ee1912b883a",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_4140daa9c2",
+  "accepted": "MY SISTER MADE [0.4s_pause] THAT FLOWER WITH CURTAINS",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "e2203b7611306ef863448520397b28c66627a2f6b7b07b4f941dbf87001953ff",
+  "recording": "M04_2_0219",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "BOTH TREES WOULD GO HIGHER IN THE NEAR",
+  "content": "BOTH TREES WOULD GROW HIGHER IN THE NEAR",
+  "provider_id": "chatcmpl-984e1b59-8024-4157-959d-0a91494c4cb7",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_64b2f1c926",
+  "accepted": "BOTH TREES WOULD GROW HIGHER IN THE NEAR",
+  "guard_reason": "accepted"
+}

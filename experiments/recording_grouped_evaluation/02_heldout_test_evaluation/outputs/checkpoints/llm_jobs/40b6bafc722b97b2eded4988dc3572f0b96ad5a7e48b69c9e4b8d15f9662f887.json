@@ -1,0 +1,15 @@
+{
+  "job_hash": "40b6bafc722b97b2eded4988dc3572f0b96ad5a7e48b69c9e4b8d15f9662f887",
+  "recording": "M05_2_0385",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "WHEN [0.5s_pause] THE LAWYERS LOVE MILLION",
+  "content": "WHEN [0.5s_pause] THE LAWYERS LOVE MILLION",
+  "provider_id": "chatcmpl-f5d8aaa4-169e-4545-9c36-ca3aa44157aa",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_bb691ea66b",
+  "accepted": "WHEN [0.5s_pause] THE LAWYERS LOVE MILLION",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,15 @@
+{
+  "job_hash": "84dae9a6024f860a7ebf7ac9ba5a5c439465d51af2a9e0a0160c118cb30644d9",
+  "recording": "M05_2_0274",
+  "arm": "visible",
+  "region": 0,
+  "start": 2,
+  "end": 14,
+  "input_region": "OF CUTTING BACK SPENDING [0.9s_pause] IS AN [0.5s_pause] UNPLEASANT HORN [0.6s_pause] FOR ANY JOKE TO",
+  "content": "IF CUTTING BACK SPENDING [0.9s_pause] IS AN [0.5s_pause] UNPLEASANT HORN [0.6s_pause] FOR ANY JOKE TO",
+  "provider_id": "chatcmpl-68e8e3d1-c8bf-4fd6-b16c-eaadb980ad48",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_86dc843b12",
+  "accepted": "IF CUTTING BACK SPENDING [0.9s_pause] IS AN [0.5s_pause] UNPLEASANT HORN [0.6s_pause] FOR ANY JOKE TO",
+  "guard_reason": "accepted"
+}

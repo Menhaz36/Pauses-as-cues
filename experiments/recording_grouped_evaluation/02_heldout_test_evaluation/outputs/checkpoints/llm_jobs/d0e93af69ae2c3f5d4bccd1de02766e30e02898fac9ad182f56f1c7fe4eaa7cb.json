@@ -1,0 +1,15 @@
+{
+  "job_hash": "d0e93af69ae2c3f5d4bccd1de02766e30e02898fac9ad182f56f1c7fe4eaa7cb",
+  "recording": "M04_1_0012",
+  "arm": "random",
+  "region": 0,
+  "start": 0,
+  "end": 14,
+  "input_region": "TWISTEDES HE IS [1.7s_pause] PLAYING [0.4s_pause] SUITABLY [0.8s_pause] AS HE WENT TO THE [1.2s_pause] UPPER OF OUR ULTIMATE",
+  "content": "TWISTED HE IS [1.7s_pause] PLAYING [0.4s_pause] SUITABLY [0.8s_pause] AS HE WENT TO THE [1.2s_pause] UPPER OF OUR ULTIMATE",
+  "provider_id": "chatcmpl-0c387e3c-1009-417b-9726-1a7115627cbd",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_02b0d31eca",
+  "accepted": "TWISTED HE IS [1.7s_pause] PLAYING [0.4s_pause] SUITABLY [0.8s_pause] AS HE WENT TO THE [1.2s_pause] UPPER OF OUR ULTIMATE",
+  "guard_reason": "accepted"
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "audio_name": "M01_3_headMic_0101.wav",
+    "recording": "M01_3_0101",
+    "speaker": "M01",
+    "reference": "knot",
+    "hypothesis": " not",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0105.wav",
+    "recording": "M01_3_0105",
+    "speaker": "M01",
+    "reference": "This was easy for us",
+    "hypothesis": " Did what easy for us",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "DID",
+        "start": 0.191,
+        "end": 0.683,
+        "duration": 0.492,
+        "pause_after": 0.0,
+        "confidence": -0.216
+      },
+      {
+        "word": "WHAT",
+        "start": 0.683,
+        "end": 1.154,
+        "duration": 0.472,
+        "pause_after": 0.0,
+        "confidence": -0.527
+      },
+      {
+        "word": "EASY",
+        "start": 1.154,
+        "end": 1.777,
+        "duration": 0.622,
+        "pause_after": 0.0,
+        "confidence": -0.381
+      },
+      {
+        "word": "FOR",
+        "start": 1.777,
+        "end": 2.248,
+        "duration": 0.472,
+        "pause_after": 0.0,
+        "confidence": -0.265
+      },
+      {
+        "word": "US",
+        "start": 2.248,
+        "end": 2.7,
+        "duration": 0.452,
+        "pause_after": null,
+        "confidence": -0.482
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0106.wav",
+    "recording": "M01_3_0106",
+    "speaker": "M01",
+    "reference": "single",
+    "hypothesis": " single",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0111.wav",
+    "recording": "M01_3_0111",
+    "speaker": "M01",
+    "reference": "If you destroy confidence in banks you do something to the economy he said",
+    "hypothesis": " If you destroy confidence in bed you will do something to take common he lets",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "IF",
+        "start": 0.27,
+        "end": 0.631,
+        "duration": 0.361,
+        "pause_after": 0.0,
+        "confidence": -0.21
+      },
+      {
+        "word": "YOU",
+        "start": 0.631,
+        "end": 1.052,
+        "duration": 0.421,
+        "pause_after": 0.532,
+        "confidence": -0.148
+      },
+      {
+        "word": "DESTROY",
+        "start": 1.583,
+        "end": 2.894,
+        "duration": 1.311,
+        "pause_after": 0.0,
+        "confidence": -0.748
+      },
+      {
+        "word": "CONFIDENCE",
+        "start": 2.894,
+        "end": 4.677,
+        "duration": 1.783,
+        "pause_after": 0.0,
+        "confidence": -0.522
+      },
+      {
+        "word": "IN",
+        "start": 4.677,
+        "end": 4.917,
+        "duration": 0.24,
+        "pause_after": 0.0,
+        "confidence": -0.247
+      },
+      {
+        "word": "BED",
+        "start": 4.917,
+        "end": 5.538,
+        "duration": 0.621,
+        "pause_after": 1.193,
+        "confidence": -0.344
+      },
+      {
+        "word": "YOU",
+        "start": 6.731,
+        "end": 7.461,
+        "duration": 0.73,
+        "pause_after": 0.0,
+        "confidence": -0.088
+      },
+      {
+        "word": "WILL",
+        "start": 7.461,
+        "end": 7.942,
+        "duration": 0.481,
+        "pause_after": 0.0,
+        "confidence": -0.638
+      },
+      {
+        "word": "DO",
+        "start": 7.942,
+        "end": 8.162,
+        "duration": 0.22,
+        "pause_after": 0.251,
+        "confidence": -0.812
+      },
+      {
+        "word": "SOMETHING",
+        "start": 8.413,
+        "end": 9.905,
+        "duration": 1.491,
+        "pause_after": 0.0,
+        "confidence": -0.806
+      },
+      {
+        "word": "TO",
+        "start": 9.905,
+        "end": 10.265,
+        "duration": 0.361,
+        "pause_after": 0.872,
+        "confidence": -0.573
+      },
+      {
+        "word": "TAKE",
+        "start": 11.137,
+        "end": 12.008,
+        "duration": 0.871,
+        "pause_after": 0.0,
+        "confidence": -0.426
+      },
+      {
+        "word": "COMMON",
+        "start": 12.008,
+        "end": 12.929,
+        "duration": 0.921,
+        "pause_after": 1.092,
+        "confidence": -0.275
+      },
+      {
+        "word": "HE",
+        "start": 14.022,
+        "end": 14.672,
+        "duration": 0.65,
+        "pause_after": 0.0,
+        "confidence": -0.009
+      },
+      {
+        "word": "LETS",
+        "start": 14.672,
+        "end": 15.233,
+        "duration": 0.561,
+        "pause_after": null,
+        "confidence": -0.315
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0161.wav",
+    "recording": "M01_3_0161",
+    "speaker": "M01",
+    "reference": "sigh",
+    "hypothesis": " sigh",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0170.wav",
+    "recording": "M01_3_0170",
+    "speaker": "M01",
+    "reference": "at",
+    "hypothesis": " Add",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0173.wav",
+    "recording": "M01_3_0173",
+    "speaker": "M01",
+    "reference": "We rode horseback to the farm",
+    "hypothesis": " We erod our packages apart",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WE",
+        "start": 0.14,
+        "end": 0.411,
+        "duration": 0.271,
+        "pause_after": 0.0,
+        "confidence": -0.234
+      },
+      {
+        "word": "EROD",
+        "start": 0.411,
+        "end": 1.114,
+        "duration": 0.702,
+        "pause_after": 0.0,
+        "confidence": -0.396
+      },
+      {
+        "word": "OUR",
+        "start": 1.114,
+        "end": 1.515,
+        "duration": 0.401,
+        "pause_after": 0.0,
+        "confidence": -0.562
+      },
+      {
+        "word": "PACKAGES",
+        "start": 1.515,
+        "end": 2.358,
+        "duration": 0.843,
+        "pause_after": 0.0,
+        "confidence": -0.84
+      },
+      {
+        "word": "APART",
+        "start": 2.358,
+        "end": 2.639,
+        "duration": 0.281,
+        "pause_after": null,
+        "confidence": -1.656
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0204.wav",
+    "recording": "M01_3_0204",
+    "speaker": "M01",
+    "reference": "thorn",
+    "hypothesis": " Zorn",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0206.wav",
+    "recording": "M01_3_0206",
+    "speaker": "M01",
+    "reference": "When all else fails use force",
+    "hypothesis": " When I always feel you would push",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WHEN",
+        "start": 0.643,
+        "end": 1.453,
+        "duration": 0.811,
+        "pause_after": 0.0,
+        "confidence": -0.207
+      },
+      {
+        "word": "I",
+        "start": 1.453,
+        "end": 1.554,
+        "duration": 0.1,
+        "pause_after": 0.0,
+        "confidence": -1.346
+      },
+      {
+        "word": "ALWAYS",
+        "start": 1.554,
+        "end": 2.937,
+        "duration": 1.383,
+        "pause_after": 0.0,
+        "confidence": -0.419
+      },
+      {
+        "word": "FEEL",
+        "start": 2.937,
+        "end": 3.599,
+        "duration": 0.662,
+        "pause_after": 0.192,
+        "confidence": -0.614
+      },
+      {
+        "word": "YOU",
+        "start": 3.79,
+        "end": 4.481,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.165
+      },
+      {
+        "word": "WOULD",
+        "start": 4.481,
+        "end": 4.922,
+        "duration": 0.441,
+        "pause_after": 0.0,
+        "confidence": -0.544
+      },
+      {
+        "word": "PUSH",
+        "start": 4.922,
+        "end": 5.764,
+        "duration": 0.842,
+        "pause_after": null,
+        "confidence": -0.29
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0220.wav",
+    "recording": "M01_3_0220",
+    "speaker": "M01",
+    "reference": "november",
+    "hypothesis": " November",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0224.wav",
+    "recording": "M01_3_0224",
+    "speaker": "M01",
+    "reference": "top",
+    "hypothesis": " top",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0229.wav",
+    "recording": "M01_3_0229",
+    "speaker": "M01",
+    "reference": "mitten",
+    "hypothesis": " Rating",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0236.wav",
+    "recording": "M01_3_0236",
+    "speaker": "M01",
+    "reference": "part",
+    "hypothesis": " BART",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0238.wav",
+    "recording": "M01_3_0238",
+    "speaker": "M01",
+    "reference": "spark",
+    "hypothesis": " support",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0241.wav",
+    "recording": "M01_3_0241",
+    "speaker": "M01",
+    "reference": "kilo",
+    "hypothesis": " Keelow",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0254.wav",
+    "recording": "M01_3_0254",
+    "speaker": "M01",
+    "reference": "Students watched as he got out",
+    "hypothesis": " Dozens was as he climbed him",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "DOZENS",
+        "start": 0.15,
+        "end": 0.551,
+        "duration": 0.401,
+        "pause_after": 0.0,
+        "confidence": -1.33
+      },
+      {
+        "word": "WAS",
+        "start": 0.551,
+        "end": 0.731,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -1.366
+      },
+      {
+        "word": "AS",
+        "start": 0.731,
+        "end": 0.852,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -1.755
+      },
+      {
+        "word": "HE",
+        "start": 0.852,
+        "end": 0.972,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -2.761
+      },
+      {
+        "word": "CLIMBED",
+        "start": 0.972,
+        "end": 1.473,
+        "duration": 0.501,
+        "pause_after": 0.0,
+        "confidence": -1.326
+      },
+      {
+        "word": "HIM",
+        "start": 1.473,
+        "end": 1.673,
+        "duration": 0.2,
+        "pause_after": null,
+        "confidence": -1.979
+      }
+    ]
+  },
+  {
+    "audio_name": "M01_3_headMic_0263.wav",
+    "recording": "M01_3_0263",
+    "speaker": "M01",
+    "reference": "city",
+    "hypothesis": " Shaded",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0265.wav",
+    "recording": "M01_3_0265",
+    "speaker": "M01",
+    "reference": "him",
+    "hypothesis": " him",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M01_3_headMic_0278.wav",
+    "recording": "M01_3_0278",
+    "speaker": "M01",
+    "reference": "Both injuries were to the same leg",
+    "hypothesis": " Boards injuries were due to the shamefully",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "BOARDS",
+        "start": 0.27,
+        "end": 1.051,
+        "duration": 0.781,
+        "pause_after": 0.0,
+        "confidence": -0.369
+      },
+      {
+        "word": "INJURIES",
+        "start": 1.051,
+        "end": 2.092,
+        "duration": 1.041,
+        "pause_after": 0.0,
+        "confidence": -0.752
+      },
+      {
+        "word": "WERE",
+        "start": 2.092,
+        "end": 2.653,
+        "duration": 0.561,
+        "pause_after": 0.0,
+        "confidence": -0.92
+      },
+      {
+        "word": "DUE",
+        "start": 2.653,
+        "end": 2.733,
+        "duration": 0.08,
+        "pause_after": 0.0,
+        "confidence": -6.382
+      },
+      {
+        "word": "TO",
+        "start": 2.733,
+        "end": 2.994,
+        "duration": 0.26,
+        "pause_after": 0.0,
+        "confidence": -0.859
+      },
+      {
+        "word": "THE",
+        "start": 2.994,
+        "end": 3.374,
+        "duration": 0.38,
+        "pause_after": 0.0,
+        "confidence": -0.303
+      },
+      {
+        "word": "SHAMEFULLY",
+        "start": 3.374,
+        "end": 5.456,
+        "duration": 2.082,
+        "pause_after": null,
+        "confidence": -0.746
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_1_headMic_0009.wav",
+    "recording": "M02_1_0009",
+    "speaker": "M02",
+    "reference": "pat",
+    "hypothesis": " pot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0017.wav",
+    "recording": "M02_1_0017",
+    "speaker": "M02",
+    "reference": "feet",
+    "hypothesis": " Feet",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0039.wav",
+    "recording": "M02_1_0039",
+    "speaker": "M02",
+    "reference": "sticks",
+    "hypothesis": " Steak",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0062.wav",
+    "recording": "M02_1_0062",
+    "speaker": "M02",
+    "reference": "When he speaks his voice is just a bit cracked and quivers a trifle",
+    "hypothesis": " When he spoofed his voices to the big cry and creed him like trifle",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WHEN",
+        "start": 1.101,
+        "end": 1.801,
+        "duration": 0.7,
+        "pause_after": 0.0,
+        "confidence": -0.003
+      },
+      {
+        "word": "HE",
+        "start": 1.801,
+        "end": 2.212,
+        "duration": 0.41,
+        "pause_after": 0.0,
+        "confidence": -0.526
+      },
+      {
+        "word": "SPOOFED",
+        "start": 2.212,
+        "end": 3.172,
+        "duration": 0.961,
+        "pause_after": 0.231,
+        "confidence": -0.433
+      },
+      {
+        "word": "HIS",
+        "start": 3.403,
+        "end": 4.173,
+        "duration": 0.77,
+        "pause_after": 0.0,
+        "confidence": -0.066
+      },
+      {
+        "word": "VOICES",
+        "start": 4.173,
+        "end": 5.254,
+        "duration": 1.081,
+        "pause_after": 0.0,
+        "confidence": -0.117
+      },
+      {
+        "word": "TO",
+        "start": 5.254,
+        "end": 5.734,
+        "duration": 0.48,
+        "pause_after": 0.0,
+        "confidence": -0.518
+      },
+      {
+        "word": "THE",
+        "start": 5.734,
+        "end": 6.755,
+        "duration": 1.021,
+        "pause_after": 0.0,
+        "confidence": -0.554
+      },
+      {
+        "word": "BIG",
+        "start": 6.755,
+        "end": 7.135,
+        "duration": 0.38,
+        "pause_after": 0.0,
+        "confidence": -0.298
+      },
+      {
+        "word": "CRY",
+        "start": 7.135,
+        "end": 7.895,
+        "duration": 0.761,
+        "pause_after": 1.431,
+        "confidence": -0.382
+      },
+      {
+        "word": "AND",
+        "start": 9.327,
+        "end": 9.927,
+        "duration": 0.6,
+        "pause_after": 0.0,
+        "confidence": -0.029
+      },
+      {
+        "word": "CREED",
+        "start": 9.927,
+        "end": 11.078,
+        "duration": 1.151,
+        "pause_after": 0.0,
+        "confidence": -0.928
+      },
+      {
+        "word": "HIM",
+        "start": 11.078,
+        "end": 11.198,
+        "duration": 0.12,
+        "pause_after": 0.0,
+        "confidence": -4.937
+      },
+      {
+        "word": "LIKE",
+        "start": 11.198,
+        "end": 11.628,
+        "duration": 0.43,
+        "pause_after": 0.0,
+        "confidence": -0.105
+      },
+      {
+        "word": "TRIFLE",
+        "start": 11.628,
+        "end": 12.739,
+        "duration": 1.111,
+        "pause_after": null,
+        "confidence": -0.28
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_1_headMic_0085.wav",
+    "recording": "M02_1_0085",
+    "speaker": "M02",
+    "reference": "fee",
+    "hypothesis": " Foe",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0102.wav",
+    "recording": "M02_1_0102",
+    "speaker": "M02",
+    "reference": "air",
+    "hypothesis": " error",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0113.wav",
+    "recording": "M02_1_0113",
+    "speaker": "M02",
+    "reference": "corn",
+    "hypothesis": " corn",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0129.wav",
+    "recording": "M02_1_0129",
+    "speaker": "M02",
+    "reference": "side",
+    "hypothesis": " Slide",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0135.wav",
+    "recording": "M02_1_0135",
+    "speaker": "M02",
+    "reference": "Why yell or worry over silly items",
+    "hypothesis": " Why you have a volume of it's silly items",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WHY",
+        "start": 0.684,
+        "end": 1.555,
+        "duration": 0.871,
+        "pause_after": 0.0,
+        "confidence": -0.02
+      },
+      {
+        "word": "YOU",
+        "start": 1.555,
+        "end": 1.746,
+        "duration": 0.191,
+        "pause_after": 0.0,
+        "confidence": -3.166
+      },
+      {
+        "word": "HAVE",
+        "start": 1.746,
+        "end": 2.488,
+        "duration": 0.742,
+        "pause_after": 0.142,
+        "confidence": -0.426
+      },
+      {
+        "word": "A",
+        "start": 2.63,
+        "end": 3.14,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.001
+      },
+      {
+        "word": "VOLUME",
+        "start": 3.14,
+        "end": 3.742,
+        "duration": 0.602,
+        "pause_after": 0.0,
+        "confidence": -0.742
+      },
+      {
+        "word": "OF",
+        "start": 3.742,
+        "end": 4.163,
+        "duration": 0.421,
+        "pause_after": 0.0,
+        "confidence": -0.284
+      },
+      {
+        "word": "IT'S",
+        "start": 4.163,
+        "end": 4.404,
+        "duration": 0.241,
+        "pause_after": 0.152,
+        "confidence": -3.076
+      },
+      {
+        "word": "SILLY",
+        "start": 4.556,
+        "end": 5.467,
+        "duration": 0.911,
+        "pause_after": 0.0,
+        "confidence": -0.212
+      },
+      {
+        "word": "ITEMS",
+        "start": 5.467,
+        "end": 6.31,
+        "duration": 0.843,
+        "pause_after": null,
+        "confidence": -0.626
+      }
+    ]
+  },
+  {
+    "audio_name": "M02_1_headMic_0139.wav",
+    "recording": "M02_1_0139",
+    "speaker": "M02",
+    "reference": "write",
+    "hypothesis": " right",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0161.wav",
+    "recording": "M02_1_0161",
+    "speaker": "M02",
+    "reference": "mut",
+    "hypothesis": " not",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0182.wav",
+    "recording": "M02_1_0182",
+    "speaker": "M02",
+    "reference": "galore",
+    "hypothesis": " galore",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M02_1_headMic_0187.wav",
+    "recording": "M02_1_0187",
+    "speaker": "M02",
+    "reference": "wish",
+    "hypothesis": " Worf",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "job_hash": "d012fa3dcb37d3b5684e8e4c88cf418cdd3590d15590bca9ebc0f8859f7fec18",
+  "recording": "M04_2_0194",
+  "arm": "random",
+  "region": 1,
+  "start": 7,
+  "end": 15,
+  "input_region": "YOU DO SOMETHING TO [1.0s_pause] DIE A COMPROMISE HE",
+  "content": "YOU DO SOMETHING TO [1.0s_pause] DIE A COMPROMISE HE",
+  "provider_id": "chatcmpl-b66e66a9-3f7c-4828-9301-c07e32f9803e",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_93703442d9",
+  "accepted": "YOU DO SOMETHING TO [1.0s_pause] DIE A COMPROMISE HE",
+  "guard_reason": "accepted"
+}

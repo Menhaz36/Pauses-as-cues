@@ -1,0 +1,39 @@
+{
+  "protocol": "57c51b7fd2d94847c0b85137184e45b507e5d004358e98b2b313d4c95033f4d2",
+  "workflow": "fresh-hub-step800-v1",
+  "input_digests": {
+    "split_manifest.csv": "c89bf6a4d688fe2f79a4b8e09e4d747a35bccea8862866c83836136dd46e13fe",
+    "split_audit.json": "ce2afe3f35197704e48d03555cfa481253ee97e690814a3a6a68d00f26b219fa",
+    "training_summary.json": "6445a824128964720c6a9420d74f3c404bc7e669542d93de76451a2816ce070b",
+    "validation_history.csv": "1d820225aa4cf2959b0556e4c8f6e092c2c4d6bad67f654f9b07293ccafef9a1",
+    "asr_validation_predictions.csv": "2a3db4b02c6971e85e0f5d41a00318e19715998ebf0f7eb64bba126565c8001e",
+    "pause_calibration_predictions.csv": "00295ecf4295bfdf698e898ea7f269a6a969d5bd5760f6271f525893d41922be"
+  },
+  "model_repo": "Menhaz/whisper-tiny-torgo-grouped-iciss",
+  "model_revision": "958b6c10786e6cf8e6f1dae03ad1db5d407c3339",
+  "run_id": "20261112T053554Z_7b6c322ff5",
+  "mode": "full",
+  "run_correction": true,
+  "seed": 0,
+  "batch": 8,
+  "versions": {
+    "torch": "2.11.0+cu130",
+    "transformers": "4.57.6",
+    "ctc-segmentation": "1.7.4",
+    "jiwer": "4.0.0",
+    "numpy": "2.1.3",
+    "pandas": "2.3.3",
+    "pyarrow": "23.0.1"
+  },
+  "hardware": "Tesla T4",
+  "config": {
+    "PROMPT_EXAMPLES": "neutral",
+    "MAX_ABS_EDITS": 2,
+    "MAX_EDIT_RATIO": 0.4,
+    "LLM_K": 4,
+    "LLM_MODEL": "openai/gpt-oss-120b",
+    "RANDOM_SEARCH_LIMIT": 20000
+  },
+  "n_boot": 5000,
+  "n_perm": 2000
+}

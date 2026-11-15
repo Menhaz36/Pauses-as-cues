@@ -1,0 +1,15 @@
+{
+  "job_hash": "0719b91dee2f998e7fe04e84e2a60a452482b162cf682dcab4243d3877382881",
+  "recording": "M05_2_0365",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 10,
+  "input_region": "IT'S FUN TO ROAST MY MARSHMALLOWS ON A GAS BURNER",
+  "content": "IT'S FUN TO ROAST MY MARSHMALLOWS ON A GAS BURNER",
+  "provider_id": "chatcmpl-46496452-b43b-4a2c-a0d6-853e87675741",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_6fb4303df4",
+  "accepted": "IT'S FUN TO ROAST MY MARSHMALLOWS ON A GAS BURNER",
+  "guard_reason": "accepted"
+}

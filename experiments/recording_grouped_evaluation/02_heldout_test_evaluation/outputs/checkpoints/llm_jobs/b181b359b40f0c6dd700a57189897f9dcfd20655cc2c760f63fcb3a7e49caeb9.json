@@ -1,0 +1,15 @@
+{
+  "job_hash": "b181b359b40f0c6dd700a57189897f9dcfd20655cc2c760f63fcb3a7e49caeb9",
+  "recording": "F04_1_0147",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 5,
+  "input_region": "MOTHER'S SOZY YELLOW KINGHAM APERN",
+  "content": "MOTHER'S SOZY YELLOW KINGDOM APRON",
+  "provider_id": "chatcmpl-461e249d-2137-4b92-b3f6-7911c6c94077",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_5a93aea882",
+  "accepted": "MOTHER'S SOZY YELLOW KINGDOM APRON",
+  "guard_reason": "accepted"
+}

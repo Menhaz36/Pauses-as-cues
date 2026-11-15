@@ -1,0 +1,15 @@
+{
+  "job_hash": "d709169b134f42bd96b5a5e309737728534a69cd76707a1ad10d13f608ff3a23",
+  "recording": "M04_2_0219",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 8,
+  "input_region": "BOTH TREES [0.7s_pause] WOULD [0.4s_pause] GO [1.7s_pause] HIGHER IN THE NEAR",
+  "content": "BOTH TREES [0.7s_pause] WOULD [0.4s_pause] GO [1.7s_pause] HIGHER IN THE NEAR",
+  "provider_id": "chatcmpl-78e96c00-2f83-4b0c-9358-40fdc2b52208",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "BOTH TREES [0.7s_pause] WOULD [0.4s_pause] GO [1.7s_pause] HIGHER IN THE NEAR",
+  "guard_reason": "accepted"
+}

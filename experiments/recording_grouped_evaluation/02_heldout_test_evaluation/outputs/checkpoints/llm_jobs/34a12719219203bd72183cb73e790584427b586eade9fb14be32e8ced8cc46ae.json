@@ -1,0 +1,15 @@
+{
+  "job_hash": "34a12719219203bd72183cb73e790584427b586eade9fb14be32e8ced8cc46ae",
+  "recording": "M05_2_0243",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 7,
+  "input_region": "NIGHT ASK TONIGHT [0.6s_pause] THEY RECEIVED A KNOWING",
+  "content": "NIGHT SKY TONIGHT [0.6s_pause] THEY RECEIVED A KNOWING",
+  "provider_id": "chatcmpl-5c1133c7-c9f8-44b8-8bd3-4a7afaf7224f",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c3da0d4bb9",
+  "accepted": "NIGHT SKY TONIGHT [0.6s_pause] THEY RECEIVED A KNOWING",
+  "guard_reason": "accepted"
+}

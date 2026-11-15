@@ -1,0 +1,9 @@
+System,Speakers,n,Ref. words,WER (%),CER (%),MER (%),source
+Zero-shot Whisper-tiny,All,1815,4532,45.34,29.22,39.83,"asr_accuracy.csv [zero_shot, all, norm_del]"
+Zero-shot Whisper-tiny,Dysarthric,624,1545,88.41,64.15,65.39,"asr_accuracy.csv [zero_shot, dysarthria, norm_del]"
+Zero-shot Whisper-tiny,Healthy,1191,2987,23.07,11.29,22.44,"asr_accuracy.csv [zero_shot, healthy, norm_del]"
+Fine-tuned Whisper-tiny,All,1815,4532,32.11,19.57,29.13,"asr_accuracy.csv [asr, all, norm_del]"
+Fine-tuned Whisper-tiny,Dysarthric,624,1545,50.16,30.56,45.94,"asr_accuracy.csv [asr, dysarthria, norm_del]"
+Fine-tuned Whisper-tiny,Healthy,1191,2987,22.77,13.93,20.56,"asr_accuracy.csv [asr, healthy, norm_del]"
++ pause-guided LLM (0.30 s),All,1815,4532,31.93,19.47,29.02,"llm_arm_summary.csv [all, whole, visible]"
++ pause-guided LLM (0.30 s),Dysarthric,624,1545,49.64,30.24,45.65,"llm_arm_summary.csv [dysarthria, whole, visible]"

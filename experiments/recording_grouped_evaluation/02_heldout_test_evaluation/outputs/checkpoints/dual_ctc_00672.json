@@ -1,0 +1,1160 @@
+[
+  {
+    "audio_name": "FC03_3_headMic_0139.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "THE",
+          "start": 0.371,
+          "end": 0.833,
+          "duration": 0.461,
+          "pause_after": 0.0,
+          "confidence": -0.001
+        },
+        {
+          "word": "FAMILY",
+          "start": 0.833,
+          "end": 1.294,
+          "duration": 0.461,
+          "pause_after": 0.0,
+          "confidence": -0.471
+        },
+        {
+          "word": "REQUESTS",
+          "start": 1.294,
+          "end": 1.966,
+          "duration": 0.672,
+          "pause_after": 0.0,
+          "confidence": -1.146
+        },
+        {
+          "word": "THAT",
+          "start": 1.966,
+          "end": 2.498,
+          "duration": 0.532,
+          "pause_after": 0.0,
+          "confidence": -1.066
+        },
+        {
+          "word": "FLOWERS",
+          "start": 2.498,
+          "end": 2.999,
+          "duration": 0.502,
+          "pause_after": 0.0,
+          "confidence": -0.867
+        },
+        {
+          "word": "BE",
+          "start": 2.999,
+          "end": 3.2,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -3.204
+        },
+        {
+          "word": "OMITTED",
+          "start": 3.2,
+          "end": 3.701,
+          "duration": 0.502,
+          "pause_after": null,
+          "confidence": -0.689
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "THE",
+          "start": 0.371,
+          "end": 0.833,
+          "duration": 0.461,
+          "pause_after": 0.0,
+          "confidence": -0.001
+        },
+        {
+          "word": "FAMILY",
+          "start": 0.833,
+          "end": 1.294,
+          "duration": 0.461,
+          "pause_after": 0.0,
+          "confidence": -0.471
+        },
+        {
+          "word": "REQUESTS",
+          "start": 1.294,
+          "end": 1.966,
+          "duration": 0.672,
+          "pause_after": 0.0,
+          "confidence": -1.146
+        },
+        {
+          "word": "THAT",
+          "start": 1.966,
+          "end": 2.498,
+          "duration": 0.532,
+          "pause_after": 0.0,
+          "confidence": -1.066
+        },
+        {
+          "word": "FLOWERS",
+          "start": 2.498,
+          "end": 2.999,
+          "duration": 0.502,
+          "pause_after": 0.0,
+          "confidence": -0.867
+        },
+        {
+          "word": "BE",
+          "start": 2.999,
+          "end": 3.2,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -3.204
+        },
+        {
+          "word": "OMITTED",
+          "start": 3.2,
+          "end": 3.701,
+          "duration": 0.502,
+          "pause_after": null,
+          "confidence": -0.689
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0159.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0162.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "REGULAR",
+          "start": 0.271,
+          "end": 0.923,
+          "duration": 0.652,
+          "pause_after": 0.0,
+          "confidence": -0.059
+        },
+        {
+          "word": "ATTENDANCE",
+          "start": 0.923,
+          "end": 1.595,
+          "duration": 0.672,
+          "pause_after": 0.0,
+          "confidence": -0.656
+        },
+        {
+          "word": "IS",
+          "start": 1.595,
+          "end": 1.806,
+          "duration": 0.211,
+          "pause_after": 0.0,
+          "confidence": -2.422
+        },
+        {
+          "word": "SELDOM",
+          "start": 1.806,
+          "end": 2.247,
+          "duration": 0.441,
+          "pause_after": 0.0,
+          "confidence": -0.838
+        },
+        {
+          "word": "REQUIRED",
+          "start": 2.247,
+          "end": 2.9,
+          "duration": 0.652,
+          "pause_after": null,
+          "confidence": -0.459
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "REGULAR",
+          "start": 0.271,
+          "end": 0.923,
+          "duration": 0.652,
+          "pause_after": 0.0,
+          "confidence": -0.059
+        },
+        {
+          "word": "ATTENDANCE",
+          "start": 0.923,
+          "end": 1.595,
+          "duration": 0.672,
+          "pause_after": 0.0,
+          "confidence": -0.656
+        },
+        {
+          "word": "IS",
+          "start": 1.595,
+          "end": 1.806,
+          "duration": 0.211,
+          "pause_after": 0.0,
+          "confidence": -2.422
+        },
+        {
+          "word": "SELDOM",
+          "start": 1.806,
+          "end": 2.247,
+          "duration": 0.441,
+          "pause_after": 0.0,
+          "confidence": -0.838
+        },
+        {
+          "word": "REQUIRED",
+          "start": 2.247,
+          "end": 2.9,
+          "duration": 0.652,
+          "pause_after": null,
+          "confidence": -0.459
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0164.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0168.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0172.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "EAT",
+          "start": 0.301,
+          "end": 0.713,
+          "duration": 0.412,
+          "pause_after": 0.0,
+          "confidence": -0.013
+        },
+        {
+          "word": "YOUR",
+          "start": 0.713,
+          "end": 0.904,
+          "duration": 0.191,
+          "pause_after": 0.0,
+          "confidence": -0.986
+        },
+        {
+          "word": "RAISINS",
+          "start": 0.904,
+          "end": 1.346,
+          "duration": 0.442,
+          "pause_after": 0.0,
+          "confidence": -0.418
+        },
+        {
+          "word": "OUTDOOR",
+          "start": 1.346,
+          "end": 1.929,
+          "duration": 0.583,
+          "pause_after": 0.0,
+          "confidence": -0.485
+        },
+        {
+          "word": "ON",
+          "start": 1.929,
+          "end": 2.1,
+          "duration": 0.171,
+          "pause_after": 0.0,
+          "confidence": -0.886
+        },
+        {
+          "word": "THE",
+          "start": 2.1,
+          "end": 2.261,
+          "duration": 0.161,
+          "pause_after": 0.0,
+          "confidence": -1.469
+        },
+        {
+          "word": "PORCH",
+          "start": 2.261,
+          "end": 2.602,
+          "duration": 0.342,
+          "pause_after": 0.0,
+          "confidence": -0.962
+        },
+        {
+          "word": "STEPS",
+          "start": 2.602,
+          "end": 3.125,
+          "duration": 0.522,
+          "pause_after": null,
+          "confidence": -0.259
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "EAT",
+          "start": 0.301,
+          "end": 0.713,
+          "duration": 0.412,
+          "pause_after": 0.0,
+          "confidence": -0.013
+        },
+        {
+          "word": "YOUR",
+          "start": 0.713,
+          "end": 0.904,
+          "duration": 0.191,
+          "pause_after": 0.0,
+          "confidence": -0.986
+        },
+        {
+          "word": "RAISINS",
+          "start": 0.904,
+          "end": 1.346,
+          "duration": 0.442,
+          "pause_after": 0.0,
+          "confidence": -0.418
+        },
+        {
+          "word": "OUTDOORS",
+          "start": 1.346,
+          "end": 1.979,
+          "duration": 0.633,
+          "pause_after": 0.0,
+          "confidence": -0.469
+        },
+        {
+          "word": "ON",
+          "start": 1.979,
+          "end": 2.1,
+          "duration": 0.121,
+          "pause_after": 0.0,
+          "confidence": -1.565
+        },
+        {
+          "word": "THE",
+          "start": 2.1,
+          "end": 2.261,
+          "duration": 0.161,
+          "pause_after": 0.0,
+          "confidence": -1.469
+        },
+        {
+          "word": "PORCH",
+          "start": 2.261,
+          "end": 2.602,
+          "duration": 0.342,
+          "pause_after": 0.0,
+          "confidence": -0.962
+        },
+        {
+          "word": "STEPS",
+          "start": 2.602,
+          "end": 3.125,
+          "duration": 0.522,
+          "pause_after": null,
+          "confidence": -0.259
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0181.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0182.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "IT",
+          "start": 0.402,
+          "end": 0.853,
+          "duration": 0.452,
+          "pause_after": 0.0,
+          "confidence": -0.0
+        },
+        {
+          "word": "WAS",
+          "start": 0.853,
+          "end": 1.054,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.945
+        },
+        {
+          "word": "A",
+          "start": 1.054,
+          "end": 1.145,
+          "duration": 0.09,
+          "pause_after": 0.0,
+          "confidence": -8.019
+        },
+        {
+          "word": "HUGE",
+          "start": 1.145,
+          "end": 1.526,
+          "duration": 0.382,
+          "pause_after": 0.0,
+          "confidence": -0.905
+        },
+        {
+          "word": "PART",
+          "start": 1.526,
+          "end": 1.837,
+          "duration": 0.311,
+          "pause_after": 0.0,
+          "confidence": -1.108
+        },
+        {
+          "word": "OF",
+          "start": 1.837,
+          "end": 1.958,
+          "duration": 0.12,
+          "pause_after": 0.0,
+          "confidence": -3.136
+        },
+        {
+          "word": "MY",
+          "start": 1.958,
+          "end": 2.098,
+          "duration": 0.141,
+          "pause_after": 0.0,
+          "confidence": -3.544
+        },
+        {
+          "word": "LIFE",
+          "start": 2.098,
+          "end": 2.47,
+          "duration": 0.371,
+          "pause_after": null,
+          "confidence": -0.617
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "IT",
+          "start": 0.402,
+          "end": 0.853,
+          "duration": 0.452,
+          "pause_after": 0.0,
+          "confidence": -0.0
+        },
+        {
+          "word": "WAS",
+          "start": 0.853,
+          "end": 1.054,
+          "duration": 0.201,
+          "pause_after": 0.0,
+          "confidence": -0.945
+        },
+        {
+          "word": "A",
+          "start": 1.054,
+          "end": 1.145,
+          "duration": 0.09,
+          "pause_after": 0.0,
+          "confidence": -8.019
+        },
+        {
+          "word": "HUGE",
+          "start": 1.145,
+          "end": 1.526,
+          "duration": 0.382,
+          "pause_after": 0.0,
+          "confidence": -0.905
+        },
+        {
+          "word": "PART",
+          "start": 1.526,
+          "end": 1.837,
+          "duration": 0.311,
+          "pause_after": 0.0,
+          "confidence": -1.108
+        },
+        {
+          "word": "OF",
+          "start": 1.837,
+          "end": 1.958,
+          "duration": 0.12,
+          "pause_after": 0.0,
+          "confidence": -3.136
+        },
+        {
+          "word": "MY",
+          "start": 1.958,
+          "end": 2.098,
+          "duration": 0.141,
+          "pause_after": 0.0,
+          "confidence": -3.544
+        },
+        {
+          "word": "LIFE",
+          "start": 2.098,
+          "end": 2.47,
+          "duration": 0.371,
+          "pause_after": null,
+          "confidence": -0.617
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0185.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0195.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0197.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0201.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "WE",
+          "start": 0.231,
+          "end": 0.573,
+          "duration": 0.342,
+          "pause_after": 0.0,
+          "confidence": -0.058
+        },
+        {
+          "word": "KNEW",
+          "start": 0.573,
+          "end": 0.865,
+          "duration": 0.292,
+          "pause_after": 0.0,
+          "confidence": -0.875
+        },
+        {
+          "word": "WE",
+          "start": 0.865,
+          "end": 1.056,
+          "duration": 0.191,
+          "pause_after": 0.0,
+          "confidence": -1.636
+        },
+        {
+          "word": "WEREN'T",
+          "start": 1.056,
+          "end": 1.469,
+          "duration": 0.412,
+          "pause_after": 0.0,
+          "confidence": -1.394
+        },
+        {
+          "word": "DOING",
+          "start": 1.469,
+          "end": 1.801,
+          "duration": 0.332,
+          "pause_after": 0.0,
+          "confidence": -1.097
+        },
+        {
+          "word": "WELL",
+          "start": 1.801,
+          "end": 2.083,
+          "duration": 0.282,
+          "pause_after": null,
+          "confidence": -2.113
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "WE",
+          "start": 0.231,
+          "end": 0.573,
+          "duration": 0.342,
+          "pause_after": 0.0,
+          "confidence": -0.058
+        },
+        {
+          "word": "KNEW",
+          "start": 0.573,
+          "end": 0.865,
+          "duration": 0.292,
+          "pause_after": 0.0,
+          "confidence": -0.875
+        },
+        {
+          "word": "WE",
+          "start": 0.865,
+          "end": 1.056,
+          "duration": 0.191,
+          "pause_after": 0.0,
+          "confidence": -1.636
+        },
+        {
+          "word": "WEREN'T",
+          "start": 1.056,
+          "end": 1.469,
+          "duration": 0.412,
+          "pause_after": 0.0,
+          "confidence": -1.394
+        },
+        {
+          "word": "DOING",
+          "start": 1.469,
+          "end": 1.801,
+          "duration": 0.332,
+          "pause_after": 0.0,
+          "confidence": -1.097
+        },
+        {
+          "word": "WELL",
+          "start": 1.801,
+          "end": 2.083,
+          "duration": 0.282,
+          "pause_after": null,
+          "confidence": -2.113
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "FC03_3_headMic_0204.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0007.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0010.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0015.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0021.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0030.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0033.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0036.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0041.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "BOTH",
+          "start": 1.682,
+          "end": 2.492,
+          "duration": 0.81,
+          "pause_after": 0.0,
+          "confidence": -0.131
+        },
+        {
+          "word": "THE",
+          "start": 2.492,
+          "end": 2.672,
+          "duration": 0.18,
+          "pause_after": 0.0,
+          "confidence": -0.973
+        },
+        {
+          "word": "EYES",
+          "start": 2.672,
+          "end": 3.532,
+          "duration": 0.861,
+          "pause_after": 0.0,
+          "confidence": -0.63
+        },
+        {
+          "word": "AND",
+          "start": 3.532,
+          "end": 4.073,
+          "duration": 0.54,
+          "pause_after": 0.0,
+          "confidence": -0.267
+        },
+        {
+          "word": "THE",
+          "start": 4.073,
+          "end": 4.353,
+          "duration": 0.28,
+          "pause_after": 0.0,
+          "confidence": -0.338
+        },
+        {
+          "word": "SPINNING",
+          "start": 4.353,
+          "end": 5.754,
+          "duration": 1.401,
+          "pause_after": 0.0,
+          "confidence": -0.682
+        },
+        {
+          "word": "OIL",
+          "start": 5.754,
+          "end": 6.254,
+          "duration": 0.5,
+          "pause_after": null,
+          "confidence": -0.285
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "BUT",
+          "start": 1.682,
+          "end": 2.592,
+          "duration": 0.91,
+          "pause_after": 0.0,
+          "confidence": -0.298
+        },
+        {
+          "word": "HE",
+          "start": 2.592,
+          "end": 2.772,
+          "duration": 0.18,
+          "pause_after": 0.0,
+          "confidence": -0.824
+        },
+        {
+          "word": "ALWAYS",
+          "start": 2.772,
+          "end": 3.532,
+          "duration": 0.761,
+          "pause_after": 0.0,
+          "confidence": -0.35
+        },
+        {
+          "word": "ANSWERS",
+          "start": 3.532,
+          "end": 4.453,
+          "duration": 0.921,
+          "pause_after": 0.21,
+          "confidence": -0.822
+        },
+        {
+          "word": "BANANA",
+          "start": 4.664,
+          "end": 5.914,
+          "duration": 1.251,
+          "pause_after": 0.0,
+          "confidence": -0.297
+        },
+        {
+          "word": "OIL",
+          "start": 5.914,
+          "end": 6.254,
+          "duration": 0.34,
+          "pause_after": null,
+          "confidence": -0.358
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0048.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0050.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0059.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0060.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0064.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0072.wav",
+    "hyp": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "THE",
+          "start": 0.781,
+          "end": 1.491,
+          "duration": 0.71,
+          "pause_after": 0.0,
+          "confidence": -0.408
+        },
+        {
+          "word": "ATMOSPHERE",
+          "start": 1.491,
+          "end": 2.851,
+          "duration": 1.361,
+          "pause_after": 0.0,
+          "confidence": -1.075
+        },
+        {
+          "word": "DIRECTED",
+          "start": 2.851,
+          "end": 3.972,
+          "duration": 1.121,
+          "pause_after": 0.21,
+          "confidence": -1.012
+        },
+        {
+          "word": "INCREASES",
+          "start": 4.182,
+          "end": 5.973,
+          "duration": 1.791,
+          "pause_after": 0.0,
+          "confidence": -0.648
+        },
+        {
+          "word": "WHILE",
+          "start": 5.973,
+          "end": 6.653,
+          "duration": 0.68,
+          "pause_after": 0.0,
+          "confidence": -0.374
+        },
+        {
+          "word": "THE",
+          "start": 6.653,
+          "end": 6.733,
+          "duration": 0.08,
+          "pause_after": 0.0,
+          "confidence": -3.147
+        },
+        {
+          "word": "OIL",
+          "start": 6.733,
+          "end": 7.314,
+          "duration": 0.58,
+          "pause_after": null,
+          "confidence": -0.483
+        }
+      ]
+    },
+    "ref": {
+      "status": "aligned",
+      "times": [
+        {
+          "word": "SHE",
+          "start": 1.941,
+          "end": 2.691,
+          "duration": 0.75,
+          "pause_after": 0.0,
+          "confidence": -0.759
+        },
+        {
+          "word": "HAD",
+          "start": 2.691,
+          "end": 3.031,
+          "duration": 0.34,
+          "pause_after": 0.0,
+          "confidence": -0.636
+        },
+        {
+          "word": "YOUR",
+          "start": 3.031,
+          "end": 3.612,
+          "duration": 0.58,
+          "pause_after": 0.0,
+          "confidence": -0.278
+        },
+        {
+          "word": "DARK",
+          "start": 3.612,
+          "end": 3.852,
+          "duration": 0.24,
+          "pause_after": 0.0,
+          "confidence": -1.602
+        },
+        {
+          "word": "SUIT",
+          "start": 3.852,
+          "end": 3.972,
+          "duration": 0.12,
+          "pause_after": 0.21,
+          "confidence": -5.293
+        },
+        {
+          "word": "IN",
+          "start": 4.182,
+          "end": 4.772,
+          "duration": 0.59,
+          "pause_after": 0.0,
+          "confidence": -0.114
+        },
+        {
+          "word": "GREASY",
+          "start": 4.772,
+          "end": 5.813,
+          "duration": 1.041,
+          "pause_after": 0.0,
+          "confidence": -0.394
+        },
+        {
+          "word": "WASH",
+          "start": 5.813,
+          "end": 6.133,
+          "duration": 0.32,
+          "pause_after": 0.0,
+          "confidence": -1.708
+        },
+        {
+          "word": "WATER",
+          "start": 6.133,
+          "end": 6.773,
+          "duration": 0.64,
+          "pause_after": 0.0,
+          "confidence": -0.36
+        },
+        {
+          "word": "ALL",
+          "start": 6.773,
+          "end": 6.993,
+          "duration": 0.22,
+          "pause_after": 0.0,
+          "confidence": -1.329
+        },
+        {
+          "word": "YEAR",
+          "start": 6.993,
+          "end": 7.534,
+          "duration": 0.54,
+          "pause_after": null,
+          "confidence": -0.459
+        }
+      ]
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0082.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0087.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0090.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_1_headMic_0093.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  },
+  {
+    "audio_name": "M01_3_arrayMic_0219.wav",
+    "hyp": {
+      "status": "no_internal_boundary",
+      "times": []
+    },
+    "ref": {
+      "status": "no_internal_boundary",
+      "times": []
+    }
+  }
+]

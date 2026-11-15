@@ -1,0 +1,15 @@
+{
+  "job_hash": "bf23ef8f85f5076c110c4e303e5ca825e7c8815210290bb254d3d4bed3ea936d",
+  "recording": "M04_2_0060",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 10,
+  "input_region": "HE SLOWLY TAKES A TURN WHILE IN THE OLD AIR",
+  "content": "HE SLOWLY TAKES A TURN WHILE IN THE OLD AIR",
+  "provider_id": "chatcmpl-7a390a13-e396-40c6-8375-6b01c2eda176",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8ea50c0161",
+  "accepted": "HE SLOWLY TAKES A TURN WHILE IN THE OLD AIR",
+  "guard_reason": "accepted"
+}

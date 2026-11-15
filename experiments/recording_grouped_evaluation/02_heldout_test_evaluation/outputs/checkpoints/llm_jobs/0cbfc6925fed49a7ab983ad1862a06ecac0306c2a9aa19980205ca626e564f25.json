@@ -1,0 +1,15 @@
+{
+  "job_hash": "0cbfc6925fed49a7ab983ad1862a06ecac0306c2a9aa19980205ca626e564f25",
+  "recording": "M05_2_0392",
+  "arm": "hidden",
+  "region": 0,
+  "start": 0,
+  "end": 2,
+  "input_region": "BEARDLESS TEAR",
+  "content": "BEARDLESS TEAR",
+  "provider_id": "chatcmpl-b702c0b2-8af1-43ef-84b6-a9cb15385b9d",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_df9620fe21",
+  "accepted": "BEARDLESS TEAR",
+  "guard_reason": "accepted"
+}

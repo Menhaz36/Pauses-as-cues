@@ -1,0 +1,15 @@
+{
+  "job_hash": "95050dc92785ead017e9eef1bf76b22fd48b7664f0e8552a546b05122b7609d1",
+  "recording": "M01_3_0268",
+  "arm": "hidden",
+  "region": 0,
+  "start": 2,
+  "end": 8,
+  "input_region": "OF THE GOOD WIND FOR US",
+  "content": "OF THE GOOD WIND FOR US",
+  "provider_id": "chatcmpl-2d3f3429-29fa-44b4-bf07-4afe1402f970",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_8ea50c0161",
+  "accepted": "OF THE GOOD WIND FOR US",
+  "guard_reason": "accepted"
+}

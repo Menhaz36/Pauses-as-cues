@@ -1,0 +1,15 @@
+{
+  "job_hash": "d45507460eb628d764f8468a1d000b36ee81e8cbc69bbc81fe8bd799d3ba5c64",
+  "recording": "M04_2_0052",
+  "arm": "visible",
+  "region": 0,
+  "start": 0,
+  "end": 3,
+  "input_region": "UDREME [1.2s_pause] SUBELM BUN",
+  "content": "UDREME [1.2s_pause] SUBELM BUN",
+  "provider_id": "chatcmpl-ce189c6c-1ab7-4f9b-9077-d67a8a7d85e3",
+  "provider_model": "openai/gpt-oss-120b",
+  "provider_fingerprint": "fp_c868cf1eaa",
+  "accepted": "UDREME [1.2s_pause] SUBELM BUN",
+  "guard_reason": "accepted"
+}

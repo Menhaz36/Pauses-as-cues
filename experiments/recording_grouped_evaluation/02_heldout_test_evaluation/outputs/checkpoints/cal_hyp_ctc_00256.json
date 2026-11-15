@@ -1,0 +1,883 @@
+[
+  {
+    "audio_name": "M04_2_headMic_0160.wav",
+    "recording": "M04_2_0160",
+    "speaker": "M04",
+    "reference": "Are your grades higher or lower than Nancy's",
+    "hypothesis": " I use higher or lower than 90",
+    "status": "unmappable_ctc_text",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0163.wav",
+    "recording": "M04_2_0163",
+    "speaker": "M04",
+    "reference": "snoop",
+    "hypothesis": " Snoop",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0165.wav",
+    "recording": "M04_2_0165",
+    "speaker": "M04",
+    "reference": "peer",
+    "hypothesis": " Spear beer",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "SPEAR",
+        "start": 1.973,
+        "end": 2.765,
+        "duration": 0.792,
+        "pause_after": 0.0,
+        "confidence": -0.477
+      },
+      {
+        "word": "BEER",
+        "start": 2.765,
+        "end": 2.925,
+        "duration": 0.161,
+        "pause_after": null,
+        "confidence": -1.783
+      }
+    ]
+  },
+  {
+    "audio_name": "M04_2_headMic_0207.wav",
+    "recording": "M04_2_0207",
+    "speaker": "M04",
+    "reference": "pay",
+    "hypothesis": " bed",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0223.wav",
+    "recording": "M04_2_0223",
+    "speaker": "M04",
+    "reference": "rocks",
+    "hypothesis": " Rock",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0238.wav",
+    "recording": "M04_2_0238",
+    "speaker": "M04",
+    "reference": "loop",
+    "hypothesis": " Loop",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M04_2_headMic_0270.wav",
+    "recording": "M04_2_0270",
+    "speaker": "M04",
+    "reference": "tile",
+    "hypothesis": " Spido",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0010.wav",
+    "recording": "M05_1_0010",
+    "speaker": "M05",
+    "reference": "giving those who observe him a pronounced feeling of the utmost respect",
+    "hypothesis": " is giving you with whoever in the previous feeling of a movie is back",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "IS",
+        "start": 0.11,
+        "end": 0.29,
+        "duration": 0.18,
+        "pause_after": 0.0,
+        "confidence": -0.719
+      },
+      {
+        "word": "GIVING",
+        "start": 0.29,
+        "end": 2.753,
+        "duration": 2.463,
+        "pause_after": 0.0,
+        "confidence": -0.49
+      },
+      {
+        "word": "YOU",
+        "start": 2.753,
+        "end": 3.134,
+        "duration": 0.38,
+        "pause_after": 0.0,
+        "confidence": -0.191
+      },
+      {
+        "word": "WITH",
+        "start": 3.134,
+        "end": 3.514,
+        "duration": 0.38,
+        "pause_after": 0.111,
+        "confidence": -0.39
+      },
+      {
+        "word": "WHOEVER",
+        "start": 3.625,
+        "end": 5.096,
+        "duration": 1.471,
+        "pause_after": 0.0,
+        "confidence": -0.352
+      },
+      {
+        "word": "IN",
+        "start": 5.096,
+        "end": 6.498,
+        "duration": 1.402,
+        "pause_after": 0.732,
+        "confidence": -0.236
+      },
+      {
+        "word": "THE",
+        "start": 7.23,
+        "end": 7.9,
+        "duration": 0.67,
+        "pause_after": 0.0,
+        "confidence": -0.307
+      },
+      {
+        "word": "PREVIOUS",
+        "start": 7.9,
+        "end": 9.341,
+        "duration": 1.442,
+        "pause_after": 0.391,
+        "confidence": -0.593
+      },
+      {
+        "word": "FEELING",
+        "start": 9.733,
+        "end": 10.943,
+        "duration": 1.211,
+        "pause_after": 0.691,
+        "confidence": -0.095
+      },
+      {
+        "word": "OF",
+        "start": 11.635,
+        "end": 12.165,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -0.004
+      },
+      {
+        "word": "A",
+        "start": 12.165,
+        "end": 12.545,
+        "duration": 0.38,
+        "pause_after": 0.031,
+        "confidence": -1.972
+      },
+      {
+        "word": "MOVIE",
+        "start": 12.576,
+        "end": 14.167,
+        "duration": 1.591,
+        "pause_after": 0.0,
+        "confidence": -0.413
+      },
+      {
+        "word": "IS",
+        "start": 14.167,
+        "end": 14.308,
+        "duration": 0.14,
+        "pause_after": 0.0,
+        "confidence": -1.319
+      },
+      {
+        "word": "BACK",
+        "start": 14.308,
+        "end": 15.028,
+        "duration": 0.721,
+        "pause_after": null,
+        "confidence": -0.235
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0017.wav",
+    "recording": "M05_1_0017",
+    "speaker": "M05",
+    "reference": "sheet",
+    "hypothesis": " sheet",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0024.wav",
+    "recording": "M05_1_0024",
+    "speaker": "M05",
+    "reference": "dagger",
+    "hypothesis": " Dagger",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0025.wav",
+    "recording": "M05_1_0025",
+    "speaker": "M05",
+    "reference": "floor",
+    "hypothesis": " Slider war",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "SLIDER",
+        "start": 1.403,
+        "end": 2.433,
+        "duration": 1.031,
+        "pause_after": 0.0,
+        "confidence": -0.178
+      },
+      {
+        "word": "WAR",
+        "start": 2.433,
+        "end": 2.894,
+        "duration": 0.461,
+        "pause_after": null,
+        "confidence": -0.073
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0027.wav",
+    "recording": "M05_1_0027",
+    "speaker": "M05",
+    "reference": "We have often urged him to walk more and smoke less",
+    "hypothesis": " We have often aged him to walk more and to move this",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "WE",
+        "start": 3.104,
+        "end": 3.634,
+        "duration": 0.53,
+        "pause_after": 0.0,
+        "confidence": -1.728
+      },
+      {
+        "word": "HAVE",
+        "start": 3.634,
+        "end": 3.894,
+        "duration": 0.26,
+        "pause_after": 0.0,
+        "confidence": -1.921
+      },
+      {
+        "word": "OFTEN",
+        "start": 3.894,
+        "end": 4.055,
+        "duration": 0.16,
+        "pause_after": 0.111,
+        "confidence": -5.962
+      },
+      {
+        "word": "AGED",
+        "start": 4.165,
+        "end": 5.076,
+        "duration": 0.91,
+        "pause_after": 0.711,
+        "confidence": -0.019
+      },
+      {
+        "word": "HIM",
+        "start": 5.787,
+        "end": 6.537,
+        "duration": 0.75,
+        "pause_after": 0.231,
+        "confidence": -0.029
+      },
+      {
+        "word": "TO",
+        "start": 6.768,
+        "end": 7.458,
+        "duration": 0.69,
+        "pause_after": 0.0,
+        "confidence": -0.009
+      },
+      {
+        "word": "WALK",
+        "start": 7.458,
+        "end": 7.959,
+        "duration": 0.501,
+        "pause_after": 0.131,
+        "confidence": -0.653
+      },
+      {
+        "word": "MORE",
+        "start": 8.09,
+        "end": 9.0,
+        "duration": 0.91,
+        "pause_after": 0.0,
+        "confidence": -0.109
+      },
+      {
+        "word": "AND",
+        "start": 9.0,
+        "end": 10.392,
+        "duration": 1.392,
+        "pause_after": 0.0,
+        "confidence": -1.451
+      },
+      {
+        "word": "TO",
+        "start": 10.392,
+        "end": 10.722,
+        "duration": 0.33,
+        "pause_after": 0.0,
+        "confidence": -0.357
+      },
+      {
+        "word": "MOVE",
+        "start": 10.722,
+        "end": 11.303,
+        "duration": 0.581,
+        "pause_after": 0.031,
+        "confidence": -0.537
+      },
+      {
+        "word": "THIS",
+        "start": 11.333,
+        "end": 12.164,
+        "duration": 0.83,
+        "pause_after": null,
+        "confidence": -0.242
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0056.wav",
+    "recording": "M05_1_0056",
+    "speaker": "M05",
+    "reference": "The quick brown fox jumps over the lazy dog",
+    "hypothesis": " That quick-print fox gem over that baby dog",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THAT",
+        "start": 1.322,
+        "end": 2.233,
+        "duration": 0.91,
+        "pause_after": 0.131,
+        "confidence": -0.068
+      },
+      {
+        "word": "QUICKPRINT",
+        "start": 2.363,
+        "end": 4.616,
+        "duration": 2.252,
+        "pause_after": 0.0,
+        "confidence": -0.363
+      },
+      {
+        "word": "FOX",
+        "start": 4.616,
+        "end": 5.477,
+        "duration": 0.861,
+        "pause_after": 0.371,
+        "confidence": -0.276
+      },
+      {
+        "word": "GEM",
+        "start": 5.848,
+        "end": 6.638,
+        "duration": 0.79,
+        "pause_after": 0.411,
+        "confidence": -0.078
+      },
+      {
+        "word": "OVER",
+        "start": 7.049,
+        "end": 7.86,
+        "duration": 0.81,
+        "pause_after": 0.691,
+        "confidence": -0.063
+      },
+      {
+        "word": "THAT",
+        "start": 8.551,
+        "end": 9.381,
+        "duration": 0.83,
+        "pause_after": 0.0,
+        "confidence": -0.028
+      },
+      {
+        "word": "BABY",
+        "start": 9.381,
+        "end": 10.483,
+        "duration": 1.101,
+        "pause_after": 0.011,
+        "confidence": -0.212
+      },
+      {
+        "word": "DOG",
+        "start": 10.493,
+        "end": 11.424,
+        "duration": 0.931,
+        "pause_after": null,
+        "confidence": -0.237
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0057.wav",
+    "recording": "M05_1_0057",
+    "speaker": "M05",
+    "reference": "he slowly takes a short walk in the open air each day",
+    "hypothesis": " He slowly takes a walk in the open air each day",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 0.42,
+        "end": 1.051,
+        "duration": 0.631,
+        "pause_after": 0.0,
+        "confidence": -0.006
+      },
+      {
+        "word": "SLOWLY",
+        "start": 1.051,
+        "end": 2.392,
+        "duration": 1.341,
+        "pause_after": 0.091,
+        "confidence": -0.396
+      },
+      {
+        "word": "TAKES",
+        "start": 2.483,
+        "end": 3.353,
+        "duration": 0.87,
+        "pause_after": 0.151,
+        "confidence": -0.175
+      },
+      {
+        "word": "A",
+        "start": 3.504,
+        "end": 4.014,
+        "duration": 0.51,
+        "pause_after": 0.0,
+        "confidence": -0.0
+      },
+      {
+        "word": "WALK",
+        "start": 4.014,
+        "end": 4.634,
+        "duration": 0.621,
+        "pause_after": 1.031,
+        "confidence": -0.197
+      },
+      {
+        "word": "IN",
+        "start": 5.666,
+        "end": 6.216,
+        "duration": 0.55,
+        "pause_after": 0.0,
+        "confidence": -0.035
+      },
+      {
+        "word": "THE",
+        "start": 6.216,
+        "end": 6.556,
+        "duration": 0.34,
+        "pause_after": 0.0,
+        "confidence": -0.287
+      },
+      {
+        "word": "OPEN",
+        "start": 6.556,
+        "end": 7.597,
+        "duration": 1.041,
+        "pause_after": 0.0,
+        "confidence": -0.152
+      },
+      {
+        "word": "AIR",
+        "start": 7.597,
+        "end": 8.197,
+        "duration": 0.601,
+        "pause_after": 0.111,
+        "confidence": -0.229
+      },
+      {
+        "word": "EACH",
+        "start": 8.308,
+        "end": 9.058,
+        "duration": 0.75,
+        "pause_after": 0.03,
+        "confidence": -0.145
+      },
+      {
+        "word": "DAY",
+        "start": 9.089,
+        "end": 9.899,
+        "duration": 0.81,
+        "pause_after": null,
+        "confidence": -0.243
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0065.wav",
+    "recording": "M05_1_0065",
+    "speaker": "M05",
+    "reference": "farm",
+    "hypothesis": " form",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0069.wav",
+    "recording": "M05_1_0069",
+    "speaker": "M05",
+    "reference": "sip",
+    "hypothesis": " ship",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0089.wav",
+    "recording": "M05_1_0089",
+    "speaker": "M05",
+    "reference": "he dresses himself in an ancient black frock coat",
+    "hypothesis": " He dresses his little in an ancient black frock through earth's",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "HE",
+        "start": 0.801,
+        "end": 1.472,
+        "duration": 0.67,
+        "pause_after": 0.0,
+        "confidence": -0.034
+      },
+      {
+        "word": "DRESSES",
+        "start": 1.472,
+        "end": 2.453,
+        "duration": 0.981,
+        "pause_after": 0.0,
+        "confidence": -0.339
+      },
+      {
+        "word": "HIS",
+        "start": 2.453,
+        "end": 3.013,
+        "duration": 0.561,
+        "pause_after": 0.0,
+        "confidence": -0.313
+      },
+      {
+        "word": "LITTLE",
+        "start": 3.013,
+        "end": 3.333,
+        "duration": 0.32,
+        "pause_after": 0.791,
+        "confidence": -1.423
+      },
+      {
+        "word": "IN",
+        "start": 4.125,
+        "end": 4.665,
+        "duration": 0.54,
+        "pause_after": 0.001,
+        "confidence": -0.002
+      },
+      {
+        "word": "AN",
+        "start": 4.665,
+        "end": 5.215,
+        "duration": 0.55,
+        "pause_after": 0.0,
+        "confidence": -0.361
+      },
+      {
+        "word": "ANCIENT",
+        "start": 5.215,
+        "end": 6.877,
+        "duration": 1.662,
+        "pause_after": 0.431,
+        "confidence": -0.561
+      },
+      {
+        "word": "BLACK",
+        "start": 7.308,
+        "end": 8.439,
+        "duration": 1.131,
+        "pause_after": 1.092,
+        "confidence": -0.196
+      },
+      {
+        "word": "FROCK",
+        "start": 9.53,
+        "end": 10.681,
+        "duration": 1.151,
+        "pause_after": 0.531,
+        "confidence": -0.256
+      },
+      {
+        "word": "THROUGH",
+        "start": 11.212,
+        "end": 12.243,
+        "duration": 1.031,
+        "pause_after": 0.411,
+        "confidence": -0.724
+      },
+      {
+        "word": "EARTH'S",
+        "start": 12.654,
+        "end": 13.484,
+        "duration": 0.83,
+        "pause_after": null,
+        "confidence": -0.784
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_1_headMic_0097.wav",
+    "recording": "M05_1_0097",
+    "speaker": "M05",
+    "reference": "jagged",
+    "hypothesis": " Jagged",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0105.wav",
+    "recording": "M05_1_0105",
+    "speaker": "M05",
+    "reference": "corn",
+    "hypothesis": " corn",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0115.wav",
+    "recording": "M05_1_0115",
+    "speaker": "M05",
+    "reference": "beat",
+    "hypothesis": " Gate",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0121.wav",
+    "recording": "M05_1_0121",
+    "speaker": "M05",
+    "reference": "the",
+    "hypothesis": " Dough",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_1_headMic_0124.wav",
+    "recording": "M05_1_0124",
+    "speaker": "M05",
+    "reference": "stick",
+    "hypothesis": " steak",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0012.wav",
+    "recording": "M05_2_0012",
+    "speaker": "M05",
+    "reference": "know",
+    "hypothesis": " Noews",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0014.wav",
+    "recording": "M05_2_0014",
+    "speaker": "M05",
+    "reference": "suit",
+    "hypothesis": " Shoot",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0019.wav",
+    "recording": "M05_2_0019",
+    "speaker": "M05",
+    "reference": "This was easy for us",
+    "hypothesis": " This was easy for us",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "THIS",
+        "start": 1.084,
+        "end": 1.754,
+        "duration": 0.67,
+        "pause_after": 0.0,
+        "confidence": -0.193
+      },
+      {
+        "word": "WAS",
+        "start": 1.754,
+        "end": 2.015,
+        "duration": 0.261,
+        "pause_after": 0.0,
+        "confidence": -0.679
+      },
+      {
+        "word": "EASY",
+        "start": 2.015,
+        "end": 2.175,
+        "duration": 0.16,
+        "pause_after": 0.0,
+        "confidence": -2.726
+      },
+      {
+        "word": "FOR",
+        "start": 2.175,
+        "end": 2.757,
+        "duration": 0.581,
+        "pause_after": 0.0,
+        "confidence": -0.534
+      },
+      {
+        "word": "US",
+        "start": 2.757,
+        "end": 2.997,
+        "duration": 0.241,
+        "pause_after": null,
+        "confidence": -0.557
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0033.wav",
+    "recording": "M05_2_0033",
+    "speaker": "M05",
+    "reference": "shear",
+    "hypothesis": " here",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0073.wav",
+    "recording": "M05_2_0073",
+    "speaker": "M05",
+    "reference": "ate",
+    "hypothesis": " wait",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0078.wav",
+    "recording": "M05_2_0078",
+    "speaker": "M05",
+    "reference": "They carried me off on the stretcher",
+    "hypothesis": " As I carried me off on Vatt's stretcher",
+    "status": "aligned",
+    "times": [
+      {
+        "word": "AS",
+        "start": 1.522,
+        "end": 2.092,
+        "duration": 0.57,
+        "pause_after": 0.0,
+        "confidence": -0.392
+      },
+      {
+        "word": "I",
+        "start": 2.092,
+        "end": 2.172,
+        "duration": 0.08,
+        "pause_after": 0.0,
+        "confidence": -1.662
+      },
+      {
+        "word": "CARRIED",
+        "start": 2.172,
+        "end": 3.083,
+        "duration": 0.911,
+        "pause_after": 0.0,
+        "confidence": -0.339
+      },
+      {
+        "word": "ME",
+        "start": 3.083,
+        "end": 3.694,
+        "duration": 0.611,
+        "pause_after": 0.071,
+        "confidence": -1.305
+      },
+      {
+        "word": "OFF",
+        "start": 3.765,
+        "end": 4.395,
+        "duration": 0.63,
+        "pause_after": 0.431,
+        "confidence": -0.207
+      },
+      {
+        "word": "ON",
+        "start": 4.826,
+        "end": 5.396,
+        "duration": 0.57,
+        "pause_after": 0.331,
+        "confidence": -0.001
+      },
+      {
+        "word": "VATT'S",
+        "start": 5.727,
+        "end": 7.058,
+        "duration": 1.331,
+        "pause_after": 0.0,
+        "confidence": -0.479
+      },
+      {
+        "word": "STRETCHER",
+        "start": 7.058,
+        "end": 8.359,
+        "duration": 1.301,
+        "pause_after": null,
+        "confidence": -0.469
+      }
+    ]
+  },
+  {
+    "audio_name": "M05_2_headMic_0084.wav",
+    "recording": "M05_2_0084",
+    "speaker": "M05",
+    "reference": "gnaw",
+    "hypothesis": " doll",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0098.wav",
+    "recording": "M05_2_0098",
+    "speaker": "M05",
+    "reference": "here",
+    "hypothesis": " here",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0112.wav",
+    "recording": "M05_2_0112",
+    "speaker": "M05",
+    "reference": "jungle",
+    "hypothesis": " Dingle",
+    "status": "no_internal_boundary",
+    "times": []
+  },
+  {
+    "audio_name": "M05_2_headMic_0113.wav",
+    "recording": "M05_2_0113",
+    "speaker": "M05",
+    "reference": "were",
+    "hypothesis": " Wilt",
+    "status": "no_internal_boundary",
+    "times": []
+  }
+]
