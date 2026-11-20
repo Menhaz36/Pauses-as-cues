@@ -5,6 +5,9 @@ Code, notebooks and results for the paper
 > M. Abdin, R. Sharma, B. Kundu. *Analysing whether Inter-word Pauses are Reliable Cues
 > for Locating ASR Errors in Dysarthric Speech with Pause-Guided LLM Post-Correction.*
 
+Dept. of CSE (AIML) CSBS, Institute of Engineering and Management, Kolkata, India  
+Email: menhazul.abdin2023@iem.edu.in, ruchika.sharma2023@iem.edu.in, bibekananda.kundu@iem.edu.in
+
 The study asks two questions on the TORGO corpus: do long inter-word pauses mark where
 an ASR system makes errors, and can a large language model repair the errors near those
 pauses? The pipeline is a fine-tuned Whisper-tiny recognizer, word timings from CTC
